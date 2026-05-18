@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[2025 Gaokao Geography（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|openAI|gpt-5-2025-08-07|75.9%|61s|2229|110.9|1|
+|Commercial|Alibaba|qvq-max-2025-05-15|72.3%|97s|2038|45.0|2|
+|Commercial|Doubao|doubao-seed-1-6-250615|72.3%|/|1214|3.3|3|
+|Commercial|google|gemini-2.5-pro|72.3%|106s|3094|196.9|4|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|70.7%|65s|1974|13.3|5|
+|Commercial|StepFun|step-r1-v-mini|70.7%|90s|3443|21.9|6|
+|Commercial|google|gemini-2.5-flash|70.2%|99s|3352|53.9|7|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|68.6%|114s|3186|1.7|8|
+|Commercial|Alibaba|qvq-plus-2025-05-15|68.1%|124s|2499|10.0|9|
+|Open-source|Zhipu AI|GLM-4.5V|68.1%|14s|2035|7.2|10|
+|Commercial|openAI|gpt-5-mini-2025-08-07|67.0%|67s|1566|13.9|11|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|66.0%|78s|1294|6.6|12|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|65.4%|112s|3609|6.8|13|
+|Open-source|StepFun|step-3|64.9%|126s|2484|9.1|14|
+|Commercial|openAI|gpt-4.1|63.9%|68s|1108|29.1|15|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|63.9%|54s|1034|5.1|16|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|63.4%|42s|1714|5.1|17|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|62.0%|18s|3198|0.0|18|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|61.8%|55s|2846|5.7|19|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|61.8%|88s|2868|0.0|20|
+|Commercial|openAI|gpt-5-nano-2025-08-07|59.7%|92s|2659|5.9|21|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|58.6%|/|1204|0.6|22|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|58.1%|68s|2198|8.6|23|
+|Open-source|Zhipu AI|GLM-4.6V|58.0%|24s|2877|4.6|24|
+|Commercial|openAI|gpt-4.1-mini|57.1%|68s|989|5.2|25|
+|Commercial|google|gemini-2.5-flash-lite|57.1%|93s|1565|3.6|26|
+|Commercial|Moonshot|kimi-latest-8k|56.0%|72s|1484|17.8|27|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|55.5%|53s|2260|9.0|28|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|55.5%|7s|1258|1.6|29|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|53.4%|95s|3164|13.1|30|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|50.8%|7s|2397|0.0|31|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|50.3%|96s|1035|2.1|32|
+|Commercial|Zhipu AI|GLM-4V-Flash|48.7%|5s|2276|0.0|33|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|47.1%|90s|941|1.3|34|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|46.6%|72s|2961|1.0|35|
+
+
+![lin](../pic/2025 Gaokao Geography（Image Questions）.png)

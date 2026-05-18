@@ -1,0 +1,104 @@
+
+|Category|Organization|Model|[Insurance Practitioner Qualification]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|Alibaba|qwen-long-2025-01-25|84.1%|18s|374|0.6|1|
+|Commercial|Doubao|Doubao-1.5-pro-32k-250115|81.2%|11s|404|0.7|2|
+|Commercial|Baichuan|Baichuan4-Turbo|78.3%|/|/|/|3|
+|Open-source|minimax|MiniMax-Text-01|78.3%|14s|915|7.3|4|
+|Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-14B|76.8%|/|/|/|5|
+|Commercial|Doubao|Doubao-1.5-lite-32k-250115|76.8%|6s|285|0.1|6|
+|Commercial|Moonshot|kimi-latest-8k|76.8%|19s|560|6.7|7|
+|Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-32B|75.4%|103s|3738|4.7|8|
+|Commercial|Qihoo 360360|360zhinao2-o1|75.4%|/|/|/|9|
+|Commercial|StepFun|step-2-mini|73.9%|8s|297|0.5|10|
+|Commercial|Baidu|ERNIE-Speed-8K|68.1%|/|/|/|11|
+|Commercial|Baidu|ERNIE-Lite-8K|68.1%|/|/|/|12|
+|Open-source|Google|gemma-3-27b-it|68.1%|/|/|/|13|
+|Commercial|Baichuan|Baichuan4-Air|65.2%|/|/|/|14|
+|Open-source|Google|gemma-3-4b-it|60.9%|/|/|/|15|
+|Open-source|Google|gemma-3-12b-it|59.4%|/|/|/|16|
+|Commercial|Mistral|ministral-8b|56.5%|/|/|/|17|
+|Commercial|Mistral|ministral-3b|42.0%|/|/|/|18|
+|Commercial|iFlytek|xunfei-spark-lite|42.0%|/|/|/|19|
+|Open-source|DeepSeek|deepseek-chat-v3-0324|nan%|123s|392|2.6|20|
+|Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|nan%|7s|597|1.2|21|
+|Open-source|Meta|Llama-4-Maverick-17B-128E-Instruct-FP8|nan%|13s|602|2.3|22|
+|Open-source|Zhipu AI|GLM-4-9B-0414|nan%|11s|399|0.0|23|
+|Open-source|Zhipu AI|GLM-Z1-9B-0414|nan%|60s|2394|0.0|24|
+|Open-source|Zhipu AI|GLM-4-32B-0414|nan%|11s|357|0.7|25|
+|Open-source|Zhipu AI|GLM-Z1-32B-0414|nan%|258s|1508|5.8|26|
+|Open-source|Alibaba|Qwen3-32B|nan%|27s|1126|4.2|27|
+|Open-source|Alibaba|Qwen3-14B|nan%|25s|988|1.8|28|
+|Open-source|Alibaba|Qwen3-8B|nan%|600s|14721|0.0|29|
+|Open-source|Alibaba|Qwen3-4B|nan%|25s|2330|6.7|30|
+|Open-source|Alibaba|Qwen3-1.7B|nan%|13s|1300|3.6|31|
+|Open-source|Alibaba|Qwen3-0.6B|nan%|7s|1431|4.0|32|
+|Commercial|openAI|o4-mini|nan%|32s|1303|39.1|33|
+|Open-source|DeepSeek|DeepSeek-R1-0528|nan%|256s|2132|33.1|34|
+|Commercial|Baidu|ERNIE-4.5-Turbo-32K|nan%|17s|440|1.2|35|
+|Commercial|Baidu|ERNIE-X1-Turbo-32K|nan%|158s|2261|8.8|36|
+|Open-source|DeepSeek|DeepSeek-R1-0528-Qwen3-8B|nan%|281s|2122|0.0|37|
+|Commercial|anthropic|claude-4-sonnet|nan%|44s|595|51.4|38|
+|Commercial|anthropic|claude-4-sonnet-thinking|nan%|54s|1739|175.7|39|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|nan%|4s|388|0.4|40|
+|Commercial|Doubao|doubao-seed-1-6-flash-thinking-250615|nan%|6s|633|0.8|41|
+|Commercial|Doubao|doubao-seed-1-6-250615|nan%|111s|486|3.0|42|
+|Open-source|minimax|MiniMax-M1|nan%|227s|4160|29.9|43|
+|Open-source|Baidu|ERNIE-4.5-0.3B|nan%|2s|387|0.0|44|
+|Open-source|Baidu|ERNIE-4.5-21B-A3B|nan%|3s|347|0.0|45|
+|Open-source|Baidu|ERNIE-4.5-300B-A47B|nan%|12s|411|2.7|46|
+|Open-source|Tencent|Hunyuan-A13B-Instruct|nan%|58s|1606|6.2|47|
+|Commercial|google|gemini-2.5-flash|nan%|12s|2146|37.3|48|
+|Commercial|XAI|grok-4-0709|nan%|587s|1541|159.5|49|
+|Commercial|XAI|grok-3-mini|nan%|253s|1161|4.1|50|
+|Commercial|google|gemini-2.5-pro|nan%|29s|2317|161.7|51|
+|Open-source|Moonshot|kimi-k2-0711-preview|nan%|24s|471|6.6|52|
+|Commercial|Tencent|hunyuan-t1-20250711|nan%|22s|1330|4.9|53|
+|Open-source|Huawei|pangu-pro-moe|nan%|67s|1181|4.4|54|
+|Commercial|Alibaba|qwen-turbo-2025-07-15|nan%|9s|396|0.2|55|
+|Open-source|Tencent|Hunyuan-A13B-Instruct-nothink|nan%|10s|342|1.1|56|
+|Open-source|Alibaba|qwen3-235b-a22b-instruct-2507|nan%|13s|567|3.9|57|
+|Commercial|Doubao|doubao-seed-1-6-thinking-250715|nan%|24s|1581|11.9|58|
+|Open-source|Alibaba|qwen3-235b-a22b-thinking-2507|nan%|188s|3002|58.2|59|
+|Commercial|iFlytek|xunfei-spark-x1-0725|nan%|/|950|11.4|60|
+|Open-source|Alibaba|Qwen3-0.6B-nothink|nan%|11s|248|0.5|61|
+|Open-source|Alibaba|Qwen3-1.7B-nothink|nan%|16s|508|1.2|62|
+|Open-source|Alibaba|Qwen3-4B-nothink|nan%|13s|492|1.2|63|
+|Open-source|Alibaba|Qwen3-8B-nothink|nan%|21s|542|0.0|64|
+|Open-source|Alibaba|Qwen3-14B-nothink|nan%|22s|492|0.8|65|
+|Open-source|Alibaba|Qwen3-32B-nothink|nan%|140s|613|2.1|66|
+|Commercial|Zhipu AI|GLM-4.5-Flash|nan%|43s|2376|0.0|67|
+|Open-source|Zhipu AI|GLM-4.5-Air|nan%|41s|1854|10.7|68|
+|Open-source|Zhipu AI|GLM-4.5|nan%|99s|2603|35.5|69|
+|Open-source|Alibaba|Qwen3-30B-A3B-Instruct-2507|nan%|4s|596|1.6|70|
+|Open-source|Alibaba|Qwen3-30B-A3B-Thinking-2507|nan%|85s|3195|8.7|71|
+|Open-source|StepFun|step-3|nan%|157s|2901|11.4|72|
+|Open-source|Zhipu AI|GLM-4.5-nothink|nan%|27s|789|10.0|73|
+|Open-source|Zhipu AI|GLM-4.5-Air-nothink|nan%|14s|951|5.2|74|
+|Commercial|Zhipu AI|GLM-4.5-Flash-nothink|nan%|18s|871|0.0|75|
+|Open-source|openAI|gpt-oss-120b(new)|nan%|7s|735|2.0|76|
+|Open-source|openAI|gpt-oss-20b(new)|nan%|12s|1117|1.2|77|
+|Commercial|openAI|gpt-5-2025-08-07(new)|nan%|79s|479|28.2|78|
+|Commercial|openAI|gpt-5-mini-2025-08-07(new)|nan%|38s|896|11.6|79|
+|Commercial|openAI|gpt-5-nano-2025-08-07(new)|nan%|135s|2134|5.9|80|
+|Commercial|Tencent|hunyuan-turbos-20250716|nan%|33s|1463|2.8|81|
+|Commercial|Alibaba|qwen-flash-2025-07-28|nan%|9s|756|1.0|82|
+|Commercial|Alibaba|qwen-flash-think-2025-07-28|nan%|42s|4386|6.4|83|
+|Open-source|DeepSeek|DeepSeek-V3.1(new)|nan%|17s|294|2.9|84|
+|Open-source|DeepSeek|DeepSeek-V3.1-Think(new)|nan%|50s|1020|11.6|85|
+|Commercial|google|gemini-2.5-flash-lite|nan%|3s|508|1.3|86|
+|Commercial|Mistral|mistral-medium-2508(new)|nan%|18s|603|7.3|87|
+|Open-source|Mistral|Magistral-Small-2507|nan%|156s|5954|63.8|88|
+|Open-source|Mistral|Mistral-Small-3.2-24B-Instruct-2506|nan%|137s|429|0.8|89|
+|Commercial|Alibaba|qwen-plus-2025-07-28|nan%|14s|539|1.0|90|
+|Commercial|Alibaba|qwen-plus-think-2025-07-28|nan%|/|4017|31.4|91|
+|Commercial|Alibaba|qwen-turbo-think-2025-07-15|nan%|/|2655|7.7|92|
+|Commercial|Alibaba|qwen3-max-preview(new)|nan%|11s|502|10.3|93|
+|Open-source|Doubao|Seed-OSS-36B-Instruct(new)|nan%|113s|2107|8.2|94|
+|Open-source|Alibaba|qwen3-next-80b-a3b-instruct(new)|nan%|7s|544|1.9|95|
+|Open-source|DeepSeek|DeepSeek-V3.2-Exp(new)|nan%|25s|465|1.3|96|
+|Open-source|DeepSeek|DeepSeek-V3.2-Exp-Think(new)|nan%|56s|1330|3.9|97|
+|Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|17s|721|1.3|98|
+
+
+![lin](../pic/Insurance Practitioner Qualification.png)

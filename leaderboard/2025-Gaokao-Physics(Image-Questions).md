@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[2025 Gaokao Physics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|openAI|gpt-5-2025-08-07|74.5%|126s|4634|297.6|1|
+|Commercial|google|gemini-2.5-pro|72.5%|140s|8139|558.7|2|
+|Commercial|google|gemini-2.5-flash|66.0%|110s|8044|137.9|3|
+|Commercial|openAI|gpt-5-mini-2025-08-07|64.5%|79s|3479|44.7|4|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|61.0%|143s|4133|15.5|5|
+|Commercial|StepFun|step-r1-v-mini|60.5%|149s|7965|60.1|6|
+|Open-source|Zhipu AI|GLM-4.5V|59.5%|46s|3604|19.3|7|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|56.5%|123s|4988|40.9|8|
+|Open-source|StepFun|step-3|56.0%|445s|8262|32.1|9|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|54.5%|50s|1322|8.2|10|
+|Commercial|Doubao|doubao-seed-1-6-250615|54.0%|/|1377|7.3|11|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|52.0%|31s|3866|0.0|12|
+|Commercial|Alibaba|qvq-plus-2025-05-15|51.5%|207s|5294|25.0|13|
+|Commercial|openAI|gpt-5-nano-2025-08-07|50.0%|110s|7065|19.3|14|
+|Commercial|openAI|gpt-4.1|49.0%|54s|1444|57.6|15|
+|Commercial|Alibaba|qvq-max-2025-05-15|48.0%|165s|3507|100.6|16|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|48.0%|123s|4208|3.8|17|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|47.5%|/|1803|2.1|18|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|47.0%|85s|2589|12.9|19|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|45.5%|97s|1251|8.3|20|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|45.0%|62s|1972|3.9|21|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|44.0%|75s|1998|0.0|22|
+|Commercial|openAI|gpt-4.1-mini|44.0%|81s|1412|12.4|23|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|43.0%|100s|1555|2.9|24|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|42.0%|89s|907|3.7|25|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|39.5%|12s|1530|2.5|26|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|36.0%|51s|945|3.8|27|
+|Commercial|google|gemini-2.5-flash-lite|36.0%|106s|11751|33.0|28|
+|Open-source|Zhipu AI|GLM-4.6V|36.0%|24s|1688|3.6|29|
+|Commercial|Moonshot|kimi-latest-8k|33.5%|83s|1747|21.0|30|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|29.5%|10s|1095|0.0|31|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|29.0%|79s|999|0.3|32|
+|Commercial|Zhipu AI|GLM-4V-Flash|27.5%|7s|935|0.0|33|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|16.5%|90s|968|2.3|34|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|14.5%|90s|826|2.3|35|
+
+
+![lin](../pic/2025 Gaokao Physics（Image Questions）.png)

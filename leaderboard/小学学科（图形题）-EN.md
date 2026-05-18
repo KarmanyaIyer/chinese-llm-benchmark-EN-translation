@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[Primary School Subjects (Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|google|gemini-2.5-pro|66.4%|168s|3571|234.6|1|
+|Commercial|openAI|gpt-5-2025-08-07|66.3%|156s|1823|107.6|2|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|61.7%|39s|1674|12.1|3|
+|Commercial|google|gemini-2.5-flash|59.0%|140s|3942|65.3|4|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|57.8%|23s|724|4.0|5|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|54.4%|/|936|1.2|6|
+|Commercial|Doubao|doubao-seed-1-6-250615|54.2%|/|557|3.1|7|
+|Open-source|StepFun|step-3|53.5%|576s|3289|12.4|8|
+|Commercial|openAI|gpt-5-mini-2025-08-07|52.6%|151s|1441|18.7|9|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|52.5%|68s|1830|6.9|10|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|52.0%|33s|1985|8.7|11|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|49.4%|30s|290|1.2|12|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|49.4%|38s|531|3.8|13|
+|Commercial|StepFun|step-r1-v-mini|48.6%|68s|3252|23.2|14|
+|Commercial|Alibaba|qvq-max-2025-05-15|48.5%|67s|1410|41.1|15|
+|Commercial|openAI|gpt-4.1|48.2%|24s|596|18.3|16|
+|Open-source|Zhipu AI|GLM-4.5V|45.7%|37s|1275|7.0|17|
+|Commercial|Alibaba|qvq-plus-2025-05-15|43.4%|155s|2667|12.8|18|
+|Commercial|google|gemini-2.5-flash-lite|42.5%|99s|4176|11.3|19|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|41.0%|45s|627|1.2|20|
+|Commercial|openAI|gpt-4.1-mini|40.5%|31s|411|3.2|21|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|39.3%|22s|2357|0.0|22|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|37.6%|21s|698|2.3|23|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|35.3%|61s|1796|1.7|24|
+|Commercial|openAI|gpt-5-nano-2025-08-07|34.7%|144s|3408|9.4|25|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|33.6%|5s|567|0.9|26|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|32.1%|39s|1246|2.5|27|
+|Open-source|Zhipu AI|GLM-4.6V|31.7%|20s|939|2.5|28|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|29.9%|33s|395|1.6|29|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|28.1%|13s|1035|0.0|30|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|27.7%|17s|297|0.6|31|
+|Commercial|Moonshot|kimi-latest-8k|27.5%|36s|1334|16.0|32|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|19.6%|22s|301|0.9|33|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|13.7%|5s|310|0.1|34|
+|Commercial|Zhipu AI|GLM-4V-Flash|7.8%|8s|367|0.0|35|
+
+
+![lin](../pic/Primary School Subjects (Image Questions).png)

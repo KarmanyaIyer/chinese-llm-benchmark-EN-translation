@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[2025 Gaokao（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|google|gemini-2.5-pro|75.7%|144s|4953|332.1|1|
+|Commercial|google|gemini-2.5-flash|70.4%|128s|4653|77.5|2|
+|Commercial|openAI|gpt-5-2025-08-07|68.8%|165s|3009|179.7|3|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|66.8%|127s|2776|21.0|4|
+|Commercial|Doubao|doubao-seed-1-6-250615|66.5%|/|1116|4.7|5|
+|Open-source|StepFun|step-3|65.1%|226s|4314|16.4|6|
+|Open-source|Zhipu AI|GLM-4.5V|63.1%|25s|2267|10.6|7|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|62.7%|70s|2253|7.8|8|
+|Commercial|openAI|gpt-5-mini-2025-08-07|62.5%|101s|2139|25.0|9|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|61.9%|141s|3082|2.5|10|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|61.2%|104s|1045|5.8|11|
+|Commercial|StepFun|step-r1-v-mini|60.3%|126s|4512|32.5|12|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|59.6%|82s|1944|3.9|13|
+|Commercial|Alibaba|qvq-max-2025-05-15|57.9%|163s|2392|63.4|14|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|57.5%|/|1068|0.9|15|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|57.3%|101s|1942|0.0|16|
+|Commercial|Alibaba|qvq-plus-2025-05-15|56.5%|170s|3251|14.6|17|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|53.7%|106s|1185|7.4|18|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|53.5%|89s|2135|9.3|19|
+|Commercial|openAI|gpt-4.1|52.8%|73s|1145|40.6|20|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|50.5%|108s|1184|4.9|21|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|47.9%|122s|1749|3.3|22|
+|Commercial|google|gemini-2.5-flash-lite|47.2%|125s|4921|13.3|23|
+|Open-source|Zhipu AI|GLM-4.6V|47.1%|22s|1707|3.5|24|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|46.7%|23s|2906|0.0|25|
+|Commercial|Moonshot|kimi-latest-8k|43.5%|120s|1490|17.9|26|
+|Commercial|openAI|gpt-5-nano-2025-08-07|43.2%|118s|4156|10.8|27|
+|Commercial|openAI|gpt-4.1-mini|43.0%|88s|1087|8.4|28|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|42.9%|7s|1201|0.0|29|
+|Commercial|Zhipu AI|GLM-4V-Flash|42.0%|5s|1086|0.0|30|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|39.9%|95s|1407|0.5|31|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|39.2%|10s|1295|2.0|32|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|38.3%|75s|1034|4.1|33|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|27.4%|109s|894|1.9|34|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|26.6%|120s|865|2.2|35|
+
+
+![lin](../pic/2025 Gaokao（Image Questions）.png)

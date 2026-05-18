@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[2025 Gaokao Chinese（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|google|gemini-2.5-flash|100.0%|138s|2558|38.1|1|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|100.0%|166s|2117|1.9|2|
+|Commercial|google|gemini-2.5-pro|100.0%|124s|3306|206.9|3|
+|Open-source|StepFun|step-3|100.0%|85s|1870|6.5|4|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|100.0%|101s|1609|3.2|5|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|66.7%|109s|655|2.7|6|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|66.7%|24s|1261|7.8|7|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|66.7%|/|469|0.3|8|
+|Commercial|StepFun|step-r1-v-mini|66.7%|159s|2325|15.7|9|
+|Commercial|Doubao|doubao-seed-1-6-250615|66.7%|/|512|1.9|10|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|66.7%|121s|1655|0.0|11|
+|Commercial|openAI|gpt-4.1|66.7%|9s|703|19.3|12|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|66.7%|134s|381|1.6|13|
+|Commercial|Moonshot|kimi-latest-8k|66.7%|214s|1419|17.0|14|
+|Commercial|Zhipu AI|GLM-4V-Flash|66.7%|3s|469|0.0|15|
+|Commercial|openAI|gpt-5-2025-08-07|50.0%|396s|2848|173.9|16|
+|Open-source|Zhipu AI|GLM-4.5V|50.0%|9s|968|4.7|17|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|50.0%|8s|469|1.2|18|
+|Commercial|google|gemini-2.5-flash-lite|50.0%|166s|804|1.2|19|
+|Commercial|openAI|gpt-5-mini-2025-08-07|50.0%|75s|1456|17.2|20|
+|Open-source|Zhipu AI|GLM-4.6V|50.0%|23s|1241|3.2|21|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|33.3%|72s|723|4.8|22|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|33.3%|6s|1631|5.6|23|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|33.3%|125s|2352|0.8|24|
+|Commercial|openAI|gpt-4.1-mini|33.3%|131s|421|2.2|25|
+|Commercial|Alibaba|qvq-plus-2025-05-15|33.3%|184s|1549|6.9|26|
+|Commercial|Alibaba|qvq-max-2025-05-15|33.3%|171s|967|24.1|27|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|33.3%|4s|582|0.0|28|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|/%|173s|492|2.0|29|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|/%|169s|499|1.1|30|
+|Commercial|openAI|gpt-5-nano-2025-08-07|/%|71s|2580|6.7|31|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|/%|215s|457|1.2|32|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|/%|10s|794|1.3|33|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|/%|18s|1586|0.0|34|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|/%|172s|962|1.8|35|
+
+
+![lin](../pic/2025 Gaokao Chinese（Image Questions）.png)
