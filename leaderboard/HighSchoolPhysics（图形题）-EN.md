@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolPhysics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolPhysics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5-2025-08-07|75.3%|162s|5600|346.8|1|
 |Commercial|Doubao|doubao-seed-1-6-flash-250615|60.5%|/|1695|1.1|2|

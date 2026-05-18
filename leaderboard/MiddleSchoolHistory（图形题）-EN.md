@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolHistory（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolHistory(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|StepFun|step-3|80.0%|756s|2067|7.6|1|
 |Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|80.0%|306s|1761|7.0|2|

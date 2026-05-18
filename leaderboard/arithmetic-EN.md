@@ -1,14 +1,14 @@
-排行榜
+Leaderboard
 ![lin](../pic/arithmetic.png)
 
 
-评测集说明：
- - eval_2int：2-integer addition/subtraction，Example“918 + 474 =”
- - eval_3int：3-integer addition/subtraction，Example“166 + 215 + 53 =”
- - eval_4int：4-integer addition/subtraction，Example“945 + 820 + 810 + 159 =	”
- - eval_5int：5-integer addition/subtraction，Example“901 + 306 + 69 + 830 + 816 =	”
- - eval_2float：2-float arithmetic，Example"34.1 + 10.3 ="
- - eval_3float：3-float arithmetic，Example"0.97 + 0.4 / 4.51 ="
+Evaluation Set Description: 
+ - eval_2int: 2-integer addition/subtraction，Example“918 + 474 =”
+ - eval_3int: 3-integer addition/subtraction，Example“166 + 215 + 53 =”
+ - eval_4int: 4-integer addition/subtraction，Example“945 + 820 + 810 + 159 =	”
+ - eval_5int: 5-integer addition/subtraction，Example“901 + 306 + 69 + 830 + 816 =	”
+ - eval_2float: 2-float arithmetic，Example"34.1 + 10.3 ="
+ - eval_3float: 3-float arithmetic，Example"0.97 + 0.4 / 4.51 ="
 
 | Model                      | Total Score   | eval_2int | eval_3int | eval_4int | eval_5int | eval_2float | eval_3float |
 |--------------------------|------|-----------|-----------|-----------|-----------|-------------|-------------|
@@ -21,7 +21,7 @@
 | DeepSeek-V2              | 96.7 | 100       | 100       | 97        | 94        | 98          | 91          |
 | glm-4                    | 78   | 99        | 78        | 73        | 82        | 76          | 60          |
 | moonshot-v1-8k           | 79.3 | 56        | 94        | 92        | 90        | 72          | 72          |
-| ERNIE-4.0（Calculator）           | 100  | 100       | 100       | 100       | 100       | 100         | 100         |
+| ERNIE-4.0(Calculator)           | 100  | 100       | 100       | 100       | 100       | 100         | 100         |
 | yi-spark                 | 83.3 | 98        | 86        | 85        | 79        | 87          | 65          |
 | GLM-4-Flash              | 75.5 | 97        | 86        | 74        | 75        | 70          | 51          |
 | qwen-long                | 83.3 | 98        | 89        | 81        | 84        | 86          | 62          |
@@ -47,7 +47,7 @@
 | abab5.5-chat             | 39.7 | 97        | 36        | 12        | 4         | 69          | 20          |
 | qwen-turbo               | 81.3 | 97        | 81        | 90        | 79        | 83          | 58          |
 | gpt-4-turbo              | 96.5 | 100       | 100       | 100       | 100       | 95          | 84          |
-| ERNIE-3.5-8K（Calculator）        | 100  | 100       | 100       | 100       | 100       | 100         | 100         |
+| ERNIE-3.5-8K(Calculator)        | 100  | 100       | 100       | 100       | 100       | 100         | 100         |
 | xunfei-v3-pro            | 94   | 100       | 99        | 98        | 96        | 91          | 80          |
 | xunfei-v3.5-max          | 93.5 | 100       | 99        | 99        | 95        | 89          | 79          |
 | gpt-4                    | 86.5 | 100       | 99        | 99        | 86        | 89          | 46          |

@@ -1,4 +1,4 @@
-##### （4）Output Price¥1以下CommercialModel排行榜
+##### (4)Output Price¥1and BelowCommercial Models Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|LongCat-Flash-Thinking-2601|Meituan|¥0.0|        62.7%| |        49.7%|        75.7%|        80.9%|        82.7%|        73.6%|        60.7%|        66.3%|        34.1%|

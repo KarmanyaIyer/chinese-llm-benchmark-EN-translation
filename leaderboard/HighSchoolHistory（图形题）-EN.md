@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolHistory（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolHistory(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-pro|72.8%|122s|2980|190.0|1|
 |Open-source|Alibaba|qwen2.5-vl-72b-instruct|68.0%|71s|664|2.7|2|

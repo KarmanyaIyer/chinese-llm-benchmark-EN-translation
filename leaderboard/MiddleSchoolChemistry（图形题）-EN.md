@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolChemistry（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolChemistry(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Alibaba|qvq-plus-2025-05-15|70.0%|870s|1802|7.5|1|
 |Commercial|Alibaba|qwen-vl-max-2025-08-13|70.0%|18s|925|2.7|2|

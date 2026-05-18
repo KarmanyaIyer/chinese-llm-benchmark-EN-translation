@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolGeography（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolGeography(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-flash|76.7%|120s|1822|27.2|1|
 |Commercial|openAI|gpt-5-2025-08-07|76.7%|124s|1584|80.7|2|

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolPhysics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolPhysics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|doubao-seed-1-6-flash-250615|65.6%|/|515|0.3|1|
 |Commercial|Alibaba|qwen-vl-max-2025-08-13|62.5%|38s|1256|4.3|2|

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolChemistry（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolChemistry(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5-2025-08-07|60.0%|179s|4449|278.8|1|
 |Commercial|google|gemini-2.5-pro|57.8%|191s|8424|582.0|2|

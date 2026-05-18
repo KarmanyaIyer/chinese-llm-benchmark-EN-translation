@@ -1,5 +1,5 @@
 
-| Category | Model                         | C3中文Reading Comprehension | Rank |
+| Category | Model                         | C3 ChineseReading Comprehension | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|GLM-4-Plus|100.0|1|
 |Commercial|ERNIE-4.0|100.0|2|

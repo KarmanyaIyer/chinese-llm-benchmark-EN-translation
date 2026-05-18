@@ -1,4 +1,4 @@
-##### Open-sourceModel排行榜
+##### Open-source Models Leaderboard
 |Rank|Model|Organization|size|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|qwen3.5-plus|Alibaba|397B|        73.3%| |        60.9%|        84.8%|        83.4%|        83.0%|        80.4%|        65.5%|        73.7%|        65.5%|

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[PrimarySchoolMathematics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[PrimarySchoolMathematics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-pro|76.5%|187s|5284|361.9|1|
 |Commercial|openAI|gpt-5-2025-08-07|72.5%|142s|2328|149.5|2|

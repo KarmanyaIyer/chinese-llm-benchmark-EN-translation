@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolGeography（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolGeography(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-pro|68.0%|109s|3809|248.7|1|
 |Commercial|Tencent|hunyuan-turbos-vision-20250619|67.0%|37s|1078|5.3|2|

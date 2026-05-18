@@ -1,5 +1,5 @@
 
-| Category |Organization| Model                         | 行政公务 | Rank |
+| Category |Organization| Model                         | Public Administration | Rank |
 |-----|----|--------------------------|---------|----|
 |Commercial|openAI|o4-mini|90.0%|1|
 |Commercial|anthropic|claude-4-sonnet|90.0%|2|

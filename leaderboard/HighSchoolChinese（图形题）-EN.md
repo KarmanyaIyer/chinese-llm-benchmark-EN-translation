@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolChinese（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolChinese(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|doubao-seed-1-6-250615|63.5%|/|1555|1.8|1|
 |Commercial|google|gemini-2.5-pro|62.7%|149s|4534|242.8|2|

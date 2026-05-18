@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolPolitics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolPolitics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Tencent|hunyuan-turbos-vision-20250619|65.8%|89s|911|4.7|1|
 |Commercial|Tencent|hunyuan-t1-vision-20250619|65.8%|104s|1791|12.3|2|

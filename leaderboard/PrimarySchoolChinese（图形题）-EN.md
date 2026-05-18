@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[PrimarySchoolChinese（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[PrimarySchoolChinese(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5-2025-08-07|55.6%|116s|1927|104.5|1|
 |Commercial|Tencent|hunyuan-t1-vision-20250619|55.6%|22s|1157|6.8|2|

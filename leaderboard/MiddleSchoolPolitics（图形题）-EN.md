@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolPolitics（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolPolitics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Tencent|hunyuan-turbos-vision-20250619|86.3%|131s|726|3.7|1|
 |Commercial|google|gemini-2.5-flash|86.3%|112s|2156|33.1|2|

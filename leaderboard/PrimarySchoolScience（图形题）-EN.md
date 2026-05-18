@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[PrimarySchoolScience（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[PrimarySchoolScience(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-flash|75.0%|125s|1834|28.1|1|
 |Commercial|google|gemini-2.5-pro|70.8%|144s|2784|181.5|2|

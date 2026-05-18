@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[HighSchoolBiology（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[HighSchoolBiology(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-pro|76.5%|213s|6672|456.8|1|
 |Commercial|google|gemini-2.5-flash|72.5%|165s|7298|125.5|2|

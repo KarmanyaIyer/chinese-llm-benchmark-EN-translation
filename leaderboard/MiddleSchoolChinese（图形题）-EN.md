@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[MiddleSchoolChinese（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolChinese(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Alibaba|qwen2.5-vl-72b-instruct|80.8%|535s|1338|5.5|1|
 |Commercial|Tencent|hunyuan-turbos-vision-20250619|76.9%|572s|1575|6.5|2|

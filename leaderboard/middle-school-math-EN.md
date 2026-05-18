@@ -1,5 +1,5 @@
 
-| Category | Model           |7th Grade Math|8th Grade Math|9th Grade Math|初中数学|Rank|
+| Category | Model           |7th Grade Math|8th Grade Math|9th Grade Math|Middle School Math|Rank|
 |-----|-----------------|--------|---------|--------|------|----|
 |Commercial|qwq-plus-2025-03-05|100.0|100.0|100.0|100.0|1|
 |Open-source|qwq-32b|100.0|100.0|100.0|100.0|2|
