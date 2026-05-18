@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-32B-nothink|20.0%|30s|509|1.8|129|
 
 
-![lin](../pic/Transfusion Technology Lead Technician.png)
+![lin](../pic/输血技术主管技师.png)

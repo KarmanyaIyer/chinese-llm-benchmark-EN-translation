@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-14B-nothink|20.0%|8s|433|0.8|129|
 
 
-![lin](../pic/Senior Nurse — Deputy/Chief Nurse Qualification Exam.png)
+![lin](../pic/高级护师-副主任、主任护师资格考试.png)

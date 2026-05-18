@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Residency Completion-Medical Imaging Department]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Residency Completion — Medical Imaging]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|81s|2339|7.0|1|
 |Commercial|openAI|gpt-5.2-high|100.0%|11s|493|42.9|2|
@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4.7-Flash|20.0%|1493s|1953|0.0|129|
 
 
-![lin](../pic/Residency Completion-Medical Imaging Department.png)
+![lin](../pic/规培结业-医学影像科.png)

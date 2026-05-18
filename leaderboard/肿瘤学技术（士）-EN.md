@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Oncology Technology（士）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Oncology Technology (Assistant)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Moonshot|Kimi-K2.5-Thinking|100.0%|304s|1741|35.5|1|
 |Commercial|Alibaba|qwen3.6-max-preview(new)|100.0%|51s|1436|74.5|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|20.0%|13s|576|0.4|129|
 
 
-![lin](../pic/Oncology Technology（士）.png)
+![lin](../pic/肿瘤学技术（士）.png)

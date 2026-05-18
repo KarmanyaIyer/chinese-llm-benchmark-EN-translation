@@ -132,4 +132,4 @@
 |Commercial|Alibaba|qwen-flash-think-2025-07-28|40.0%|60s|2016|2.9|129|
 
 
-![lin](../pic/Sterilization Technology Lead Technician.png)
+![lin](../pic/消毒技术主管技师.png)

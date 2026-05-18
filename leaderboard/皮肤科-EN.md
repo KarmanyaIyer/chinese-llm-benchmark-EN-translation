@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[皮肤科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Dermatology]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|95.0%|21s|522|1.5|1|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|93.3%|57s|1329|5.1|2|

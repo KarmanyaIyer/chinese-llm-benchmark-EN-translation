@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[肿瘤科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Oncology]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|204s|1612|4.7|1|
 |Open-source|Moonshot|Kimi-K2.5-Thinking|100.0%|171s|3783|77.5|2|

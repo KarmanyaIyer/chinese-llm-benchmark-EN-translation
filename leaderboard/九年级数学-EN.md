@@ -1,5 +1,5 @@
 
-| Category | Model                         | 九年级数学 | Rank |
+| Category | Model                         | 9th Grade Math | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|qwq-plus-2025-03-05|100.0|1|
 |Open-source|qwq-32b|100.0|2|

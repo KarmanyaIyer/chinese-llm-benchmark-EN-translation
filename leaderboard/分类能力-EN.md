@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-0.5b-instruct|52.0|108|
 
 
-![lin](../pic/Classification.png)
+![lin](../pic/分类能力.png)

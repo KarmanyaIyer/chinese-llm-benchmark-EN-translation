@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Rehabilitation Medicine Therapy Technology（师）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Rehab Medicine Therapy Tech (Therapist)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Moonshot|kimi-k2.6(new)|100.0%|65s|1277|33.2|1|
 |Open-source|Zhipu AI|GLM-5.1(new)|100.0%|243s|2031|47.6|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-14B-Instruct-2512|0.0%|4s|474|0.7|129|
 
 
-![lin](../pic/Rehabilitation Medicine Therapy Technology（师）.png)
+![lin](../pic/康复医学治疗技术（师）.png)

@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-4B-nothink|20.0%|12s|410|1.0|129|
 
 
-![lin](../pic/Lead Technician — Pathology.png)
+![lin](../pic/主管技师-病理学技术.png)

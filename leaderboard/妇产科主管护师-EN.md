@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[OB/GYNLead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[OB/GYN Lead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|49s|849|2.5|1|
 |Commercial|Doubao|doubao-seed-1-6-251015|100.0%|6s|681|4.6|2|
@@ -132,4 +132,4 @@
 |Commercial|google|gemini-2.5-flash-lite|0.0%|6s|669|1.7|129|
 
 
-![lin](../pic/OB/GYNLead Nurse.png)
+![lin](../pic/妇产科主管护师.png)

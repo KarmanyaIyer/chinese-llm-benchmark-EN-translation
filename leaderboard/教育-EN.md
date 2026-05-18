@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|25.9%|66s|625|1.6|129|
 
 
-![lin](../pic/Education.png)
+![lin](../pic/教育.png)

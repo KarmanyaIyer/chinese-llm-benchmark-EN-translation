@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|69.7%|7s|588|0.4|129|
 
 
-![lin](../pic/Finance Applications.png)
+![lin](../pic/金融应用.png)

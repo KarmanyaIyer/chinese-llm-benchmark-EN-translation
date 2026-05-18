@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Medical Postgraduate Exam-TCM Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Medical Postgrad — TCM Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|130s|1903|5.6|1|
 |Commercial|Doubao|doubao-seed-1-6-lite-251015|100.0%|28s|1097|2.4|2|
@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5-mini-2025-08-07|0.0%|39s|1382|18.9|129|
 
 
-![lin](../pic/Medical Postgraduate Exam-TCM Comprehensive.png)
+![lin](../pic/医学考研-中医综合.png)

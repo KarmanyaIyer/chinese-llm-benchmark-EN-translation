@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.1|60.0%|321s|353|15.7|129|
 
 
-![lin](../pic/Lead Nurse — Internal Medicine Nursing.png)
+![lin](../pic/主管护师-内科护理学.png)

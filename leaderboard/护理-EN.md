@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-nano|52.0%|13s|258|1.5|129|
 
 
-![lin](../pic/Nursing.png)
+![lin](../pic/护理.png)

@@ -132,4 +132,4 @@
 |Open-source|openAI|gpt-oss-120b|20.0%|202s|809|2.3|129|
 
 
-![lin](../pic/Clinical Laboratory Lead Technician.png)
+![lin](../pic/临床医学检验主管技师.png)

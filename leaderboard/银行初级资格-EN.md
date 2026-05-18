@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|10s|457|0.8|98|
 
 
-![lin](../pic/Banking Junior Qualification.png)
+![lin](../pic/银行初级资格.png)

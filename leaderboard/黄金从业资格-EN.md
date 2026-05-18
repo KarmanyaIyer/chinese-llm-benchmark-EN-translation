@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|11s|466|0.8|98|
 
 
-![lin](../pic/Gold Practitioner Qualification.png)
+![lin](../pic/黄金从业资格.png)

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[药师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Pharmacist]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|doubao-seed-1-6-251015|100.0%|31s|602|4.2|1|
 |Commercial|Tencent|hunyuan-2.0-thinking-20251109|100.0%|10s|698|2.6|2|

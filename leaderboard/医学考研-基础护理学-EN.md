@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Medical Postgraduate Exam-Basic Nursing]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Medical Postgrad — Basic Nursing]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5.5(new)|100.0%|7s|377|62.7|1|
 |Commercial|anthropic|claude-opus-4.6|100.0%|17s|665|100.0|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|3s|639|0.5|129|
 
 
-![lin](../pic/Medical Postgraduate Exam-Basic Nursing.png)
+![lin](../pic/医学考研-基础护理学.png)

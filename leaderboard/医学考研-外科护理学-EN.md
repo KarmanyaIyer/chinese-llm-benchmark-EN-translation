@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Medical Postgraduate Exam-Surgical Nursing]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Medical Postgrad — Surgical Nursing]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5.5(new)|100.0%|5s|211|32.3|1|
 |Commercial|Doubao|doubao-seed-1-6-251015|100.0%|12s|562|3.9|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|12s|1041|0.7|129|
 
 
-![lin](../pic/Medical Postgraduate Exam-Surgical Nursing.png)
+![lin](../pic/医学考研-外科护理学.png)

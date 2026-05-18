@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Radiology Technology（师）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Radiology Technology (Technologist)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|53s|1584|4.7|1|
 |Commercial|Doubao|doubao-seed-1-6-lite-251015|100.0%|29s|762|1.6|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|20.0%|15s|723|0.8|129|
 
 
-![lin](../pic/Radiology Technology（师）.png)
+![lin](../pic/放射学技术（师）.png)

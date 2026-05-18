@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[反假货币知识]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Counterfeit Currency Detection]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-1.5-pro-32k-250115|81.7%|8s|211|0.3|1|
 |Commercial|Alibaba|qwen-long-2025-01-25|80.0%|8s|211|0.3|2|

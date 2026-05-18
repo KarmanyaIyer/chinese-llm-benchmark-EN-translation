@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-32B|0.0%|514s|13270|52.7|129|
 
 
-![lin](../pic/Gaokao Math.png)
+![lin](../pic/gaokao-math.png)

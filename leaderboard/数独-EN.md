@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|0.0%|26s|2657|2.8|129|
 
 
-![lin](../pic/Sudoku.png)
+![lin](../pic/数独.png)

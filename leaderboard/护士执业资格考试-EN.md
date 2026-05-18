@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[护士执业资格考试]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Nurse Practitioner Qualification Exam]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Tencent|hunyuan-2.0-thinking-20251109|100.0%|11s|560|2.1|1|
 |Open-source|Alibaba|Qwen3-14B-nothink|100.0%|9s|479|0.8|2|

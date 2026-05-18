@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|45.7%|51s|638|1.8|129|
 
 
-![lin](../pic/Public Health & Occupational Diseases.png)
+![lin](../pic/公共卫生与职业病.png)

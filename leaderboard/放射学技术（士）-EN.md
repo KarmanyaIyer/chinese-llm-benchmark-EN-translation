@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Radiology Technology（士）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Radiology Technology (Assistant)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|140s|1131|3.3|1|
 |Open-source|Moonshot|kimi-k2-0905|100.0%|75s|430|5.7|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|14s|696|0.5|129|
 
 
-![lin](../pic/Radiology Technology（士）.png)
+![lin](../pic/放射学技术（士）.png)

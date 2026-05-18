@@ -38,4 +38,4 @@
 |Open-source|Alibaba|qwen2.5-vl-7b-instruct|13.6%|18s|1760|0.6|35|
 
 
-![lin](../pic/HighSchoolPhysics（Image Questions）.png)
+![lin](../pic/HighSchoolPhysics（图形题）.png)

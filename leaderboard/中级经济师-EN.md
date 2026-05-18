@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|12s|541|0.9|98|
 
 
-![lin](../pic/Intermediate Economist.png)
+![lin](../pic/中级经济师.png)

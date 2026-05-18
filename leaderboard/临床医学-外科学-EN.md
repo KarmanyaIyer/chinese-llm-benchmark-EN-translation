@@ -1,5 +1,5 @@
 
-| Category | Model                         | Clinical Medicine-Surgery | Rank |
+| Category | Model                         | Clinical Medicine — Surgery | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|93.0|1|
 |Commercial|Doubao-1.5-pro-32k-250115|88.5|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Clinical Medicine-Surgery.png)
+![lin](../pic/临床医学-外科学.png)

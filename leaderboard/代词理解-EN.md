@@ -132,4 +132,4 @@
 |Commercial|Doubao|Doubao-Seed-2.0-mini|0.0%|259s|1164|2.1|129|
 
 
-![lin](../pic/Pronoun Resolution.png)
+![lin](../pic/代词理解.png)

@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-4B-nothink|40.0%|17s|520|1.3|129|
 
 
-![lin](../pic/Lead Nurse Qualification Exam.png)
+![lin](../pic/主管护师资格考试.png)

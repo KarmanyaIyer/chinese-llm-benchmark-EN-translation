@@ -132,4 +132,4 @@
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|33.3%|13s|810|1.6|129|
 
 
-![lin](../pic/Law & Public Administration.png)
+![lin](../pic/法律与行政公务.png)

@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|30.0%|69s|625|1.7|129|
 
 
-![lin](../pic/Ophthalmology.png)
+![lin](../pic/眼科.png)

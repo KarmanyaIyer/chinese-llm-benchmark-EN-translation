@@ -112,4 +112,4 @@
 |Commercial|ministral-3b|14.0|109|
 
 
-![lin](../pic/MMCU-Law.png)
+![lin](../pic/MMCU-法律.png)

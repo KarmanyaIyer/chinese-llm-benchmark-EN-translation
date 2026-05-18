@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4.5-Air-nothink|20.0%|12s|947|5.3|129|
 
 
-![lin](../pic/Radiology Lead Technician.png)
+![lin](../pic/放射医学主管技师.png)

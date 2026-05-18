@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|20.0%|9s|679|0.5|129|
 
 
-![lin](../pic/OB/GYN.png)
+![lin](../pic/妇产科.png)

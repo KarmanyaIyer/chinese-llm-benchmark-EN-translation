@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[表格总结]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Table Summarization]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5-mini-high|100.0%|106s|7663|93.7|1|
 |Open-source|Alibaba|qwen3.5-plus|99.3%|91s|8790|35.7|2|

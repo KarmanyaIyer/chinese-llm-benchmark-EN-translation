@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|32.0%|10s|745|0.5|129|
 
 
-![lin](../pic/Medical Postgraduate Exam.png)
+![lin](../pic/医学考研.png)

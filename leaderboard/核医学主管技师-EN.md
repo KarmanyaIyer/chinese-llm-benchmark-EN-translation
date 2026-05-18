@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[核医学主管技师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Nuclear Medicine Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|51s|1497|4.4|1|
 |Open-source|Moonshot|Kimi-K2-Thinking|100.0%|65s|1176|17.7|2|

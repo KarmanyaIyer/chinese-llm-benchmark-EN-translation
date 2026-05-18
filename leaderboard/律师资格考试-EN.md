@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|20.0%|7s|689|0.7|129|
 
 
-![lin](../pic/Lawyer Qualification Exam.png)
+![lin](../pic/律师资格考试.png)

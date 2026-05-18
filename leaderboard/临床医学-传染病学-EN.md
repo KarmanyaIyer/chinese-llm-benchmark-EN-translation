@@ -1,5 +1,5 @@
 
-| Category | Model                         | Clinical Medicine-传染病学 | Rank |
+| Category | Model                         | Clinical Medicine — Infectious Diseases | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|92.0|1|
 |Commercial|hunyuan-turbo|89.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Clinical Medicine-传染病学.png)
+![lin](../pic/临床医学-传染病学.png)

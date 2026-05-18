@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Junior TCM Pharmacist-中药学（师）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Junior TCM Pharmacist — TCM Pharmacy (Pharmacist)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|17s|522|1.5|1|
 |Commercial|XAI|grok-4-1-fast-reasoning|100.0%|95s|731|2.1|2|
@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-haiku-4.5|20.0%|10s|498|15.3|129|
 
 
-![lin](../pic/Junior TCM Pharmacist-中药学（师）.png)
+![lin](../pic/初级中药师-中药学（师）.png)

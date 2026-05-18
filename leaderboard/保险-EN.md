@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|20.0%|5s|711|2.0|129|
 
 
-![lin](../pic/Insurance.png)
+![lin](../pic/保险.png)

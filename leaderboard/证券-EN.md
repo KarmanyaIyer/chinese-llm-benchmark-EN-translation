@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[证券]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Securities]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Tencent|hunyuan-t1-20250711|90.0%|18s|1138|4.3|1|
 |Open-source|Mistral|mistral-large-2512|90.0%|9s|368|3.4|2|

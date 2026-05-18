@@ -1,5 +1,5 @@
 
-| Category | Model                         | MMCU-心理 | Rank |
+| Category | Model                         | MMCU-Mental Health | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|hunyuan-turbos-20250226|77.0|1|
 |Open-source|hunyuan-large|76.0|2|

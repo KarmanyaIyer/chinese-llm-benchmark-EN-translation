@@ -1,5 +1,5 @@
 
-| Category | Model                         | CMB-医师考试-高级职称 | Rank |
+| Category | Model                         | CMB-Physician考试-高级职称 | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|hunyuan-turbos-20250226(new)|77.5|1|
 |Commercial|hunyuan-large|76.1|2|

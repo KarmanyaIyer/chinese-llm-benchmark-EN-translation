@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-mini|60.0%|90s|350|7.6|129|
 
 
-![lin](../pic/Pediatric Lead Nurse.png)
+![lin](../pic/儿科主管护师.png)

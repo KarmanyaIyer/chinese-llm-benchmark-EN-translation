@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-8B|0.0%|774s|15228|0.0|129|
 
 
-![lin](../pic/Gaokao Biology.png)
+![lin](../pic/gaokao-biology.png)

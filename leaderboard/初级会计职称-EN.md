@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|8s|360|0.6|98|
 
 
-![lin](../pic/Junior Accounting Title.png)
+![lin](../pic/初级会计职称.png)

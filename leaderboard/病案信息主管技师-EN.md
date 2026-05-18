@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|20.0%|12s|974|0.7|129|
 
 
-![lin](../pic/Medical Records Lead Technician.png)
+![lin](../pic/病案信息主管技师.png)

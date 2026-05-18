@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5-mini-2025-08-07|20.0%|77s|1060|13.9|129|
 
 
-![lin](../pic/Lead Nurse — OB/GYN Nursing.png)
+![lin](../pic/主管护师-妇产科护理学.png)

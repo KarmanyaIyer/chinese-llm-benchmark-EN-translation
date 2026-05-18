@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|24.0%|8s|670|0.5|129|
 
 
-![lin](../pic/TCM & Integrated Chinese-Western Medicine.png)
+![lin](../pic/中医与中西医结合.png)

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[微生物检验主管技师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Microbiology Testing Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|19s|527|1.5|1|
 |Commercial|google|gemini-3-flash-preview|100.0%|88s|711|14.2|2|

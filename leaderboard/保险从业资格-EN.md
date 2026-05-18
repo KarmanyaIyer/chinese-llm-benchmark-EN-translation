@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|17s|721|1.3|98|
 
 
-![lin](../pic/Insurance Practitioner Qualification.png)
+![lin](../pic/保险从业资格.png)

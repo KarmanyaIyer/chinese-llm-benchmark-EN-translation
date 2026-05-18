@@ -132,4 +132,4 @@
 |Open-source|openAI|gpt-oss-20b|20.0%|268s|916|0.9|129|
 
 
-![lin](../pic/ECG Lead Technician.png)
+![lin](../pic/心电学主管技师.png)

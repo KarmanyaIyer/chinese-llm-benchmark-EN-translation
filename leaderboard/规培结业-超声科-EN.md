@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Residency Completion-Ultrasound Department]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Residency Completion — Ultrasound]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|95.0%|24s|582|1.7|1|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|85.0%|113s|2133|8.3|2|
@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4.7-Flash|0.0%|1275s|3981|0.0|129|
 
 
-![lin](../pic/Residency Completion-Ultrasound Department.png)
+![lin](../pic/规培结业-超声科.png)

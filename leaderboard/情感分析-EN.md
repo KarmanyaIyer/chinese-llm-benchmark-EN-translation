@@ -132,4 +132,4 @@
 |Open-source|Moonshot|kimi-k2-0905|20.0%|60s|148|1.1|129|
 
 
-![lin](../pic/Sentiment Analysis.png)
+![lin](../pic/情感分析.png)

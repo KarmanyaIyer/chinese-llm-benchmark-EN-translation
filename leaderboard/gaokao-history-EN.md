@@ -132,4 +132,4 @@
 |Open-source|openAI|gpt-oss-20b|23.3%|101s|1299|1.4|129|
 
 
-![lin](../pic/Gaokao History.png)
+![lin](../pic/gaokao-history.png)

@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-nano|0.0%|46s|250|1.0|129|
 
 
-![lin](../pic/Idiom Understanding.png)
+![lin](../pic/成语理解.png)

@@ -132,4 +132,4 @@
 |Commercial|Alibaba|qwen-turbo-think-2025-07-15|0.0%|/|1197|3.5|129|
 
 
-![lin](../pic/Commonsense Reasoning.png)
+![lin](../pic/常识推理.png)

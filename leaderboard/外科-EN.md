@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[外科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Surgery]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|92.5%|22s|566|1.7|1|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|92.5%|219s|993|3.2|2|

@@ -1,5 +1,5 @@
 
-| Category | Model                         | Clinical Medicine-Pediatrics学 | Rank |
+| Category | Model                         | Clinical Medicine — Pediatrics | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|81.0|1|
 |Open-source|DeepSeek-R1|81.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Clinical Medicine-Pediatrics学.png)
+![lin](../pic/临床医学-儿科学.png)

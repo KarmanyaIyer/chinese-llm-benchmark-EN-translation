@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|41.6%|9s|929|0.7|129|
 
 
-![lin](../pic/Medical & Mental Health.png)
+![lin](../pic/医疗与心理健康.png)

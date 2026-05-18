@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Medical Postgraduate Exam-Western Medicine Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Medical Postgrad — Western Medicine Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|95.0%|23s|565|1.7|1|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|85.0%|84s|1900|7.4|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|0.0%|10s|490|0.3|129|
 
 
-![lin](../pic/Medical Postgraduate Exam-Western Medicine Comprehensive.png)
+![lin](../pic/医学考研-西医综合.png)

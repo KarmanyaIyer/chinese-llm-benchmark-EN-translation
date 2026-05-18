@@ -111,4 +111,4 @@
 |Commercial|Mistral|ministral-8b|20.0%|108|
 
 
-![lin](../pic/Mental Health.png)
+![lin](../pic/心理健康.png)

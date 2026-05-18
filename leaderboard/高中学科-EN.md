@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|24.0%|12s|1861|1.3|129|
 
 
-![lin](../pic/High School Subjects.png)
+![lin](../pic/高中学科.png)

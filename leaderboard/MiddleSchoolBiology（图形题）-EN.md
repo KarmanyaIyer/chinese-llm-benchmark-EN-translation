@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|12.5%|318s|1109|2.2|35|
 
 
-![lin](../pic/MiddleSchoolBiology（Image Questions）.png)
+![lin](../pic/MiddleSchoolBiology（图形题）.png)

@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4V-Flash|3.8%|20s|1499|0.0|35|
 
 
-![lin](../pic/MiddleSchoolMathematics（Image Questions）.png)
+![lin](../pic/MiddleSchoolMathematics（图形题）.png)

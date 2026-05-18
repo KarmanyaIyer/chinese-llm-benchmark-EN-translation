@@ -38,4 +38,4 @@
 |Open-source|Alibaba|qwen2.5-vl-7b-instruct|10.0%|18s|878|0.3|35|
 
 
-![lin](../pic/MiddleSchoolChemistry（Image Questions）.png)
+![lin](../pic/MiddleSchoolChemistry（图形题）.png)

@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|4s|880|0.6|129|
 
 
-![lin](../pic/Pharmacist Junior Exam.png)
+![lin](../pic/药师初级考试.png)

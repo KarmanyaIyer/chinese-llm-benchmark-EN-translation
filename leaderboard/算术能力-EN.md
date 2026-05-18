@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4-9B-0414|39.1%|8s|167|0|129|
 
 
-![lin](../pic/Arithmetic Ability.png)
+![lin](../pic/算术能力.png)

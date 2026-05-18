@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4-9B-0414|43.3%|10s|422|0.0|129|
 
 
-![lin](../pic/Preventive Medicine & Public Health.png)
+![lin](../pic/预防医学与公共卫生学.png)

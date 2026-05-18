@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[放射科主治医师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Radiology Attending Physician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5.5(new)|100.0%|5s|340|54.5|1|
 |Commercial|openAI|gpt-5.3-chat|100.0%|23s|387|29.7|2|

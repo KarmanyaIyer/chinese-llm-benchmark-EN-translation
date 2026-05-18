@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|60.0%|3s|592|0.4|129|
 
 
-![lin](../pic/Lead Pharmacist Qualification Exam.png)
+![lin](../pic/主管药师资格考试.png)

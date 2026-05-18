@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4-9B-0414|29.9%|7s|500|0.0|129|
 
 
-![lin](../pic/General Ability.png)
+![lin](../pic/通用能力.png)

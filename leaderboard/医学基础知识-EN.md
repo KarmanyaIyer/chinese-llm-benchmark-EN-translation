@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[医学基础知识]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Medical Basic Knowledge]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-Seed-2.0-pro|88.3%|235s|1057|15.6|1|
 |Commercial|Tencent|hunyuan-2.0-thinking-20251109|87.5%|12s|869|3.3|2|

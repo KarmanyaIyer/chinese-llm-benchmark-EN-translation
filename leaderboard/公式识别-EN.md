@@ -38,4 +38,4 @@
 |Commercial|Alibaba|qwen-vl-plus-2025-08-15|22.2%|4s|460|0.7|35|
 
 
-![lin](../pic/Formula Recognition.png)
+![lin](../pic/公式识别.png)

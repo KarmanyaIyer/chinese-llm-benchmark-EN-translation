@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|40.0%|7s|766|2.2|129|
 
 
-![lin](../pic/Ultrasound Medicine Lead Technician.png)
+![lin](../pic/超声波医学主管技师.png)

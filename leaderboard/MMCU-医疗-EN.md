@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/MMCU-Medical.png)
+![lin](../pic/MMCU-医疗.png)

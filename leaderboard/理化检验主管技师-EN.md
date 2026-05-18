@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[理化检验主管技师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Physical & Chemical Testing Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Mistral|mistral-large-2512|100.0%|12s|474|4.5|1|
 |Commercial|anthropic|claude-haiku-4.5-thinking|100.0%|102s|2182|75.2|2|

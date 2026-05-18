@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|11s|464|0.8|98|
 
 
-![lin](../pic/Banking Intermediate Qualification.png)
+![lin](../pic/银从中级资格.png)

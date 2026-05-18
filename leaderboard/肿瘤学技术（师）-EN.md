@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Oncology Technology（师）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Oncology Technology (Technologist)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Moonshot|kimi-k2-0905|100.0%|89s|556|7.4|1|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|90.0%|22s|542|1.6|2|
@@ -132,4 +132,4 @@
 |Open-source|DeepSeek|DeepSeek-V3.1-Think|20.0%|64s|1231|13.9|129|
 
 
-![lin](../pic/Oncology Technology（师）.png)
+![lin](../pic/肿瘤学技术（师）.png)

@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4V-Flash|12.1%|5s|1275|0.0|35|
 
 
-![lin](../pic/High School Subjects (Image Questions).png)
+![lin](../pic/高中学科（图形题）.png)

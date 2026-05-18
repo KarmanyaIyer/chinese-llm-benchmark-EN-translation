@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[肿瘤放射治疗主管技师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Oncology Radiotherapy Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|o4-mini|90.0%|35s|906|26.9|1|
 |Open-source|Alibaba|Qwen3-32B|85.0%|27s|998|3.7|2|

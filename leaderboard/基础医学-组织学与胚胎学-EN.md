@@ -1,5 +1,5 @@
 
-| Category | Model                         | Basic Medicine-Histology & Embryology | Rank |
+| Category | Model                         | Basic Medicine — Histology & Embryology | Rank |
 |-----|------------------------------|---------|----|
 |Open-source|DeepSeek-R1|86.0|1|
 |Commercial|ERNIE-4.5-8K-Preview(new)|84.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Basic Medicine-Histology & Embryology.png)
+![lin](../pic/基础医学-组织学与胚胎学.png)

@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-14B-nothink|16.0%|44s|549|1.0|129|
 
 
-![lin](../pic/Primary School Subjects.png)
+![lin](../pic/小学学科.png)

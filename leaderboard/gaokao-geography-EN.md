@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-4-sonnet-thinking|0.0%|10s|747|62.9|129|
 
 
-![lin](../pic/Gaokao Geography.png)
+![lin](../pic/gaokao-geography.png)

@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|0.0%|13s|505|0.4|129|
 
 
-![lin](../pic/Lead TCM Pharmacist.png)
+![lin](../pic/主管中药师.png)

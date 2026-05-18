@@ -1,5 +1,5 @@
 
-| Category | Model                         | Clinical Medicine-Medical Imaging | Rank |
+| Category | Model                         | Clinical Medicine — Medical Imaging | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|84.0|1|
 |Commercial|hunyuan-turbos-20250226(new)|83.5|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Clinical Medicine-Medical Imaging.png)
+![lin](../pic/临床医学-医学影像学.png)

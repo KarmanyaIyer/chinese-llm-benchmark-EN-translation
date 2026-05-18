@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|0.0%|1s|304|0.2|129|
 
 
-![lin](../pic/Textual Entailment.png)
+![lin](../pic/文本蕴含.png)

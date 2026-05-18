@@ -1,5 +1,5 @@
 
-| Category | Model                         | Basic Medicine-Pharmacology | Rank |
+| Category | Model                         | Basic Medicine — Pharmacology | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|90.0|1|
 |Commercial|hunyuan-turbos-20250226(new)|85.5|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Basic Medicine-Pharmacology.png)
+![lin](../pic/基础医学-药理学.png)

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[证券从业资格]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Securities Practitioner Qualification]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-1.5-pro-32k-250115|84.3%|10s|339|0.6|1|
 |Commercial|Doubao|Doubao-1.5-lite-32k-250115|81.7%|6s|215|0.1|2|

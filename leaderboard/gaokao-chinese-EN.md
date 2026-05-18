@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-4-sonnet|0.0%|45s|747|57.5|129|
 
 
-![lin](../pic/Gaokao Chinese.png)
+![lin](../pic/gaokao-chinese.png)

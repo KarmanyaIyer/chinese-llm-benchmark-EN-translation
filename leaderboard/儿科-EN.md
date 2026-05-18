@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|20.0%|6s|658|0.5|129|
 
 
-![lin](../pic/Pediatrics.png)
+![lin](../pic/儿科.png)

@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|0.0%|87s|1167|2.2|129|
 
 
-![lin](../pic/Reading Comprehension.png)
+![lin](../pic/阅读理解.png)

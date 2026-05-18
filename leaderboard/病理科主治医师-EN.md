@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-4B-nothink|20.0%|24s|505|1.3|129|
 
 
-![lin](../pic/Pathology Attending Physician.png)
+![lin](../pic/病理科主治医师.png)

@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|88.0%|13s|548|0.6|129|
 
 
-![lin](../pic/Information Extraction.png)
+![lin](../pic/信息抽取.png)

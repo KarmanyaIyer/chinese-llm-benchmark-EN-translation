@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4V-Flash|11.1%|7s|994|0.0|35|
 
 
-![lin](../pic/HighSchoolChemistry（Image Questions）.png)
+![lin](../pic/HighSchoolChemistry（图形题）.png)

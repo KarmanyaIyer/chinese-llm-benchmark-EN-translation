@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|38.2%|6s|473|0.3|129|
 
 
-![lin](../pic/Language & Instruction Following.png)
+![lin](../pic/语言与指令遵从.png)

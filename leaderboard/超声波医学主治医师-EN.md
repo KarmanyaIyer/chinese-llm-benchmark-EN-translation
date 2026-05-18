@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.3-chat|40.0%|7s|461|37.4|129|
 
 
-![lin](../pic/Ultrasound Medicine Attending Physician.png)
+![lin](../pic/超声波医学主治医师.png)

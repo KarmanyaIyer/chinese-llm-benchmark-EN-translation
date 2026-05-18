@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|85s|3280|6.3|98|
 
 
-![lin](../pic/Financial Planner AFP.png)
+![lin](../pic/金融理财师AFP.png)

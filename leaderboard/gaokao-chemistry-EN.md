@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-4-sonnet-thinking|0.0%|58s|1138|98.3|129|
 
 
-![lin](../pic/Gaokao Chemistry.png)
+![lin](../pic/gaokao-chemistry.png)

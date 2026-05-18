@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5-mini-2025-08-07|0.0%|46s|1009|13.8|129|
 
 
-![lin](../pic/Licensed TCM Pharmacist.png)
+![lin](../pic/执业中药师.png)

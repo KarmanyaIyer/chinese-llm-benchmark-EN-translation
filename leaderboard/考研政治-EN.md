@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-mini|40.0%|14s|279|6.5|129|
 
 
-![lin](../pic/Postgraduate Entrance Politics.png)
+![lin](../pic/考研政治.png)

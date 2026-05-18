@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|10s|432|0.8|98|
 
 
-![lin](../pic/Securities Specialty Exam.png)
+![lin](../pic/证券专项考试.png)

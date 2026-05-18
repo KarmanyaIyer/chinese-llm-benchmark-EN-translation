@@ -1,5 +1,5 @@
 
-| Category | Model                         | 七年级数学 | Rank |
+| Category | Model                         | 7th Grade Math | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview|100.0|1|
 |Open-source|qwq-32b|100.0|2|

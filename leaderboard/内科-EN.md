@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[内科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Internal Medicine]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|90.8%|210s|987|3.2|1|
 |Commercial|Doubao|doubao-seed-1-6-251015|90.8%|39s|802|5.7|2|

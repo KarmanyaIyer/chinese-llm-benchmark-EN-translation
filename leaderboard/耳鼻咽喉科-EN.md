@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|30.0%|7s|539|0.4|129|
 
 
-![lin](../pic/Otolaryngology.png)
+![lin](../pic/耳鼻咽喉科.png)

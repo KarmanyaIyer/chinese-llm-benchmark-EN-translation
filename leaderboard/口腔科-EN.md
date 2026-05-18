@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[口腔科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Dentistry]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|63s|1143|3.3|1|
 |Open-source|DeepSeek|deepseek-v4-pro(new)|100.0%|26s|669|15.1|2|

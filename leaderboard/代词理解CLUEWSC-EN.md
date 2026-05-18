@@ -116,4 +116,4 @@
 |Commercial|xunfei-spark-lite|6.3|113|
 
 
-![lin](../pic/Pronoun ResolutionCLUEWSC.png)
+![lin](../pic/代词理解CLUEWSC.png)

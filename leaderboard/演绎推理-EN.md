@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4.5-Air|0.0%|53s|1843|10.7|129|
 
 
-![lin](../pic/Deductive Reasoning.png)
+![lin](../pic/演绎推理.png)

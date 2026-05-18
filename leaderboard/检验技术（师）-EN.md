@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Laboratory Technology（师）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Lab Technology (Technologist)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|83s|579|1.7|1|
 |Open-source|Xiaomi|MiMo-V2-Flash|100.0%|8s|373|0.0|2|
@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|13s|423|0.3|129|
 
 
-![lin](../pic/Laboratory Technology（师）.png)
+![lin](../pic/检验技术（师）.png)

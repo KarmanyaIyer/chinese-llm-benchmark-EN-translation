@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|45.0%|50s|599|1.6|129|
 
 
-![lin](../pic/Other Finance Qualification Exams.png)
+![lin](../pic/其他金融资格考试.png)

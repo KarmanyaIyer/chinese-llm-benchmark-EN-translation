@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|38.8%|12s|1448|1.0|129|
 
 
-![lin](../pic/Domain Expertise.png)
+![lin](../pic/专业能力.png)

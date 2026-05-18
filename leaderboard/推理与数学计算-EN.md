@@ -132,4 +132,4 @@
 |Open-source|Zhipu AI|GLM-4-9B-0414|32.0%|8s|705|0.0|129|
 
 
-![lin](../pic/Reasoning & Math.png)
+![lin](../pic/推理与数学计算.png)

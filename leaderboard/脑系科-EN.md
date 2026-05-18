@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[脑系科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Neurology]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Moonshot|kimi-k2.6(new)|100.0%|105s|1752|45.1|1|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|100.0%|197s|945|3.1|2|

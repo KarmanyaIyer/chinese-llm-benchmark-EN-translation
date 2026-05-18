@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|68s|2541|4.9|98|
 
 
-![lin](../pic/Chinese Actuary.png)
+![lin](../pic/中国精算师.png)

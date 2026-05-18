@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[小学奥数]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Primary School Olympiad Math]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|100.0%|114s|534|1.7|1|
 |Open-source|Alibaba|Qwen3.5-122B-A10B|100.0%|95s|2009|12.6|2|

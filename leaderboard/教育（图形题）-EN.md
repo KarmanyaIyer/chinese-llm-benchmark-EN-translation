@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Education（Image Questions）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Education (Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|google|gemini-2.5-pro|70.5%|157s|4429|292.5|1|
 |Commercial|openAI|gpt-5-2025-08-07|66.2%|149s|2577|147.8|2|
@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4V-Flash|20.7%|12s|901|0.0|35|
 
 
-![lin](../pic/Education（Image Questions）.png)
+![lin](../pic/教育（图形题）.png)

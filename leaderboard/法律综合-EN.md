@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Law综合]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Law Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|25s|775|2.2|1|
 |Commercial|anthropic|claude-opus-4.5|100.0%|18s|663|95.7|2|
@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-4B-nothink|20.0%|12s|466|1.1|129|
 
 
-![lin](../pic/Law综合.png)
+![lin](../pic/法律综合.png)

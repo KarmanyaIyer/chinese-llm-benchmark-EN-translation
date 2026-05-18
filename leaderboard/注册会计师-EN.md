@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|25s|982|1.8|98|
 
 
-![lin](../pic/Certified Public Accountant.png)
+![lin](../pic/注册会计师.png)

@@ -101,4 +101,4 @@
 |Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|14s|601|1.1|98|
 
 
-![lin](../pic/Fund Practitioner Qualification.png)
+![lin](../pic/基金从业资格.png)

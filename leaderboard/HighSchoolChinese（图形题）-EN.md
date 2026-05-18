@@ -38,4 +38,4 @@
 |Open-source|Alibaba|qwen2.5-vl-7b-instruct|9.3%|8s|2207|0.8|35|
 
 
-![lin](../pic/HighSchoolChinese（Image Questions）.png)
+![lin](../pic/HighSchoolChinese（图形题）.png)

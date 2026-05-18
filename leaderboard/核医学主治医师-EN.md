@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[核医学主治医师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Nuclear Medicine Attending Physician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|196s|861|2.5|1|
 |Open-source|Alibaba|Qwen3.5-122B-A10B|100.0%|108s|2567|16.0|2|

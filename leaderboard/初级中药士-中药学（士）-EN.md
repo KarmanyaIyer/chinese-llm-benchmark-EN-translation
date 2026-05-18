@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Junior TCM Pharmacy Assistant-中药学（士）]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Junior TCM Pharmacy Assistant — TCM Pharmacy (Assistant)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|124s|957|2.8|1|
 |Open-source|Moonshot|kimi-k2-0905|100.0%|76s|248|3.0|2|
@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5-nano-high|20.0%|118s|6605|19.0|129|
 
 
-![lin](../pic/Junior TCM Pharmacy Assistant-中药学（士）.png)
+![lin](../pic/初级中药士-中药学（士）.png)

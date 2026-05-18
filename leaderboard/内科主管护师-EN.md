@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[内科Lead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Internal Medicine Lead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|100.0%|4s|587|0.6|1|
 |Open-source|Alibaba|qwen3-235b-a22b-instruct-2507|100.0%|12s|482|3.4|2|
@@ -132,4 +132,4 @@
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|20.0%|7s|476|0.9|129|
 
 
-![lin](../pic/内科Lead Nurse.png)
+![lin](../pic/内科主管护师.png)

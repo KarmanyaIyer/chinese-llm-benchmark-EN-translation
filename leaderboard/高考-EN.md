@@ -132,4 +132,4 @@
 |Commercial|XAI|grok-4-1-fast-non-reasoning|23.6%|83s|739|1.8|129|
 
 
-![lin](../pic/Gaokao.png)
+![lin](../pic/高考.png)

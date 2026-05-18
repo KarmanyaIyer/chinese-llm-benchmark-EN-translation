@@ -111,4 +111,4 @@
 |Commercial|Mistral|ministral-3b|10.7%|108|
 
 
-![lin](../pic/Law.png)
+![lin](../pic/法律.png)

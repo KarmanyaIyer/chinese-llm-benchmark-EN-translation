@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-4-sonnet-thinking|0.0%|9s|463|44.6|129|
 
 
-![lin](../pic/Chinese Instruction Following.png)
+![lin](../pic/中文指令遵从.png)

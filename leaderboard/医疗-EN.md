@@ -111,4 +111,4 @@
 |Commercial|iFlytek|xunfei-spark-lite|20.9%|108|
 
 
-![lin](../pic/Medical.png)
+![lin](../pic/医疗.png)

@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4V-Flash|20.8%|30s|879|0.0|35|
 
 
-![lin](../pic/Middle School Subjects (Image Questions).png)
+![lin](../pic/初中学科（图形题）.png)

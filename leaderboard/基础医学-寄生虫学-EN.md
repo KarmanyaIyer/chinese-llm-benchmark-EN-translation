@@ -1,5 +1,5 @@
 
-| Category | Model                         | Basic Medicine-Parasitology | Rank |
+| Category | Model                         | Basic Medicine — Parasitology | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|Doubao-1.5-pro-32k-250115|82.5|1|
 |Commercial|ERNIE-4.5-8K-Preview(new)|80.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Basic Medicine-Parasitology.png)
+![lin](../pic/基础医学-寄生虫学.png)

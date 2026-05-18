@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[心理综合]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Mental Health Comprehensive]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5.5(new)|100.0%|6s|319|58.0|1|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|100.0%|152s|764|2.5|2|

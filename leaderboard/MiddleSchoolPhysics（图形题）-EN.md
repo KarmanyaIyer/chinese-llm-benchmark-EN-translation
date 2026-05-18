@@ -38,4 +38,4 @@
 |Commercial|openAI|gpt-4.1-mini|15.6%|557s|538|3.6|35|
 
 
-![lin](../pic/MiddleSchoolPhysics（Image Questions）.png)
+![lin](../pic/MiddleSchoolPhysics（图形题）.png)

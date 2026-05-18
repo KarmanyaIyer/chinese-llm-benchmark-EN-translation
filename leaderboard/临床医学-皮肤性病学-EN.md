@@ -1,5 +1,5 @@
 
-| Category | Model                         | Clinical Medicine-Dermatology & Venereology | Rank |
+| Category | Model                         | Clinical Medicine — Dermatology & Venereology | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|Doubao-1.5-pro-32k-250115|82.0|1|
 |Open-source|DeepSeek-R1|82.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Clinical Medicine-Dermatology & Venereology.png)
+![lin](../pic/临床医学-皮肤性病学.png)

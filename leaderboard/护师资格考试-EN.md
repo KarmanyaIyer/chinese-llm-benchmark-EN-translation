@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[护师资格考试]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Nurse Qualification Exam]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Xiaomi|MiMo-V2-Flash-0204|100.0%|331s|390|0.7|1|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|95.0%|20s|498|1.5|2|

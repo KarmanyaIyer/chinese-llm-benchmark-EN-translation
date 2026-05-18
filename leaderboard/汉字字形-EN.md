@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[汉字字形]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Chinese Character Glyphs]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|openAI|gpt-5.5(new)|100.0%|14s|354|69.7|1|
 |Open-source|DeepSeek|deepseek-v4-pro(new)|100.0%|40s|830|19.7|2|

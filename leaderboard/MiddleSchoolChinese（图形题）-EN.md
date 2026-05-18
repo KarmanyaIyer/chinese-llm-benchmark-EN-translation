@@ -38,4 +38,4 @@
 |Open-source|Alibaba|qwen2.5-vl-7b-instruct|19.2%|14s|1718|0.6|35|
 
 
-![lin](../pic/MiddleSchoolChinese（Image Questions）.png)
+![lin](../pic/MiddleSchoolChinese（图形题）.png)

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[康复医学科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Rehabilitation Medicine Dept]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|97.5%|21s|517|1.5|1|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|92.5%|160s|1791|7.0|2|

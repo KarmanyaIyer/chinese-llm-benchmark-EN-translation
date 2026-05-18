@@ -132,4 +132,4 @@
 |Commercial|anthropic|claude-4-sonnet|0.0%|42s|694|56.3|129|
 
 
-![lin](../pic/Gaokao Physics.png)
+![lin](../pic/gaokao-physics.png)

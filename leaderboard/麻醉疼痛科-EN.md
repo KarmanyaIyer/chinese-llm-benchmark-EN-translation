@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|53.3%|13s|1152|0.8|129|
 
 
-![lin](../pic/Anesthesia & Pain Management.png)
+![lin](../pic/麻醉疼痛科.png)

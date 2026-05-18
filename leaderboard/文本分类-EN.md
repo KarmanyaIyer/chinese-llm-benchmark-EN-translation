@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[文本分类]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Text Classification]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Alibaba|qwen-plus-2025-12-01|100.0%|15s|487|0.9|1|
 |Open-source|Zhipu AI|GLM-5.1(new)|100.0%|113s|733|16.8|2|

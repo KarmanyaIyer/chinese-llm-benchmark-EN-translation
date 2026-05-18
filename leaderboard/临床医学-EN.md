@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|45.0%|6s|590|0.4|129|
 
 
-![lin](../pic/Clinical Medicine.png)
+![lin](../pic/临床医学.png)

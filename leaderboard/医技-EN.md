@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|42.1%|9s|670|0.5|129|
 
 
-![lin](../pic/Medical Technology.png)
+![lin](../pic/医技.png)

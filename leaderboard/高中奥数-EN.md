@@ -132,4 +132,4 @@
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|0.0%|150s|4149|13.1|129|
 
 
-![lin](../pic/High School Olympiad Math.png)
+![lin](../pic/高中奥数.png)

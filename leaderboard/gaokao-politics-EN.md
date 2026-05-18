@@ -132,4 +132,4 @@
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|0.0%|11s|716|1.3|129|
 
 
-![lin](../pic/Gaokao Politics.png)
+![lin](../pic/gaokao-politics.png)

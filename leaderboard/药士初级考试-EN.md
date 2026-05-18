@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|40.0%|4s|472|0.5|129|
 
 
-![lin](../pic/Pharmacy Assistant Junior Exam.png)
+![lin](../pic/药士初级考试.png)

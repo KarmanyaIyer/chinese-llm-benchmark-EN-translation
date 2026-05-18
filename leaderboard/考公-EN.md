@@ -101,4 +101,4 @@
 |Open-source|Alibaba|Qwen3-1.7B-nothink|28.0%|/|/|/|98|
 
 
-![lin](../pic/Civil Service Prep.png)
+![lin](../pic/考公.png)

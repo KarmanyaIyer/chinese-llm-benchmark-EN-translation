@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|43.3%|9s|694|0.5|129|
 
 
-![lin](../pic/Clinical Nutrition & Critical Care.png)
+![lin](../pic/临床营养与重症医学.png)

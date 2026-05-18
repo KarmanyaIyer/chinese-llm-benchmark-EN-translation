@@ -132,4 +132,4 @@
 |Commercial|minimax|MiniMax-M2.7|40.0%|67s|2467|19.9|129|
 
 
-![lin](../pic/Rehabilitation Medicine & Therapy Lead Technician.png)
+![lin](../pic/康复医学与治疗主管技师.png)

@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-nano|40.0%|3s|169|1.0|129|
 
 
-![lin](../pic/Licensed Western Pharmacist.png)
+![lin](../pic/执业西药师.png)

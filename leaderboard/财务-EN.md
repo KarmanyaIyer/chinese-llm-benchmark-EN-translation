@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|40.0%|34s|5641|4.0|129|
 
 
-![lin](../pic/Finance/Accounting.png)
+![lin](../pic/财务.png)

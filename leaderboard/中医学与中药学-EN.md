@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|18.2%|6s|529|0.4|129|
 
 
-![lin](../pic/TCM Medicine & Pharmacology.png)
+![lin](../pic/中医学与中药学.png)

@@ -132,4 +132,4 @@
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|40.0%|15s|927|1.8|129|
 
 
-![lin](../pic/Civil Service Exam.png)
+![lin](../pic/公务员考试.png)

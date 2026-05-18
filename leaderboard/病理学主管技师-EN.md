@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[病理学主管技师]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Pathology Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|90.0%|23s|553|1.6|1|
 |Commercial|Baichuan|Baichuan4-Turbo|85.0%|/|/|/|2|

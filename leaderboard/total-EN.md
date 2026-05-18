@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|33.6%|13s|1862|1.3|129|
 
 
-![lin](../pic/Total Score.png)
+![lin](../pic/总分.png)

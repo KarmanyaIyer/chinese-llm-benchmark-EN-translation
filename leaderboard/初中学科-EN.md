@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|22.1%|12s|946|1.0|129|
 
 
-![lin](../pic/Middle School Subjects.png)
+![lin](../pic/初中学科.png)

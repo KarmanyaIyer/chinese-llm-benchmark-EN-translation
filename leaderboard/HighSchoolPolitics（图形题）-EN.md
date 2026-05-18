@@ -38,4 +38,4 @@
 |Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|19.2%|9s|1798|0.0|35|
 
 
-![lin](../pic/HighSchoolPolitics（Image Questions）.png)
+![lin](../pic/HighSchoolPolitics（图形题）.png)

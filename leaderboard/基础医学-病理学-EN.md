@@ -1,5 +1,5 @@
 
-| Category | Model                         | Basic Medicine-病理学 | Rank |
+| Category | Model                         | Basic Medicine — Pathology | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|ERNIE-4.5-8K-Preview(new)|94.0|1|
 |Commercial|hunyuan-turbo|91.0|2|
@@ -111,4 +111,4 @@
 |Open-source|qwen2.5-math-72b-instruct|/|108|
 
 
-![lin](../pic/Basic Medicine-病理学.png)
+![lin](../pic/基础医学-病理学.png)

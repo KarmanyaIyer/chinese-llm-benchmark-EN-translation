@@ -1,5 +1,5 @@
 
-| Category | Model                         | 八年级数学 | Rank |
+| Category | Model                         | 8th Grade Math | Rank |
 |-----|------------------------------|---------|----|
 |Commercial|GLM-4-AirX|100.0|1|
 |Commercial|xunfei-spark-pro|100.0|2|

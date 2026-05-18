@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|46.7%|10s|401|0.4|129|
 
 
-![lin](../pic/Banking.png)
+![lin](../pic/银行.png)

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[全科医学科]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[General Practice]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Alibaba|qwen3-max-preview|100.0%|11s|465|9.9|1|
 |Commercial|Alibaba|qwen-plus-2025-12-01|100.0%|29s|1048|2.0|2|

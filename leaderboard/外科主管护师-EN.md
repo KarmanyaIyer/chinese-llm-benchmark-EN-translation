@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[外科Lead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Surgical Lead Nurse]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|45s|1384|4.1|1|
 |Commercial|Doubao|doubao-seed-1-8-251215|100.0%|22s|626|4.2|2|
@@ -132,4 +132,4 @@
 |Commercial|openAI|gpt-5.4-mini|40.0%|12s|310|7.3|129|
 
 
-![lin](../pic/外科Lead Nurse.png)
+![lin](../pic/外科主管护师.png)

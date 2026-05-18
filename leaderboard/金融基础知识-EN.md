@@ -132,4 +132,4 @@
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|56.8%|13s|1947|1.4|129|
 
 
-![lin](../pic/Finance Fundamentals.png)
+![lin](../pic/金融基础知识.png)

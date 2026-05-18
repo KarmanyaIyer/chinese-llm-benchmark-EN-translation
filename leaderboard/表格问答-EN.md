@@ -132,4 +132,4 @@
 |Open-source|Alibaba|Qwen3-14B-nothink|0.0%|14s|2811|2.2|129|
 
 
-![lin](../pic/Table QA.png)
+![lin](../pic/表格问答.png)
