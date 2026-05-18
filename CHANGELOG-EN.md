@@ -1,0 +1,396 @@
+## Recent Updates
+- [2026/4/25] v5.10.3
+  - Added Models: deepseek-v4-flash, deepseek-v4-pro, gpt-5.5
+- [2026/4/23] v5.10.2
+  - Added Models: mimo-v2.5, mimo-v2.5-pro
+- [2026/4/21] v5.10.1
+  - Added Models: qwen3.6-max-preview, kimi-k2.6
+  - Updated Models: updated kimi-k2.5 evaluation results (fixed a tool call error where reasoning_content was not passed into the tool call); scores and rankings have changed
+- [2026/4/18] v5.10
+  - Coding capability is now part of general capability and counted in the total score; rankings have changed
+  - Added Model: Qwen3.6-35B-A3B
+  - Removed outdated models: Llama-4-Maverick-17B-128E-Instruct-FP8, DeepSeek-R1-0528-Qwen3-8B, ERNIE-4.5-0.3B,
+ERNIE-4.5-21B-A3B, ERNIE-4.5-300B-A47B, Hunyuan-A13B-Instruct, Hunyuan-A13B-Instruct-nothink, step-3,
+mistral-medium-2508, Mistral-Small-3.2-24B-Instruct-2506, Baichuan4-Air, gemma-3-27b-it,
+gemma-3-4b-it, gemma-3-12b-it, Qwen3-1.7B, Qwen3-0.6B, Qwen3-0.6B-nothink, Qwen3-1.7B-nothink
+- [2026/4/15] v5.9
+  - Added [terminal bench 2.0 leaderboard](#92-Terminal-Bench-20) to the coding leaderboards
+  - Launched the first [overall coding leaderboard](#9coding排行榜)
+  - Removed outdated models: DeepSeek-V3.2-Exp, DeepSeek-V3.2-Exp-Think, xunfei-spark-x1-0725, doubao-seed-1-6-flash-250615,
+doubao-seed-1-6-flash-thinking-250615, doubao-seed-1-6-250615, grok-4-0709, GLM-4.5, GLM-4.5-nothink, GLM-4.6, MiniMax-M2,
+qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-preview
+- [2026/4/8] v5.8.23
+  - Added Model: GLM-5.1
+- [2026/4/6] v5.8.22
+  - Added Models: gemma-4-31b-it, gemma-4-26b-a4b-it
+- [2026/4/3] v5.8.21
+  - Added Model: qwen3.6-plus
+- [2026/3/19] v5.8.20
+  - Added Models: MiMo-V2-Pro, MiMo-V2-Omni
+- [2026/3/18] v5.8.19
+  - Added Models: gpt-5.4-mini, gpt-5.4-mini-high, gpt-5.4-nano, gpt-5.4-nano-high, MiniMax-M2.7
+  - Removed outdated models: ERNIE-Lite-8K, MiniMax-Text-01, Doubao-1.5-lite-32k-250115, MiniMax-M1, kimi-k2-0711-preview, doubao-seed-1-6-thinking-250715
+- [2026/3/17] v5.8.18
+  - Added Model: GLM-5-Turbo
+- [2026/3/5] v5.8.17
+  - Added Models: gemini-3.1-flash-lite-preview, gpt-5.3-chat, gpt-5.4, gpt-5.4-high
+- [2026/2/25] v5.8.16
+  - Added Models: qwen3.5-flash, Qwen3.5-27B, Qwen3.5-122B-A10B
+- [2026/2/20] v5.8.15
+  - Added Models: qwen3.5-plus, gemini-3.1-pro-preview
+- [2026/2/14] v5.8.14
+  - Added Models: Doubao-Seed-2.0-pro, Doubao-Seed-2.0-lite, Doubao-Seed-2.0-mini
+- [2026/2/9] v5.8.13
+  - Added Models: claude-opus-4.6, GLM-5, MiniMax-M2.5, LongCat-Flash-Lite, MiMo-V2-Flash-0204, MiMo-V2-Flash-think-0204
+- [2026/2/2] v5.8.12
+  - Added Model: step-3.5-flash
+- [2026/1/27] v5.8.11
+  - Added Models: qwen3-max-2026-01-23, qwen3-max-think-2026-01-23 (qwen3-max-2026-01-23 with thinking mode enabled), Kimi-K2.5-Thinking
+- [2026/1/22] v5.8.10
+  - Added Models: GLM-4.7-Flash, LongCat-Flash-Thinking-2601, ERNIE-5.0
+- [2025/12/24] v5.8.9
+  - Added Model: qwen3-max-preview-think (qwen3-max-preview with thinking mode enabled)
+- [2025/12/23] v5.8.8
+  - Added a new coding leaderboard, not yet counted in the total score; see [Coding Leaderboard](#9coding排行榜)
+  - Added Models: GLM-4.7, MiniMax-M2.1
+- [2025/12/18] v5.8.7
+  - Added Models: gemini-3-flash-preview, doubao-seed-1-8-251215, MiMo-V2-Flash, MiMo-V2-Flash-think
+- [2025/12/13] v5.8.6
+  - Added Models: gpt-5.2, gpt-5.2-high, gpt-5.2-medium, qwen-plus-2025-12-01, qwen-plus-think-2025-12-01
+  - Multimodal evaluation added: GLM-4.6V, GLM-4.6V-Flash
+- [2025/12/6] v5.8.5
+  - Added Models: hunyuan-2.0-thinking-20251109, hunyuan-2.0-instruct-20251111, qwen3-next-80b-a3b-thinking, mistral-large-2512,
+  Ministral-3-14B-Instruct-2512, Ministral-3-8B-Instruct-2512, Ministral-3-3B-Instruct-2512
+- [2025/12/3] v5.8.4
+  - Added Models: DeepSeek-V3.2, DeepSeek-V3.2-Think, qwen3-max-2025-09-23, gpt-5-mini-high, gpt-5-nano-high
+  - Updated Kimi-K2-Thinking evaluation results
+- [2025/11/26] v5.8.3
+  - Added Models: claude-opus-4.5, gpt-5.1-high, claude-sonnet-4.5, claude-sonnet-4.5-thinking, ERNIE-X1.1-Preview, ERNIE-5.0-Thinking-Preview
+- [2025/11/22] v5.8.2
+  - Added Models: grok-4-1-fast-reasoning, grok-4-1-fast-non-reasoning, gemini-3-pro-preview, kimi-k2-0905
+- [2025/11/17] v5.8.1
+  - Added Models: Kimi-K2-Thinking, gpt5.1, gpt-5.1-medium, claude-haiku-4.5, claude-haiku-4.5-thinking
+- [2025/11/3] v5.8
+  - Added Model: MiniMax-M2
+  - Removed outdated models: Doubao-1.5-pro-32k-250115, ministral-3b, ministral-8b, hunyuan-turbos-20250716
+  - Integrated LMArena and Artificial Analysis (AA) leaderboard data; see [link](#9整合LMArena和AA分数)
+- [2025/10/24] v5.7
+  - Adjusted the weighting of "Professional capability" and "General capability" from 5:5 to 3:7 to better highlight general capability; model rankings have changed significantly.
+  - Added Models: doubao-seed-1-6-251015, doubao-seed-1-6-lite-251015
+- [2025/10/13] v5.6
+  - Removed overly easy samples and added new samples in each evaluation set; model scores have changed significantly
+  - "Agent and tool use" is now counted in the total score; model rankings have changed
+  - Added Model: GLM-4.6. See full model info and try it out at [link](https://nonelinear.com/static/models.html)
+- [2025/9/30] v5.5
+  - Added Models: open-source DeepSeek-V3.2-Exp, DeepSeek-V3.2-Exp-Think, hunyuan-turbos-20250926. See [full model info](https://nonelinear.com/static/models.html)
+- [2025/9/22] v5.4
+  - Added BFCL-V3 leaderboard under "Agent and tool use"; see [link](#82-BFCL-V3)
+- [2025/9/14] v5.3
+  - Added a new "Agent and tool use" top-level leaderboard; see [link](#8agent与工具调用排行榜)
+  - Added Model: Alibaba open-source qwen3-next-80b-a3b-instruct. See [full model info](https://nonelinear.com/static/models.html)
+- [2025/9/10] v5.2
+  - Added Model: Doubao open-source Seed-OSS-36B-Instruct. See [full model info](https://nonelinear.com/static/models.html)
+  - Removed outdated model: qwen-plus-2025-07-14
+- [2025/9/6] v5.1
+  - Added 4 models: Alibaba's trillion-parameter model qwen3-max-preview, qwen-plus-2025-07-28, qwen-plus-think-2025-07-28 (qwen-plus with thinking mode),
+  qwen-turbo-think-2025-07-15 (qwen-turbo with thinking mode). See [full model info](https://nonelinear.com/static/models.html)
+- [2025/9/1] v5.0
+  - Improved how the "Overall capability" score is computed: "Overall capability" is now the average of "Professional capability" and "General capability", where "Professional capability" is the average across the 4 domains of "Education", "Medical and Mental Health", "Finance", and "Law and Civil Service", and "General capability" is the average across the two domains of "Reasoning and Math" and "Language and Instruction Following". Model rankings have changed.
+  - Added a "Table Summarization" evaluation set under the "Reasoning and Math" domain; see [Table Summarization Leaderboard](#66-表格总结)
+  - Added 3 models: mistral-medium-2508, Magistral-Small-2507, Mistral-Small-3.2-24B-Instruct-2506. See [full model info](https://nonelinear.com/static/models.html)
+  - Removed outdated models: SenseChat-5-1202, qwq-32b, qwq-plus-2025-03-05, GLM-Z1-Flash, mistral-small2, mistral-large2.1, ERNIE-Tiny-8K, Mistral-Small-3.1-24B-Instruct-2503
+- [2025/8/26] v4.13
+  - Multimodal evaluation added qwen-vl-max-2025-08-13, qwen-vl-plus-2025-08-15, gpt-5 series, and gemini-2.5 series models; see [Multimodal Evaluation](README-多模态评测.md)
+  - Removed outdated models: chatgpt-4o-latest, gpt-4.1, gpt-4.1-mini, step-r1-v-mini
+- [2025/8/20] v4.12
+  - Added 3 models: DeepSeek-V3.1, DeepSeek-V3.1-Think, gemini-2.5-flash-lite. See [full model info](https://nonelinear.com/static/models.html)
+  - Updated the "Arithmetic" and "Formula Recognition" (multimodal) evaluation sets: removed overly easy samples and added new data; related model scores have been updated
+  - Removed outdated models: internlm2_5-7b-chat, qwen2.5 series open-source models, qwen2.5-max, GLM-4 / GLM-Z1 series closed-source models, GLM-Z1-Rumination-32B-0414, hunyuan-standard, hunyuan-large, phi-4, 360gpt-turbo
+Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, gemini-2.5-flash-lite-preview-06-17, qwen-plus-think-2025-04-28, qwen-turbo-think-2025-04-28
+- [2025/8/15] v4.11
+  - "Multimodal - Primary School Subjects" added 3 evaluation sets: PrimarySchoolChinese (image questions), PrimarySchoolMathematics (image questions), PrimarySchoolScience (image questions); see [Multimodal Evaluation](README-多模态评测.md)
+  - "Multimodal - High School Subjects" added 4 evaluation sets: HighSchoolBiology (image questions), HighSchoolChemistry (image questions), HighSchoolMathematics (image questions), HighSchoolPhysics (image questions); see [Multimodal Evaluation](README-多模态评测.md)
+  - "Multimodal - Middle School Subjects" added 8 evaluation sets: 'MiddleSchoolBiology (image questions)', 'MiddleSchoolChemistry (image questions)', 'MiddleSchoolChinese (image questions)', 'MiddleSchoolPolitics (image questions)',
+    'MiddleSchoolGeography (image questions)', 'MiddleSchoolHistory (image questions)', 'MiddleSchoolMathematics (image questions)', 'MiddleSchoolPhysics (image questions)'; see [Multimodal Evaluation](README-多模态评测.md)
+  - Removed outdated models: hunyuan-turbos-20250604, gpt-4o-mini
+- [2025/8/10] v4.10
+  - Multimodal added 4 evaluation sets: HighSchoolChinese (image questions), HighSchoolGeography (image questions), HighSchoolHistory (image questions), HighSchoolPolitics (image questions); see [Multimodal Evaluation](README-多模态评测.md)
+  - Added 4 models: Zhipu open-source multimodal GLM-4.5V (see [Multimodal Leaderboard](README-多模态评测.md)), Tencent closed-source hunyuan-turbos-20250716, Alibaba closed-source qwen-flash-2025-07-28, Alibaba closed-source qwen-flash-think-2025-07-28 (qwen-flash with thinking mode enabled)
+- [2025/8/7] v4.9
+  - Added 5 models: OpenAI closed-source GPT5 series (gpt5/gpt5-mini/gpt5-nano), OpenAI open-source gpt-oss-120b, gpt-oss-20b
+- [2025/8/1] v4.8
+  - Added multiple models: Alibaba open-source Qwen3-30B-A3B-Thinking-2507, StepFun open-source step-3, GLM4.5-nothink series (thinking disabled)
+  - Removed outdated models: doubao-seed-1-6-thinking-250615, xunfei-spark-x1, SenseChat-5-beta, SenseChat-Turbo-120,
+  GLM-4-Flash, GLM-4-Air, qwen-plus-2025-04-28, qwen-turbo-2025-04-28
+- [2025/7/29] v4.7
+  - Added multiple models: GLM4.5 series, Qwen3-30B-A3B-Instruct-2507, Qwen3-nothink series (thinking disabled)
+- [2025/7/26] v4.6
+  - Added 2 language models: Alibaba open-source qwen3-235b-a22b-thinking-2507, iFlytek closed-source xunfei-spark-x1-0725
+  - Removed outdated model: hunyuan-t1-20250529
+- [2025/7/23] v4.5
+  - Added 4 language models: Alibaba open-source qwen3-235b-a22b-instruct-2507, Alibaba closed-source qwen-turbo-2025-07-15, Alibaba closed-source qwen-plus-2025-07-14, Doubao closed-source doubao-seed-1-6-thinking-250715. See [full model info](https://nonelinear.com/static/models.html)
+  - Removed outdated model: Doubao-1.5-thinking-pro
+- [2025/7/17] v4.4
+  - Added cost information for each model across each evaluation dimension; see each dimension's leaderboard
+  - Added 2 language models: Huawei open-source pangu-pro-moe, Tencent closed-source reasoning model hunyuan-t1-20250711
+  - Removed outdated models: moonshot-v1-8k, hunyuan-turbo
+- [2025/7/13] v4.3
+  - Added 2 language models: the first trillion-parameter open-source model kimi-k2-0711-preview, Qwen3-235B-A22B-nothink (thinking disabled). See [full model info](https://nonelinear.com/static/models.html)
+  - Removed outdated models: gemini-2.5-flash-preview-05-20, gemini-2.5-pro-preview-05-06
+- [2025/7/12] v4.2
+  - Multimodal evaluation added "2025 Gaokao (image questions)"; see [Multimodal Evaluation](README-多模态评测.md)<br>
+  - Added 2 language models: Elon Musk's xAI grok-4-0709 and grok-3-mini. See [full model info](https://nonelinear.com/static/models.html)
+  - Removed outdated model: DeepSeek-R1 (0120)
+- [2025/7/9] v4.1
+  - Consolidated 8 evaluation domains into 6: "Mental Health" merged into "Medical and Mental Health", and "Civil Service" merged into "Law and Civil Service"; overall model rankings have changed
+  - Added time and token usage information for each model across each evaluation dimension; see each dimension's leaderboard
+  - Added 3 language models: Gemini 2.5 series (gemini-2.5-pro stable, gemini-2.5-flash stable, gemini-2.5-flash-lite-preview-06-17). See [full model info](https://nonelinear.com/static/models.html)
+  - Added 3 multimodal models: GLM-4.1V-Thinking-FlashX, GLM-4.1V-Thinking-Flash, GLM-4.1V-9B-Thinking. See [full model info](https://nonelinear.com/static/models.html)
+- [2025/7/2] v4.0
+  - Added multimodal evaluation for the first time: "Formula Recognition", covering common math, physics, and chemistry formulas; see [link](leaderboard/公式识别.md)
+  - Added 4 language models: Tencent's first hybrid reasoning model Hunyuan-A13B-Instruct, Baidu ERNIE4.5 series open-source models (ERNIE-4.5-0.3B, ERNIE-4.5-21B-A3B, ERNIE-4.5-300B-A47B). See [full model info](https://nonelinear.com/static/models.html)
+  - Data update: added and updated some evaluation data across various dimensions; related model scores have been updated
+  - Removed outdated models: hunyuan-turbos-20250313, hunyuan-t1-20250321, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Llama-8B, DeepSeek-R1-Distill-Llama-70B, qwen-turbo-2025-02-11, qwen-plus-2025-01-25
+- [2025/6/23] v3.33
+  - **Open Data**: We have open-sourced all collected **2025 Gaokao real exam data** (formulas have been converted to LaTeX); see [link](opendata/2025高考各省真题)
+  - "Gaokao" added real exam data for 6 subjects: biology, chemistry, geography, history, physics, and politics (from newly unlocked provincial exam papers); see [link](#35-高考)
+  - Added 5 models: MiniMax-M1, qwen-plus-2025-04-28, qwen-plus-think-2025-04-28 (qwen-plus with thinking mode enabled), qwen-turbo-2025-04-28, qwen-turbo-think-2025-04-28 (qwen-turbo with thinking mode enabled). See [full model info](https://nonelinear.com/static/models.html)
+  - Updated Model: GLM-Z1-Air, related scores updated
+  - Removed outdated models: gemini-2.5-pro-preview-03-25, gemini-2.5-flash-preview-04-17, Llama-3.1-8B-Instruct, Llama-3.2-1B-Instruct, Llama-3.2-3B-Instruct, Llama-3.3-70B-Instruct, Llama-3.3-70B-Instruct-fp8
+- [2025/6/18] v3.32
+  - "Gaokao" added 2025 real exam data for 5 subjects: biology, chemistry, geography, mathematics, and politics (from newly unlocked provincial exam papers). Most models' accuracy dropped significantly, and rankings have shifted; **hunyuan-t1-20250529 ranks first in mathematics with 93% accuracy; DeepSeek-R1-0528 didn't even make the top 5, with only 90% accuracy**. See [link](#35-高考)
+  - Added Models: Doubao seed1.6 series 4 models: doubao-seed-1-6-flash-250615, doubao-seed-1-6-flash-thinking-250615 (seed1.6 flash with thinking mode enabled), doubao-seed-1-6-250615, doubao-seed-1-6-thinking-250615. See [full model info](https://nonelinear.com/static/models.html)
+  - **The new model doubao-seed-1-6-thinking-250615 surpasses Baidu Wenxin 4.5, dominating first place by a large margin**
+  - Removed outdated models: Meta-Llama-3.1-405B-Instruct, Meta-Llama-3.1-8B-Instruct-fp8
+- [2025/6/16] v3.31
+  - "Gaokao" added 2025 real exam questions from all provinces and subjects (each province's papers are aggregated by subject). **Doubao-1.5-thinking-pro ranks first in mathematics with 92% accuracy; DeepSeek-R1-0528 didn't make the top 5, with only 87% accuracy**. See [link](#35-高考)
+  - Education "Middle School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](#32-初中学科)
+  - Updated Model: GLM-4-Plus, related scores updated
+- [2025/6/13] v3.30
+  - "Language and Instruction Following" removed some ambiguous or low-quality samples; related scores have been updated
+  - Added Models: step-r1-v-mini, hunyuan-turbos-20250604, hunyuan-t1-20250529. See [full model info](https://nonelinear.com/static/models.html)
+  - Updated Models: GLM-Z1-FlashX, GLM-4-AirX, GLM-4-Air, GLM-4-Long, related scores updated
+  - Removed outdated models: hunyuan-turbos-20250226, ERNIE-4.5-8K-Preview, Claude-3.5-Sonnet, ERNIE-Speed-Pro-128K, ERNIE-Lite-Pro-128K
+- [2025/6/9] v3.29
+  - Education "High School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](#34-高中学科)
+  - Added Models: claude-4-sonnet, claude-4-sonnet-thinking. See [full model info](https://nonelinear.com/static/models.html)
+  - Updated Models: GLM-4-Plus, GLM-Z1-Air, GLM-Z1-AirX, related scores updated
+  - Removed outdated models: DeepSeek-R1-Distill-Qwen-1.5B, gemini-2.0-flash-001, internlm2_5-20b-chat, ERNIE-4.0-Turbo-8K, ERNIE-X1-32K-Preview, glm-4-9b-chat, abab6.5s-chat, o3-mini
+- [2025/6/4] v3.28
+  - Education "Middle School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](#32-初中学科)
+  - Added Models: DeepSeek-R1-0528, DeepSeek-R1-0528-Qwen3-8B, ERNIE-4.5-Turbo-32K, ERNIE-X1-Turbo-32K, gemini-2.5-flash-preview-05-20, gemini-2.5-pro-preview-05-06
+- [2025/5/29] v3.27
+  - "Chinese Character Glyphs" (Language and Instruction Following) added new evaluation samples and now also tests Chinese character stroke order (e.g., the stroke order of "乃" is: ㇌丿); related scores have been updated. **DeepSeek-R1 ranks second, but still scores under 80**. See [link](#910-汉字字形)
+- [2025/5/23] v3.26
+  - Added Models: Doubao-1.5-thinking-pro, gpt-4.1, gpt-4.1-mini, o4-mini. See [full model info](https://nonelinear.com/static/models.html)
+- [2025/5/18] v3.25
+  - "High School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](#34-高中学科)
+  - "Medical" domain: removed some low-quality samples; related scores have been updated. See [link](#2医疗排行榜)
+- [2025/5/15] v3.24
+  - Added Model: xunfei-spark-x1 reasoning model. See [full model info](https://easyllm.site/static/models.html)
+  - "Sudoku": added new evaluation samples and removed some easy ones; related scores have been updated. See [link](#811-数独)
+- [2025/5/10] v3.23
+  - "Table QA": added new evaluation samples and removed some easy ones. See [link](#85-表格问答)
+- [2025/5/5] v3.22
+  - Added the "Chinese Character Glyphs" (Language and Instruction Following) leaderboard, now counted in the total score. See [link](#910-汉字字形)
+  - Removed outdated models: gemini-1.5-flash, gemini-1.5-pro, gemini-1.5-flash-8b,
+  Hermes-3-Llama-3.1-405B, step-1-8k, gemini-2.0-flash-thinking-exp-01-21,
+  Mistral-Small-24B-Instruct-2501, gemma-3-1b-it,
+  - "C3 Chinese Reading Comprehension" was merged into the "Reading Comprehension" evaluation set; "Deductive Reasoning" and "Common-sense Reasoning" had some overly easy samples removed
+- [2025/5/2] v3.21
+  - Added the "Sudoku" (Reasoning and Math) leaderboard, now counted in the total score. See [link](#811-数独)
+- [2025/4/30] v3.20
+  - Added 8 qwen3 series models: Qwen3-235B-A22B, Qwen3-32B, Qwen3-30B-A3B, Qwen3-14B, Qwen3-8B, Qwen3-4B, Qwen3-1.7B, Qwen3-0.6B. See [full model info](https://easyllm.site/static/models.html)
+- [2025/4/28] v3.19
+  - Added Models: gemini-2.5-flash-preview-04-17, GLM-Z1-Flash, GLM-Z1-FlashX, GLM-Z1-Air, GLM-Z1-AirX, GLM-4-9B-0414, GLM-Z1-9B-0414, GLM-4-32B-0414, GLM-Z1-32B-0414, GLM-Z1-Rumination-32B-0414. See [full model info](https://easyllm.site/static/models.html)
+  - Removed outdated models: GLM-Zero-Preview, Baichuan4, ERNIE-4.0, qwq-32b-preview, deepseek-chat-v3, step-1-flash, 360gpt-pro, Mistral-7B-Instruct-v0.3
+  - Added data to the "Primary School Math Olympiad" evaluation set; model scores have changed
+- [2025/4/22] v3.18
+  - Added the "Primary School Math Olympiad" leaderboard; gemini-2.5-pro ranks first with a perfect score. See (#88-小学奥数)
+- [2025/4/17] v3.17
+  - Added 2 models: Mistral-Small-3.1-24B-Instruct-2503, gemini-2.5-pro-preview-03-25. See [full model info](https://easyllm.site/static/models.html)
+  - Removed outdated models: o1-mini, gemini-2.0-pro-exp-02-05
+- [2025/4/9] v3.16
+  - Added 3 models: Llama-4-Scout-17B-16E-Instruct, Llama-4-Maverick-17B-128E-Instruct-FP8, ERNIE-X1-32K-Preview. See [full model info](https://easyllm.site/static/models.html)
+- [2025/4/5] v3.15
+  - Added several evaluation dimensions in the Finance domain; see [link](#4金融排行榜)
+  - Removed outdated models: abab7-chat-preview, gemini-2.0-flash-exp, gemma-2-9b-it, gemma-2-27b-it, qwen2.5-math-72b-instruct, Mistral-Nemo-Instruct-2407, Llama-3.1-Nemotron-70B-Instruct-fp8
+- [2025/4/3] v3.14
+  - Restructured the sub-dimensions for the Medical and Finance domains
+  - Added 2 models: hunyuan-t1-20250321, deepseek-chat-v3-0324
+- [2025/3/31] v3.13
+  - Added the "Comprehensive Medical Exam" leaderboard, now counted in the total score. See [link](#214-医学综合考试)
+- [2025/3/29] v3.12
+  - Added the "Finance" leaderboard, now counted in the total score. See [link](#4金融排行榜)
+  - Removed outdated models: Yi-1.5-34B-Chat, Yi-1.5-9B-Chat
+- [2025/3/27] v3.11
+  - Added the "Medical Postgraduate Exam" leaderboard, now counted in the total score. See [link](#213-医学考研)
+  - For all sub-tasks in the "Education" domain, removed overly easy test samples and recomputed scores; total scores have changed accordingly
+- [2025/3/25] v3.10
+  - Added the "High School Mathematical Olympiad" leaderboard, now counted in the total score. See [link](#77-高中奥林匹克数学竞赛)
+  - For "Reasoning and Math" and "Language and Instruction Following", removed overly easy test samples and recomputed scores; total scores have changed accordingly
+- [2025/3/23] v3.9
+  - Added the "Professional Knowledge Exam / Traditional Chinese Medicine and Pharmacy" leaderboard, now counted in the total score
+  - Added the "MMCU Law" sub-item to the "Bar Exam" leaderboard
+  - Added 5 models: hunyuan-turbos-20250313, gemma-3-1b-it, gemma-3-4b-it, gemma-3-12b-it, ERNIE-4.5-8K-Preview
+- [2025/3/21] Released v3.8 leaderboard
+  - Added "Professional Knowledge Exam / Preventive Medicine and Public Health" and "Mental Health" leaderboards, now counted in the total score
+- [2025/3/19] Released v3.7 leaderboard
+  - Added the "Professional Knowledge Exam / Clinical Medicine" leaderboard (covering 22 fields including medical imaging, radiology, etc.), now counted in the total score. See [link](#210-专业知识考试临床医学)
+  - The Gaokao leaderboard added the Politics subject and a large number of new questions; all related scores have been updated
+- [2025/3/17] Released v3.6 leaderboard
+  - Added the "Professional Knowledge Exam / Basic Medicine" leaderboard (covering 17 fields including pathophysiology, medical psychology, etc.), now counted in the total score. See [link](#29-专业知识考试基础医学)
+  - Added 2 models: Google gemma-3-27b-it, Mistral-Small-24B-Instruct-2501
+- [2025/3/15] Released v3.5 leaderboard
+  - Added the "Medical Technician Exam" leaderboard (covering 22 fields including Medical Technician - Rehabilitation Medicine, Senior Medical Technician - Oncology Technology, etc.), now counted in the total score. See [link](#28-医技考试)
+- [2025/3/13] Released v3.4 leaderboard
+  - Added the "Pharmacist Exam" leaderboard (covering 8 fields including Licensed Western Pharmacist, Licensed Traditional Chinese Pharmacist, etc.), now counted in the total score. See [link](#27-药师考试)
+- [2025/3/11] Released v3.3 leaderboard
+  - Added the "Nursing Exam" leaderboard (covering 10 fields including Nurse Practice Qualification Exam, Senior Nurse Qualification Exam, etc.), now counted in the total score. See [link](#26-护理考试)
+  - Added 6 models: qwq-32b, qwq-plus-2025-03-05, step-2-mini, hunyuan-turbos-20250226, xunfei-spark-lite. See [full model info](https://easyllm.site/static/models.html)
+- [2025/3/10] Released v3.2 leaderboard
+  - Added the "Physician Exam / Senior Title" leaderboard (covering 8 fields including Senior Title in Gastroenterology, Senior Title in General Internal Medicine, etc.), now counted in the total score. See [link](#25-医师考试高级职称)
+- [2025/3/7] Released v3.1 leaderboard
+  - Added the "Physician Exam / Mid-level Title" leaderboard (covering 43 fields including Attending Physician of Ultrasound Medicine, Attending Physician of Obstetrics and Gynecology, etc.), now counted in the total score. See [link](#24-医师考试中级职称)
+- [2025/3/4] Released v3.0 leaderboard
+  - The Overall capability score is now computed as the average of scores across 6 domains: Medical, Education, Law, Civil Service, Reasoning and Math, and Language and Instruction Following.
+- [2025/3/3] Released v2.22 leaderboard
+  - Added the "CMB - Physician Exam - Assistant Practicing Physician" leaderboard (covering 5 fields including Clinical Assistant Practicing Physician, Dental Assistant Practicing Physician, etc.), now counted in the total score. See [link](#2医疗医师考试执业助理医师排行榜)
+  - Removed outdated models: SenseChat-Turbo, SenseChat-v4, SenseChat-5, Mixtral-8x7B-Instruct-v0.1
+- [2025/2/28] Released v2.21 leaderboard
+  - Added the "CMB - Physician Exam - Residency Completion" leaderboard (covering 18 fields including Surgery, Dermatology, etc.), now counted in the total score. See [link](#2医疗医师考试规培结业排行榜)
+  - Removed outdated models: Doubao-lite-32k-240428, Doubao-pro-32k-240615, o1-preview, WizardLM-2-8x22B, gemini-2.0-flash-lite-preview-02-05
+- [2025/2/22] Released v2.19 leaderboard
+  - Added 6 models: kimi-latest-8k, SenseChat-5-beta, chatgpt-4o-latest, Doubao-1.5-pro-32k-250115, Doubao-1.5-lite-32k-250115, 360zhinao2-o1. See [full model info](https://easyllm.site/static/models.html)
+  - Added a reasoning model leaderboard; see [link](leaderboard/reasonmodel.md)
+- [2025/2/18] Released v2.18 leaderboard
+  - Added 2 models: qwen2.5-max, gemini-2.0-flash-thinking-exp-01-21. See [full model info](https://easyllm.site/static/models.html)
+  - Added the Deductive Reasoning leaderboard and the C3 Chinese Reading Comprehension leaderboard, now counted in the total score
+- [2025/2/14] Released v2.17 leaderboard
+  - Added 10 models: GLM-Zero-Preview, MiniMax-Text-01, SenseChat-5-1202, SenseChat-Turbo-1202, GLM-4-FlashX, ERNIE-Lite-8K, ERNIE-Tiny-8K, ERNIE-Lite-Pro-128K, ERNIE-Speed-Pro-128K, qwen2.5-math-72b-instruct. See [full model info](https://easyllm.site/static/models.html)
+- [2025/2/13] Released v2.16 leaderboard
+  - Added 6 models: qwq-32b-preview, o1-mini, o3-mini, gemini-2.0-pro-exp-02-05, gemini-2.0-flash-lite-preview-02-05, gemini-2.0-flash-001. See [full model info](https://easyllm.site/static/models.html)
+- [2025/2/12] Released v2.15 leaderboard
+  - Added the Idiom Understanding leaderboard and the Sentiment Analysis leaderboard, now counted in the total score
+- [2025/2/10] Released v2.14 leaderboard
+  - Added 7 models: DeepSeek-R1, DeepSeek-R1-Distill-Qwen-1.5B, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Llama-8B, DeepSeek-R1-Distill-Qwen-14B, DeepSeek-R1-Distill-Qwen-32B, DeepSeek-R1-Distill-Llama-70B. See [full model info](https://easyllm.site/static/models.html)
+- [2025/1/29] Released v2.13 leaderboard
+  - Added the Common-sense Reasoning leaderboard and the Textual Entailment (Language Understanding) leaderboard, now counted in the total score
+  - Increased reading comprehension evaluation samples to over 600 and updated all model scores
+- [2025/1/25] Released v2.12 leaderboard
+  - Added the Gaokao leaderboard and its subject sub-leaderboards (Biology, Chemistry, Chinese, Geography, History, Mathematics, Physics); subject average scores (on a 100-point scale) are counted in the total
+- [2025/1/23] Released v2.11 leaderboard
+  - The Civil Service Exam (kaogong) and the Bar Exam (JEC-QA) are now counted in the total score
+  - Added 4 models: mistral-small, Hermes-3-Llama-3.1-405B, mistral-large, 360gpt2-o1. See [full model info](https://easyllm.site/static/models.html)
+- [2025/1/22] Released v2.10 leaderboard
+  - Added the Bar Exam JEC-QA leaderboard, not yet counted in the total score
+  - Added 7 models: ministral-3b, Mistral-7B-Instruct-v0.3, Mistral-Nemo-Instruct-2407, ministral-8b, Mixtral-8x7B-Instruct-v0.1, Llama-3.1-Nemotron-70B-Instruct-fp8, WizardLM-2-8x22B. See [full model info](https://easyllm.site/static/models.html)
+- [2025/1/20] Released v2.9 leaderboard
+  - Added the Civil Service Exam (kaogong) leaderboard, not yet counted in the total score
+  - Added 5 models: Llama-3.2-1B-Instruct, Llama-3.2-3B-Instruct, Llama-3.1-8B-Instruct-fp8, Llama-3.3-70B-Instruct-fp8, Llama-3.1-70B-Instruct-fp8. See [full model info](https://easyllm.site/static/models.html)
+- [2025/1/17] Released v2.8 leaderboard
+  - Added 9 models: gemini-2.0-flash-exp, phi-4, gemini-1.5-flash-8b, 360gpt-turbo, step-1-flash, Llama-3.3-70B-Instruct, 360gpt-pro, 360gpt2-pro, step-1-8k. See [full model info](https://easyllm.site/static/models.html)
+  - Added middle school math scores for o1-mini and o1-preview
+  - Removed outdated models: abab5.5-chat, abab5.5s-chat
+- [2025/1/7] Released v2.7 leaderboard
+  - Added the Pronoun Understanding CLUEWSC leaderboard (e.g., who "he" refers to) and the Poetry Matching CCPM leaderboard
+  - Added 5 models: Claude-3.5-Sonnet, gemma-2-27b-it, Llama-3.1-405B-Instruct, Baichuan4-Air, Baichuan4-Turbo
+  - Removed outdated models: Baichuan3-Turbo, qwen2-72b-instruct, Qwen2-7B-Instruct, qwen2-1.5b-instruct, qwen2-0.5b-instruct, qwen2-57b-a14b-instruct
+- [2024/12/28] Released v2.6 leaderboard
+  - Added the BBH leaderboard (a symbolic reasoning evaluation set commonly used in academia), now counted in the total score
+  - Middle school math (Grades 7/8/9) scores are now counted in the total score
+  - Removed outdated models: deepseek-chat-v2, Llama-3-70B-Instruct, Llama-3-8B-Instruct, MiniCPM-2B-dpo, minimax-abab6.5-chat, DeepSeek-V2-Lite-Chat, internlm2-chat-1_8b
+- [2024/12/27] Released v2.5 leaderboard
+  - Added Grade8Math-zh (8th grade math) and Grade9Math-zh (9th grade math) leaderboards
+  - Added 6 models: deepseek-chat-v2.5, abab7-chat-preview, hunyuan-standard, hunyuan-large, hunyuan-turbo, SenseChat-5. See [full model info](https://easyllm.site/static/models.html)
+- [2024/12/25] Released v2.4 leaderboard
+  - Added the Grade7Math-zh (7th grade math) leaderboard
+  - Removed outdated models: Phi-3-mini-128k-instruct, Qwen1.5 series, openbuddy-llama3-8b, yi-large, yi-large-turbo, yi-medium, yi-spark, internlm2-chat-20b, internlm2-chat-7b, gpt-4-turbo, gpt-3.5-turbo
+- [2024/10/20] Released v2.3 leaderboard
+  - Added 6 models: yi-lightning, gemini-1.5-flash, gemini-1.0-pro, gemini-1.5-pro, GLM-4-Long, GLM-4-Plus
+  - Updated 4 models: GLM4, qwen-max, ERNIE-4.0-Turbo-8K, ERNIE-3.5-8K
+  - Removed outdated models: Baichuan2-13B-Chat, Baichuan2-7B-Chat, deepseek-llm-67b-chat, gpt4, gemma-2b-it, gemma-7b-it
+- [2024/9/29] Released v2.2 leaderboard
+  - Added 7 open-source models from the qwen2.5 series
+- [2024/9/21] Added open-source LLM release history [link](LLM-history.md)
+- [2024/8/27] Released v2.1 leaderboard
+  - Added 2 models: Llama-3.1-8B-Instruct, Llama-3.1-70B-Instruct
+  - Improved the consolidated LLM information list, [link](LLM-info.md)
+- [2024/8/7] Released v2.0 leaderboard
+  - Chinese Instruction Following and Arithmetic are now counted in the total score, serving as the basis for the overall capability ranking
+  - Added 7 models: qwen2-1.5b-instruct, qwen2-0.5b-instruct, qwen2-57b-a14b-instruct, internlm2-chat-1_8b, internlm2_5-7b-chat, gemma-2-9b-it, DeepSeek-V2-Lite-Chat
+  - Removed outdated models: aquilachat2-34b, AquilaChat2-70B-Expr, BlueLM-7B-Chat, openbuddy-deepseek-67b, openbuddy-mixtral-7bx8, tigerbot-13b-chat-v4, Yi-34B-Chat
+- [2024/7/26] Released v1.21 leaderboard
+  - Added 8 models: gpt-4o-mini, iFlytek 4.0 Ultra, ERNIE-3.5-8K, ERNIE-4.0-Turbo-8K, ERNIE-Speed-8K, Doubao-lite-32k, Doubao-pro-32k, qwen-turbo
+  - Removed outdated models: baichuan3, minimax-abab6-chat, tigerbot-70b-chat-v3, openbuddy-zephyr-7b, Yi-6B-Chat, chatglm3-6b, Llama-2-70b-chat,
+miniCPM-2B-sft, openbuddy-mistral-7b
+- [2024/7/15] Released v1.20 leaderboard
+  - Added 10 models: gpt-4o, yi-spark, qwen-plus, qwen-long, GLM-4-AirX, GLM-4-Air, GLM-4-Flash, Baichuan4, Baichuan3-Turbo, SenseChat-Turbo
+  - Updated Model: SenseTime senseChat
+  - Removed outdated models: Google Bard, openbuddy-llama2-70b, XVERSE-65B-Chat, Microsoft new-bing, BELLE-Llama2-13B-chat-0.4M, iFlytek Spark v2.0, chatglm-std, chatglm-pro, chatglm-turbo, ByteDance Doubao
+- [2024/6/29] Released v1.19 leaderboard
+  - Added the Math Fundamentals (Arithmetic) leaderboard
+  - Added 5 models: Qwen2-7B-Instruct, Qwen2-72B-Instruct, glm-4-9b-chat, Yi-1.5-9B-Chat, Yi-1.5-34B-Chat
+  - Removed outdated models from the leaderboard
+- [2024/6/2] Released v1.18 leaderboard
+  - Added 6 models: abab6.5-chat, abab6.5s-chat, deepseek-chat-v2, yi-large, yi-large-turbo, yi-medium
+  - Added more models to the Chinese Instruction Following leaderboard
+  - Removed outdated models from the leaderboard
+- [2024/5/8] Released v1.17 leaderboard
+  - Added the Chinese Instruction Following leaderboard
+  - Added 4 models: Llama-3-8B-Instruct, Llama-3-70B-Instruct, openbuddy-llama3-8b, Phi-3-mini-128k-instruct
+- [2024/4/13] Released v1.16 leaderboard
+  - Added the Chinese Encoding Efficiency leaderboard. For models of the same size, higher encoding efficiency means faster inference, almost proportionally.
+  - Model update: minimax updated to minimax-abab6-chat
+  - Added 3 models: Qwen1.5-32B-Chat, minimax-abab5.5-chat, minimax-abab5.5s-chat
+- [2024/3/20] Released v1.15 leaderboard
+  - Model update: gpt3.5 updated to the latest version
+  - Added 8 models: gpt-4-turbo, iFlytek Spark v3.5, MiniCPM-2B-dpo, miniCPM-2B-sft, AquilaChat2-70B-Expr, Moonshot kimichat, Google gemma-7b-it, Google gemma-2b-it
+  - Removed outdated models from the leaderboard (e.g., Baichuan2-53B, chatglm-130b-v1, tulu-30b, belle-llama-13b-2m, belle-llama-13b-ext, openbuddy-llama-30b-v7.1, vicuna-33b, etc.)
+- [2024/2/28] Released v1.14 leaderboard
+  - Added 11 models: deepseek-llm-67b-chat, baichuan3, internlm2-chat-20b, internlm2-chat-7b, openbuddy-mixtral-7bx8-v17.1, and 6 models from the qwen1.5 series
+  - Removed outdated models from the leaderboard (e.g., chatglm2-6b, AquilaChat-7B, etc.)
+- [2024/1/29] Released v1.13 leaderboard
+  - Model updates: Microsoft new-bing and Wenxin 4.0 updated to the January 2024 version
+  - Added 6 models: qwen-max, GLM4, BlueLM-7B-Chat, openbuddy-zephyr-7b-v14.1, openbuddy-deepseek-67b-v15.2, XVERSE-65B-Chat
+  - Removed outdated models from the leaderboard (e.g., phoenix-inst-chat-7b, BELLE-on-Open-Datasets, etc.)
+- [2023/12/10] Released v1.12 leaderboard
+  - Added 7 models: Yi-34B-Chat, tigerbot-13b-chat-v4, openbuddy-openllama-3b-v10, Qwen-1_8B-Chat, Yi-6B-Chat, Qwen-72B-Chat, chatglm-turbo
+  - Added open-source model sub-leaderboards: under-10B, 10B-20B, and over-20B model leaderboards
+- [2023/11/22] Released v1.11 leaderboard
+  - Added 4 models: openbuddy-mistral-7b-v13.1, Qwen-7B-Chat, Baichuan2-7B-Chat, tigerbot-70b-chat-v3
+  - Counted Data Analysis capability in the overall score
+- [2023/11/5] Released v1.10 leaderboard
+  - Added 6 models:
+    - 3 commercial models: Wenxin 4.0, Google Bard, iFlytek Spark v3
+    - 3 open-source models: aquilachat2-34b, ziya2-13b-chat, chatglm3-6b
+  - Removed outdated models from the leaderboard (e.g., first-generation chatglm-6b, MOSS, etc.)
+- [2023/10/11] Released v1.9 leaderboard
+  - Added 7 models:
+    - 3 commercial models: Alibaba Tongyi Qianwen v1.0.7, Doubao, Baichuan2-53B
+    - 4 open-source models: Baichuan2-13B-Chat, internlm-chat-20b, qwen-14b-chat, tigerbot-70b-chat-v2
+- [2023/9/13] Released v1.8 leaderboard
+  - Added 7 models:
+    - 2 commercial models: chatglm-std, chatglm-pro
+    - 5 open-source models: openbuddy-llama-30b-v7.1, openbuddy-llama-65b-v8, openbuddy-llama2-70b-v10.1, xverse-13b-chat, Baichuan-13B-Chat-v2
+- [2023/8/29] Released v1.7 leaderboard
+  - Added 2 commercial models: iFlytek Spark v2.0, Baichuan-53B
+  - Table QA (Data Analysis) capability leaderboard: added 21 models to the ranking.
+- [2023/8/13] Released v1.6 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.6)
+  - Added 4 models:
+    - 2 commercial models: SenseTime senseChat, Microsoft new-bing
+    - 2 LLaMA2-based open-source Chinese models: BELLE-Llama2-13B-chat-0.4M, Linly-Chinese-LLaMA2-13B
+- [2023/7/26] Released v1.5 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.5)
+  - Added 7 models: gpt4, Wenxin Yiyan v2.2, vicuna-33b, wizardlm-13b, Ziya-LLaMA-13B-v1.1, InternLM-Chat-7B, Llama-2-70b-chat
+- [2023/7/18] Released v1.4 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.4)
+  - Added 3 models: tulu-30b, chatglm2-6b, Baichuan-13B-Chat
+- [2023/7/2] Released v1.3 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.3)
+  - Added 3 models: 360 Zhinao, MOSS-003-SFT, AquilaChat-7B
+  - iFlytek Spark updated to the latest v1.5 model
+- [2023/6/17] Released v1.2 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.2)
+  - Added 2 models: tigetbot-7b official site, linly-chatflow-13b
+  - Explained the motivation for creating the leaderboard
+- [2023/6/10] Released v1.1 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.1)
+  - Added 3 models: minimax, guanaco, Phoenix-7b
+  - Added Table QA evaluation dimension as a sub-item of reading comprehension
+- [2023/6/4] Released v1 leaderboard, [link](https://github.com/jeinlee1991/chinese-llm-benchmark/releases/tag/v1.0)
