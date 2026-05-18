@@ -1,4 +1,8 @@
 ## Recent Updates
+- [2026/5/13] v5.10.5
+  - Added Model: ernie-5.1
+- [2026/5/1] v5.10.4
+  - Added Model: qwen3.6-27b
 - [2026/4/25] v5.10.3
   - Added Models: deepseek-v4-flash, deepseek-v4-pro, gpt-5.5
 - [2026/4/23] v5.10.2

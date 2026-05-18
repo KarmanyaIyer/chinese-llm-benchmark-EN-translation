@@ -1,7 +1,7 @@
 
 # ReLE Benchmark: Chinese AI Model Capability Evaluation (continuously updated)
 - ReLE (**R**eally R**e**liable **L**ive **E**valuation for LLM), formerly known as CLiB
-- Currently covers 375 models, including commercial models such as chatgpt, gpt-5.5, Google gemini-3.1-pro, Claude-4.6, ERNIE-X1.1, ERNIE-5.0, qwen3.6-max, qwen3.6-plus, Baichuan, iFlytek Spark, SenseTime senseChat, and many more,
+- Currently covers 377 models, including commercial models such as chatgpt, gpt-5.5, Google gemini-3.1-pro, Claude-4.6, ERNIE-X1.1, ERNIE-5.1, qwen3.6-max, qwen3.6-plus, Baichuan, iFlytek Spark, SenseTime senseChat, and many more,
 as well as open-source models such as step3.5-flash, kimi-k2.6, ernie4.5, MiniMax-M2.7, deepseek-v4, Qwen3.6, llama4, Zhipu GLM-5.1, MiMo-V2, LongCat, gemma4, and mistral.
 - Supports multi-dimensional capability evaluation across 7 domains — Education, Medical & Mental Health, Finance, Law & Public Administration, Reasoning & Math, Language & Instruction Following, and Agent & Tool Use — plus around 300 fine-grained sub-dimensions (e.g., dentistry, high-school Chinese, etc.). See our technical report [ReLE: A Scalable System and Structured Benchmark for Diagnosing Capability Anisotropy in Chinese LLMs](https://www.arxiv.org/abs/2601.17399). Media coverage (Synced/Jiqizhixin): [Real-world testing of 304 Chinese LLMs worldwide: no "all-around champion"; ReLE breaks the evaluation deadlock with a 70% cost-reduction solution](https://www.jiqizhixin.com/articles/2026-02-03)
 - Beyond the leaderboard, we also provide a **defect library with over 2 million model failures** to help the community study and improve LLMs.
@@ -59,6 +59,10 @@ as well as open-source models such as step3.5-flash, kimi-k2.6, ernie4.5, MiniMa
 - [Cite Us](#how-to-cite-rele-cite-us)
 
 # Recent Updates
+- [2026/5/13] v5.10.5
+  - New model: ernie-5.1
+- [2026/5/1] v5.10.4
+  - New model: qwen3.6-27b
 - [2026/4/25] v5.10.3
   - New models: deepseek-v4-flash, deepseek-v4-pro, gpt-5.5
 - [2026/4/23] v5.10.2
@@ -133,21 +137,21 @@ See [hot50](GitHub热门评测repo-EN.md) for the full list.
 
 # Basic Model Information
 - [Newest models each week](每周最新模型-EN.md)
+    - [May 4–May 10](每周最新模型-EN.md)
+    - [Apr 27–May 3](每周最新模型-EN.md)
+    - [Apr 20–Apr 26](每周最新模型-EN.md)
     - [Apr 13–Apr 19](每周最新模型-EN.md)
-    - [Apr 6–Apr 12](每周最新模型-EN.md)
-    - [Mar 30–Apr 5](每周最新模型-EN.md)
-    - [Mar 23–Mar 29](每周最新模型-EN.md)
 - For more, see the [model list](https://nonelinear.com/static/models.html)
 <br><br>
 
 # Unified LLM Gateway
 Introducing the one-stop AI Model Marketplace, offering the most comprehensive lineup of LLMs available so you always stay one step ahead.
-- Global models, all in one place: GPT-5.1, Gemini-3-Pro, Claude-4.5, DeepSeek-v3.2, Kimi-k2 ……
+- Global models, all in one place: GPT-5.5, Gemini-3.1-Pro, Claude-4.7, DeepSeek-v4, Kimi-k2.5 ……
 - Smart load balancing and high concurrency: we aggregate multiple top-tier providers and use intelligent routing for automatic load balancing. Say goodbye to annoying rate-limit errors and handle traffic spikes with ease.
 - Automatic failover: if a single provider's API has a hiccup, our system seamlessly switches to a healthy backup channel in milliseconds, ensuring 99.9999% availability and sparing your users any "service unavailable" embarrassment.
 - Online monitoring and intelligent model selection: integrated with online performance monitoring tools to close the loop between model selection and evaluation. Let real data guide you to the best-performing, most cost-effective model.
 [How to integrate online performance monitoring](https://nonelinear.com/static/online-eval.html), [How to integrate model-selection evaluation](https://nonelinear.com/static/task-create.html)
-- **Limited-time 10% off** — incredible value! [See all models and prices](https://nonelinear.com/static/models.html)
+- Excellent value! [See all models and prices](https://nonelinear.com/static/models.html)
 ```
 from openai import OpenAI
 base_url = "https://api.nonelinear.com/v1"

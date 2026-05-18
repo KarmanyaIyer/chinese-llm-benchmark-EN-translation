@@ -1,4 +1,4 @@
-##### (1) Commercial Models (Output Price ≥ ¥30) Leaderboard
+##### (1)Output Price¥30and AboveCommercial Models Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|qwen3.6-max-preview(new)|Alibaba|¥54.0|        75.4%| |        63.2%|        86.1%|        86.5%|        83.7%|        81.8%|        71.4%|        65.2%|        75.7%|

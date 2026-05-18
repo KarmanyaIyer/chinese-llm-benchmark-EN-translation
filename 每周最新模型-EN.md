@@ -1,4 +1,7 @@
 ## Table of Contents
+- [May 4 ~ May 10](#may-4--may-10)
+- [Apr 27 ~ May 3](#apr-27--may-3)
+- [Apr 20 ~ Apr 26](#apr-20--apr-26)
 - [Apr 13 ~ Apr 19](#apr-13--apr-19)
 - [Apr 6 ~ Apr 12](#apr-6--apr-12)
 - [Mar 30 ~ Apr 5](#mar-30--apr-5)
@@ -49,6 +52,68 @@
 
 
 
+## May 4 ~ May 10
+### May 7
+- (Closed-source) Google released the GA version of Gemini 3.1 Flash-Lite. The model is deeply optimized for speed, scale, and cost efficiency, serving as the lightweight flagship in the Gemini 3.1 series for high-throughput, low-cost scenarios. For details see
+https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-lite?hl=zh-cn
+Domestic access: https://nonelinear.com/static/models.html
+
+### May 6
+- (Closed-source) xAI released grok-4.3, which natively supports a million-token (1M) context window, offers configurable reasoning capabilities (with four levels: none/low/medium/high), and integrates function calling and structured output. Pricing is $1.25 per million input tokens, as low as $0.20 per million cached input tokens, and $2.50 per million output tokens. For details see
+https://docs.x.ai/developers/models/grok-4.3
+Domestic access: https://nonelinear.com/static/models.html
+- (Closed-source) Alibaba released fun-music-v1 (the Bailing music generation large model), which supports open-ended song creation requirements or lyrics as input and generates entire male/female-vocal songs in Chinese or English. The songs are accessible and emotionally progressive, representing a perfect combination of human inspiration and large model capabilities. For details see
+https://help.aliyun.com/zh/model-studio/fun-music
+
+### May 5
+- (Closed-source) Google updated the File Search feature to support multimodal search. The gemini-embedding-2 model can now natively embed images and search images, with grounding metadata adding media_id (for visual citations) and page_numbers (for indicating information sources). For details see
+https://ai.google.dev/gemini-api/docs/file-search?hl=zh-cn
+<br><br>
+## Apr 27 ~ May 3
+### May 1
+- (Open-source) Mistral released Mistral Medium 3.5, unifying for the first time the three model lines of instruction following (Medium 3.1), reasoning (Magistral), and coding (Devstral 2) into a single 128B dense model, with a 256K context window and open-source weights supporting commercial use. Self-deployment requires as few as 4 GPUs (80GB+ VRAM). For details see
+https://modelscope.cn/models/mistralai/Mistral-Medium-3.5-128B
+- (Open-source) Ant Bailing team released Ling-2.6-1T, a trillion-scale comprehensive flagship model. Leveraging the architectural innovation of a Hybrid MLA and Linear Attention design, it emphasizes multi-step execution stability and a high intelligence-to-efficiency ratio. In Artificial Analysis evaluation, it reached an Intelligence Index of around 34 using only about 16M output tokens, on par with GPT-5.4 (Non-Reasoning). For details see
+https://www.modelscope.cn/models/inclusionAI/Ling-2.6-1T
+<br><br>
+## Apr 20 ~ Apr 26
+### Apr 24
+- (Open-source) DeepSeek open-sourced a preview of the V4 series under the MIT license, including V4-Pro (1.6T total parameters / 49B activated) and V4-Flash (284B total parameters / 13B activated). All 4 model versions support a million-token context. The series achieves open-source leadership in Agent capabilities, world knowledge, and reasoning performance. Both versions support three reasoning modes: Non-think for fast intuitive responses, Think High for logical analytical reasoning, and Think Max for fully unleashed reasoning to explore the model's reasoning frontier (a context window of at least 384K tokens is recommended). For details see
+https://www.modelscope.cn/collections/deepseek-ai/DeepSeek-V4
+Direct access: https://nonelinear.com/static/models.html
+- (Closed-source) Meituan opened public testing of its new-generation foundation large model LongCat-2.0-Preview. Total parameters exceed one trillion, using an MoE architecture and supporting a 1M context window. The model is deeply optimized for Agent application scenarios and can be adapted to production scenarios such as code generation, complex task planning, and enterprise automation. Training was completed entirely on domestic computing clusters, making it the largest-scale large model training task ever completed on domestic compute. During the testing period, 10 million free tokens are provided daily. For details see
+https://longcat.chat/platform/docs/ChangeLog.html
+
+### Apr 23
+- (Closed-source) OpenAI released its most powerful model to date, GPT-5.5 (codename "Spud"). It is the first foundation model fully retrained from scratch since GPT-4.5, natively and uniformly handling text, image, audio, and video. It focuses on agentic coding, computer operation, knowledge work, and early-stage scientific research. While maintaining the same per-token latency as GPT-5.4, it substantially improves intelligence, and consumes significantly fewer tokens to complete the same Codex tasks. GPT-5.5 Pro launched simultaneously. For details see
+https://openai.com/index/introducing-gpt-5-5/
+Domestic access: https://nonelinear.com/static/models.html
+- (Open-source) Tencent Hunyuan open-sourced the Hy3 preview language model, a Mixture-of-Experts model fusing fast and slow thinking, with 295B total parameters / 21B activated and supporting up to 256K context. This is the first model from Hunyuan's rebuilt post-training pipeline and is the most intelligent model to date, with major improvements in complex reasoning, instruction following, code, and agentic capabilities. For details see
+https://www.modelscope.cn/models/Tencent-Hunyuan/Hy3-preview
+- (Open-source) Alibaba open-sourced Qwen3.6-27B, a highly community-requested dense visual multimodal model in the Qwen3.6 series, with 27 billion parameters and natively supporting 262K context (extendable to 1 million tokens). For details see
+https://www.modelscope.cn/models/Qwen/Qwen3.6-27B
+Direct access: https://nonelinear.com/static/models.html
+- (Closed-source) Alibaba released the qwen3.5-plus-2026-04-20 snapshot, an update to the Qwen3.5 native vision-language series Plus model. Compared with the Feb 15 snapshot, agentic coding capability is substantially improved, inference speed is significantly faster, and knowledge, reasoning, and long-context capabilities are maintained at a high level — well suited for coding agents, production workflows, and high-throughput scenarios. For details see
+https://help.aliyun.com/zh/model-studio/models#e5a8609f0edt3
+Direct access: https://nonelinear.com/static/models.html
+- (Open-source) Moonshot AI open-sourced Kimi K2.6, focused on long-horizon coding execution, agent collaboration, and front-end design generation. It reaches open-source SOTA on coding benchmarks such as Terminal-Bench 2.0 and SWE-Bench Pro, approaching the level of GPT-5.4 and Claude Opus 4.6. The agent cluster architecture scales from K2.5's 100 sub-agents to 300, with coordination steps increased from 1500 to 4000. It supports long-cycle end-to-end coding, code-driven design (turning text + visuals into production-grade interfaces), and 24/7 persistently running background agents, autonomously producing end-to-end outputs such as documents, websites, and spreadsheets. For details see
+https://www.modelscope.cn/models/moonshotai/Kimi-K2.6
+Direct access: https://nonelinear.com/static/models.html
+- (Closed-source) Xiaomi released its most powerful model series to date, MiMo-V2.5, and opened public testing. The series includes 4 models: MiMo-V2.5, MiMo-V2.5-Pro, MiMo-V2.5-TTS Series, and MiMo-V2.5-ASR. V2.5 and V2.5-Pro will be globally open-sourced in the near future. MiMo-V2.5-Pro is built for long and challenging Agent tasks and can go head-to-head with Claude Opus 4.6 and GPT-5.4 on general agents, complex software engineering, and long-horizon tasks. MiMo-V2.5 focuses on native omni-modal fusion, integrating text/image/audio/video into a single model, with API cost reduced by about 50%. For details see
+https://platform.xiaomimimo.com/docs/news/v2.5-news
+Direct access: https://nonelinear.com/static/models.html
+
+### Apr 22
+- (Closed-source) Google launched the GA release of the gemini-embedding-2 embedding model, providing developers with more stable and reliable vector embedding capabilities for downstream tasks such as retrieval, classification, and clustering. For details see
+https://ai.google.dev/gemini-api/docs/embeddings?hl=zh-cn
+- (Closed-source) Alibaba released the qwen-image-2.0-pro-2026-04-22 snapshot. The Qwen-Image-2.0 series fuses image generation with image editing. Compared with the Mar 3 snapshot, it shows clear leaps in image texture, fine-grained detail, lighting, and material rendering, supports multilingual in-image text generation, and delivers more balanced artistic style performance. For details see
+https://help.aliyun.com/zh/model-studio/qwen-image-edit-api
+Direct access: https://nonelinear.com/static/models.html
+
+### Apr 21
+- (Closed-source) Google released a new version of the Deep Research agent, adding collaborative planning, visualization support, MCP server integration, and file search. It comes in two versions: deep-research-preview-04-2026, designed for speed and efficiency, suited to streaming responses back to the client; and deep-research-max-preview-04-2026, focused on maximum comprehensiveness through automatic context collection and synthesis. For details see
+https://ai.google.dev/gemini-api/docs/deep-research?hl=zh-cn
+<br><br>
 ## Apr 13 ~ Apr 19
 ### Apr 17
 - [Open-source] Ant Lingbo (灵波) open-sourced the streaming 3D reconstruction model Lingbo-Map, which uniquely runs on only an ordinary RGB camera. The model uses pure autoregressive modeling with a Geometric Context Attention (GCA) mechanism to achieve "see-and-build" real-time camera pose estimation and 3D scene reconstruction at approximately 20 FPS inference speed. As a key piece of embodied intelligence, it supports long-sequence continuous reasoning without accuracy degradation, providing stable spatial perception for robot navigation, obstacle avoidance, and interaction. See
@@ -58,6 +123,8 @@ https://www.modelscope.cn/models/Robbyant/lingbot-map
 - [Closed-source] Anthropic released Claude Opus 4.7, its most powerful generally available model to date, focused on complex reasoning and agentic coding. Pricing remains consistent with Opus 4.6 ($5/$25 per million tokens). The update includes capability improvements, new features, and a brand-new tokenizer; note there are API breaking changes relative to Opus 4.6. Claude Opus 4.7 and Haiku 4.5 are also available on a self-serve basis to all customers across 27 AWS regions on Amazon Bedrock. See
 https://www.anthropic.com/news/claude-opus-4-7
 Try it in China: https://nonelinear.com/static/models.html
+- (Open-source) Tencent Hunyuan, in collaboration with the Tencent Robotics X Lab, released the HY-Embodied-0.5 embodied intelligence model, which innovatively adopts a Mixture-of-Transformers (MoT) architecture, leveraging latent tokens for modality-specific computation and significantly enhancing fine-grained perception. The series includes two flagship models: MoT-2B (4B total parameters, 2B activated) targeting on-device deployment and real-time response, and MoE-32B (407B total parameters, 32B activated) pursuing peak performance. For details see
+https://modelscope.cn/models/Tencent-Hunyuan/HY-World-2.0
 
 ### Apr 15
 - [Open-source] Alibaba open-sourced Qwen3.6-35B-A3B, the first open-weight release of the Qwen3.6 series under the Apache 2.0 license. A sparse MoE model with 35B total parameters and only 3B activated, its agentic coding capabilities significantly surpass the previous generation Qwen3.5-35B-A3B. It natively supports 262K context, extendable to 1010K, and supports both multimodal thinking and non-thinking modes. See
