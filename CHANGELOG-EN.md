@@ -206,7 +206,7 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Removed outdated models: GLM-Zero-Preview, Baichuan4, ERNIE-4.0, qwq-32b-preview, deepseek-chat-v3, step-1-flash, 360gpt-pro, Mistral-7B-Instruct-v0.3
   - Added data to the "Primary School Math Olympiad" evaluation set; model scores have changed
 - [2025/4/22] v3.18
-  - Added the "Primary School Math Olympiad" leaderboard; gemini-2.5-pro ranks first with a perfect score. See (#88-小学奥数)
+  - Added the "Primary School Math Olympiad" leaderboard; gemini-2.5-pro ranks first with a perfect score. See section 8.8 (Primary School Math Olympiad).
 - [2025/4/17] v3.17
   - Added 2 models: Mistral-Small-3.1-24B-Instruct-2503, gemini-2.5-pro-preview-03-25. See [full model info](https://easyllm.site/static/models.html)
   - Removed outdated models: o1-mini, gemini-2.0-pro-exp-02-05
