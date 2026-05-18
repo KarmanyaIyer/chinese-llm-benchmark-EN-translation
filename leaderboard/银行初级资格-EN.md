@@ -1,0 +1,104 @@
+
+|Category|Organization|Model|[Banking Junior Qualification]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|Doubao|Doubao-1.5-pro-32k-250115|89.0%|11s|350|0.6|1|
+|Commercial|Moonshot|kimi-latest-8k|87.0%|18s|516|6.2|2|
+|Commercial|Doubao|Doubao-1.5-lite-32k-250115|85.0%|7s|227|0.1|3|
+|Commercial|Alibaba|qwen-long-2025-01-25|80.0%|14s|383|0.6|4|
+|Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-32B|79.0%|26s|797|1.0|5|
+|Commercial|Baichuan|Baichuan4-Turbo|76.0%|/|/|/|6|
+|Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-14B|75.5%|/|/|/|7|
+|Commercial|Qihoo 360360|360zhinao2-o1|73.0%|/|/|/|8|
+|Open-source|MiniMax|MiniMax-Text-01|71.0%|12s|989|7.9|9|
+|Commercial|StepFun|step-2-mini|69.5%|10s|416|0.7|10|
+|Commercial|Baichuan|Baichuan4-Air|62.0%|/|/|/|11|
+|Open-source|Google|gemma-3-27b-it|62.0%|/|/|/|12|
+|Commercial|Baidu|ERNIE-Speed-8K|60.9%|/|/|/|13|
+|Open-source|Google|gemma-3-12b-it|55.5%|/|/|/|14|
+|Commercial|Baidu|ERNIE-Lite-8K|53.5%|/|/|/|15|
+|Commercial|Mistral|ministral-8b|49.5%|/|/|/|16|
+|Open-source|Google|gemma-3-4b-it|44.0%|/|/|/|17|
+|Commercial|iFlytek|xunfei-spark-lite|41.9%|/|/|/|18|
+|Commercial|Mistral|ministral-3b|41.5%|/|/|/|19|
+|Open-source|DeepSeek|deepseek-chat-v3-0324|nan%|140s|322|2.1|20|
+|Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|nan%|9s|548|1.1|21|
+|Open-source|Meta|Llama-4-Maverick-17B-128E-Instruct-FP8|nan%|7s|471|1.8|22|
+|Open-source|Zhipu AI|GLM-4-9B-0414|nan%|8s|358|0.0|23|
+|Open-source|Zhipu AI|GLM-Z1-9B-0414|nan%|51s|1969|0.0|24|
+|Open-source|Zhipu AI|GLM-4-32B-0414|nan%|52s|287|0.5|25|
+|Open-source|Zhipu AI|GLM-Z1-32B-0414|nan%|103s|1945|7.5|26|
+|Open-source|Alibaba|Qwen3-32B|nan%|45s|1352|5.2|27|
+|Open-source|Alibaba|Qwen3-14B|nan%|22s|1192|2.3|28|
+|Open-source|Alibaba|Qwen3-8B|nan%|600s|17413|0.0|29|
+|Open-source|Alibaba|Qwen3-4B|nan%|9s|805|2.2|30|
+|Open-source|Alibaba|Qwen3-1.7B|nan%|17s|1205|3.4|31|
+|Open-source|Alibaba|Qwen3-0.6B|nan%|5s|1066|3.0|32|
+|Commercial|OpenAI|o4-mini|nan%|30s|518|14.5|33|
+|Open-source|DeepSeek|DeepSeek-R1-0528|nan%|215s|1644|25.5|34|
+|Commercial|Baidu|ERNIE-4.5-Turbo-32K|nan%|19s|482|1.4|35|
+|Commercial|Baidu|ERNIE-X1-Turbo-32K|nan%|54s|1218|4.7|36|
+|Open-source|DeepSeek|DeepSeek-R1-0528-Qwen3-8B|nan%|301s|1372|0.0|37|
+|Commercial|Anthropic|claude-4-sonnet|nan%|87s|478|41.3|38|
+|Commercial|Anthropic|claude-4-sonnet-thinking|nan%|108s|1270|127.4|39|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|nan%|6s|326|0.4|40|
+|Commercial|Doubao|doubao-seed-1-6-flash-thinking-250615|nan%|8s|573|0.7|41|
+|Commercial|Doubao|doubao-seed-1-6-250615|nan%|7s|322|1.9|42|
+|Open-source|MiniMax|MiniMax-M1|nan%|182s|2719|18.4|43|
+|Open-source|Baidu|ERNIE-4.5-0.3B|nan%|58s|355|0.0|44|
+|Open-source|Baidu|ERNIE-4.5-21B-A3B|nan%|56s|406|0.0|45|
+|Open-source|Baidu|ERNIE-4.5-300B-A47B|nan%|13s|407|2.8|46|
+|Open-source|Tencent|Hunyuan-A13B-Instruct|nan%|26s|668|2.5|47|
+|Commercial|Google|gemini-2.5-flash|nan%|10s|1417|24.6|48|
+|Commercial|xAI|grok-4-0709|nan%|61s|953|96.9|49|
+|Commercial|xAI|grok-3-mini|nan%|161s|822|2.9|50|
+|Commercial|Google|gemini-2.5-pro|nan%|20s|1816|127.2|51|
+|Open-source|Moonshot|kimi-k2-0711-preview|nan%|14s|283|3.7|52|
+|Commercial|Tencent|hunyuan-t1-20250711|nan%|21s|1344|5.0|53|
+|Open-source|Huawei|pangu-pro-moe|nan%|54s|970|3.6|54|
+|Commercial|Alibaba|qwen-turbo-2025-07-15|nan%|9s|356|0.2|55|
+|Open-source|Tencent|Hunyuan-A13B-Instruct-nothink|nan%|19s|434|1.5|56|
+|Open-source|Alibaba|qwen3-235b-a22b-instruct-2507|nan%|11s|422|2.8|57|
+|Commercial|Doubao|doubao-seed-1-6-thinking-250715|nan%|13s|875|6.3|58|
+|Open-source|Alibaba|qwen3-235b-a22b-thinking-2507|nan%|38s|1749|33.3|59|
+|Commercial|iFlytek|xunfei-spark-x1-0725|nan%|/|1122|13.5|60|
+|Open-source|Alibaba|Qwen3-0.6B-nothink|nan%|11s|257|0.5|61|
+|Open-source|Alibaba|Qwen3-1.7B-nothink|nan%|6s|431|1.0|62|
+|Open-source|Alibaba|Qwen3-4B-nothink|nan%|7s|398|0.9|63|
+|Open-source|Alibaba|Qwen3-8B-nothink|nan%|29s|586|0.0|64|
+|Open-source|Alibaba|Qwen3-14B-nothink|nan%|13s|529|0.9|65|
+|Open-source|Alibaba|Qwen3-32B-nothink|nan%|13s|435|1.5|66|
+|Commercial|Zhipu AI|GLM-4.5-Flash|nan%|23s|973|0.0|67|
+|Open-source|Zhipu AI|GLM-4.5-Air|nan%|17s|983|5.5|68|
+|Open-source|Zhipu AI|GLM-4.5|nan%|94s|1787|24.1|69|
+|Open-source|Alibaba|Qwen3-30B-A3B-Instruct-2507|nan%|4s|444|1.1|70|
+|Open-source|Alibaba|Qwen3-30B-A3B-Thinking-2507|nan%|51s|1849|5.0|71|
+|Open-source|StepFun|step-3|nan%|124s|2443|9.6|72|
+|Open-source|Zhipu AI|GLM-4.5-nothink|nan%|37s|1176|15.5|73|
+|Open-source|Zhipu AI|GLM-4.5-Air-nothink|nan%|18s|1101|6.2|74|
+|Commercial|Zhipu AI|GLM-4.5-Flash-nothink|nan%|24s|1230|0.0|75|
+|Open-source|OpenAI|gpt-oss-120b(new)|nan%|18s|640|1.7|76|
+|Open-source|OpenAI|gpt-oss-20b(new)|nan%|11s|793|0.8|77|
+|Commercial|OpenAI|gpt-5-2025-08-07(new)|nan%|18s|430|25.1|78|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07(new)|nan%|67s|572|7.0|79|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07(new)|nan%|32s|1211|3.3|80|
+|Commercial|Tencent|hunyuan-turbos-20250716|nan%|13s|673|1.2|81|
+|Commercial|Alibaba|qwen-flash-2025-07-28|nan%|8s|414|0.5|82|
+|Commercial|Alibaba|qwen-flash-think-2025-07-28|nan%|14s|1472|2.1|83|
+|Open-source|DeepSeek|DeepSeek-V3.1(new)|nan%|21s|318|3.2|84|
+|Open-source|DeepSeek|DeepSeek-V3.1-Think(new)|nan%|34s|704|7.8|85|
+|Commercial|Google|gemini-2.5-flash-lite|nan%|2s|490|1.2|86|
+|Commercial|Mistral|mistral-medium-2508(new)|nan%|161s|481|5.5|87|
+|Open-source|Mistral|Magistral-Small-2507|nan%|80s|6316|67.8|88|
+|Open-source|Mistral|Mistral-Small-3.2-24B-Instruct-2506|nan%|19s|800|1.6|89|
+|Commercial|Alibaba|qwen-plus-2025-07-28|nan%|10s|439|0.8|90|
+|Commercial|Alibaba|qwen-plus-think-2025-07-28|nan%|/|1615|12.3|91|
+|Commercial|Alibaba|qwen-turbo-think-2025-07-15|nan%|/|1721|4.9|92|
+|Commercial|Alibaba|qwen3-max-preview(new)|nan%|10s|441|8.9|93|
+|Open-source|Doubao|Seed-OSS-36B-Instruct(new)|nan%|58s|1138|4.3|94|
+|Open-source|Alibaba|qwen3-next-80b-a3b-instruct(new)|nan%|5s|408|1.4|95|
+|Open-source|DeepSeek|DeepSeek-V3.2-Exp(new)|nan%|108s|281|0.8|96|
+|Open-source|DeepSeek|DeepSeek-V3.2-Exp-Think(new)|nan%|127s|749|2.2|97|
+|Commercial|Tencent|hunyuan-turbos-20250926(new)|nan%|10s|457|0.8|98|
+
+
+![lin](../pic/银行初级资格.png)

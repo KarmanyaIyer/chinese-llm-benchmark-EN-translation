@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[HighSchoolHistory(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|Google|gemini-2.5-pro|72.8%|122s|2980|190.0|1|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|68.0%|71s|664|2.7|2|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|66.7%|75s|903|5.2|3|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|66.0%|61s|1582|10.6|4|
+|Commercial|Google|gemini-2.5-flash|65.3%|116s|3109|49.8|5|
+|Commercial|OpenAI|gpt-5-2025-08-07|63.9%|59s|1819|97.6|6|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|62.6%|39s|1348|4.3|7|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|61.9%|53s|866|4.5|8|
+|Commercial|Doubao|doubao-seed-1-6-250615|61.2%|/|530|0.7|9|
+|Open-source|StepFun|step-3|59.9%|117s|2022|7.2|10|
+|Commercial|StepFun|step-r1-v-mini|59.2%|65s|2548|17.4|11|
+|Commercial|Alibaba|qvq-max-2025-05-15|57.8%|83s|1598|39.4|12|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|57.1%|13s|2043|8.1|13|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|55.8%|/|752|0.5|14|
+|Commercial|Alibaba|qvq-plus-2025-05-15|54.1%|113s|1884|7.9|15|
+|Open-source|Zhipu AI|GLM-4.5V|53.1%|14s|1267|5.5|16|
+|Open-source|Zhipu AI|GLM-4.6V|52.0%|22s|1290|3.0|17|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|50.0%|15s|1530|0.0|18|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|49.7%|42s|733|2.8|19|
+|Commercial|OpenAI|gpt-4.1|49.7%|11s|822|24.4|20|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|49.7%|76s|1099|2.1|21|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|49.0%|48s|787|1.7|22|
+|Commercial|Google|gemini-2.5-flash-lite|47.6%|102s|1775|4.3|23|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07|46.3%|76s|1523|16.9|24|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|45.6%|7s|909|1.3|25|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07|43.5%|97s|2457|6.1|26|
+|Commercial|Moonshot|kimi-latest-8k|42.2%|64s|1406|16.8|27|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|40.1%|87s|1645|1.3|28|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|37.4%|70s|623|1.4|29|
+|Commercial|OpenAI|gpt-4.1-mini|36.1%|10s|690|4.4|30|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|34.0%|63s|1381|2.6|31|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|32.7%|64s|724|1.4|32|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|25.9%|5s|556|0.2|33|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|25.2%|6s|1124|0.0|34|
+|Commercial|Zhipu AI|GLM-4V-Flash|8.2%|3s|610|0.0|35|
+
+
+![lin](../pic/HighSchoolHistory（图形题）.png)

@@ -1,0 +1,41 @@
+
+|Category|Organization|Model|[MiddleSchoolPhysics(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
+|---|---|-----|-------------------|-------|-----------|-----------|-----------|
+|Commercial|Doubao|doubao-seed-1-6-flash-250615|65.6%|/|515|0.3|1|
+|Commercial|Alibaba|qwen-vl-max-2025-08-13|62.5%|38s|1256|4.3|2|
+|Commercial|Google|gemini-2.5-pro|59.4%|152s|3610|238.3|3|
+|Commercial|Tencent|hunyuan-turbos-vision-20250619|56.2%|257s|748|3.9|4|
+|Commercial|Google|gemini-2.5-flash|53.1%|126s|1895|28.5|5|
+|Open-source|StepFun|step-3|53.1%|421s|1974|7.2|6|
+|Commercial|Alibaba|qwen-vl-max-2025-04-08|53.1%|758s|639|3.7|7|
+|Open-source|Baidu|ERNIE-4.5-VL-28B-A3B|50.0%|449s|605|1.3|8|
+|Commercial|Google|gemini-2.5-flash-lite|50.0%|131s|631|1.0|9|
+|Commercial|Tencent|hunyuan-t1-vision-20250619|50.0%|273s|1309|8.5|10|
+|Open-source|Alibaba|qwen2.5-vl-72b-instruct|46.9%|689s|470|1.9|11|
+|Commercial|OpenAI|gpt-5-2025-08-07|46.9%|154s|1901|107.0|12|
+|Commercial|Doubao|doubao-seed-1-6-250615|46.9%|/|560|1.9|13|
+|Open-source|Zhipu AI|GLM-4.5V|43.8%|538s|1281|6.3|14|
+|Commercial|Baidu|ERNIE-4.5-Turbo-VL-Preview|43.8%|584s|2080|9.1|15|
+|Open-source|Zhipu AI|GLM-4.6V|43.8%|19s|1132|2.7|16|
+|Commercial|Alibaba|qwen-vl-plus-2025-08-15|40.6%|6s|729|1.1|17|
+|Commercial|Moonshot|kimi-latest-8k|40.6%|248s|1279|15.4|18|
+|Open-source|Alibaba|qwen2.5-vl-32b-instruct|37.5%|689s|841|1.6|19|
+|Commercial|Alibaba|qvq-plus-2025-05-15|37.5%|864s|2172|9.9|20|
+|Open-source|Zhipu AI|GLM-4.6V-Flash|37.5%|18s|1837|0.0|21|
+|Commercial|Alibaba|qvq-max-2025-05-15|37.5%|769s|1549|41.5|22|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07|37.5%|166s|1763|21.8|23|
+|Commercial|StepFun|step-r1-v-mini|31.2%|522s|4224|30.8|24|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-FlashX|31.2%|391s|1322|2.6|25|
+|Open-source|Alibaba|qwen2.5-vl-3b-instruct|28.1%|619s|442|0.8|26|
+|Commercial|Zhipu AI|GLM-4V-Plus-0111|28.1%|229s|581|2.3|27|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07|25.0%|139s|2829|7.4|28|
+|Commercial|Zhipu AI|GLM-4V-Flash|21.9%|17s|639|0.0|29|
+|Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|21.9%|888s|2032|1.8|30|
+|Open-source|Alibaba|qwen2.5-vl-7b-instruct|21.9%|17s|566|0.2|31|
+|Commercial|Zhipu AI|GLM-4.1V-Thinking-Flash|21.9%|21s|1094|0.0|32|
+|Commercial|Alibaba|qwen-vl-plus-2025-01-25|18.8%|572s|713|2.2|33|
+|Commercial|OpenAI|gpt-4.1|18.8%|561s|664|18.4|34|
+|Commercial|OpenAI|gpt-4.1-mini|15.6%|557s|538|3.6|35|
+
+
+![lin](../pic/MiddleSchoolPhysics（图形题）.png)
