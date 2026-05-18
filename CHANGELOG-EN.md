@@ -100,7 +100,7 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
   - Added 3 models: mistral-medium-2508, Magistral-Small-2507, Mistral-Small-3.2-24B-Instruct-2506. See [full model info](https://nonelinear.com/static/models.html)
   - Removed outdated models: SenseChat-5-1202, qwq-32b, qwq-plus-2025-03-05, GLM-Z1-Flash, mistral-small2, mistral-large2.1, ERNIE-Tiny-8K, Mistral-Small-3.1-24B-Instruct-2503
 - [2025/8/26] v4.13
-  - Multimodal evaluation added qwen-vl-max-2025-08-13, qwen-vl-plus-2025-08-15, gpt-5 series, and gemini-2.5 series models; see [Multimodal Evaluation](README-多模态评测.md)
+  - Multimodal evaluation added qwen-vl-max-2025-08-13, qwen-vl-plus-2025-08-15, gpt-5 series, and gemini-2.5 series models; see [Multimodal Evaluation](README-多模态评测-EN.md)
   - Removed outdated models: chatgpt-4o-latest, gpt-4.1, gpt-4.1-mini, step-r1-v-mini
 - [2025/8/20] v4.12
   - Added 3 models: DeepSeek-V3.1, DeepSeek-V3.1-Think, gemini-2.5-flash-lite. See [full model info](https://nonelinear.com/static/models.html)
@@ -108,14 +108,14 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
   - Removed outdated models: internlm2_5-7b-chat, qwen2.5 series open-source models, qwen2.5-max, GLM-4 / GLM-Z1 series closed-source models, GLM-Z1-Rumination-32B-0414, hunyuan-standard, hunyuan-large, phi-4, 360gpt-turbo
 Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, gemini-2.5-flash-lite-preview-06-17, qwen-plus-think-2025-04-28, qwen-turbo-think-2025-04-28
 - [2025/8/15] v4.11
-  - "Multimodal - Primary School Subjects" added 3 evaluation sets: PrimarySchoolChinese (image questions), PrimarySchoolMathematics (image questions), PrimarySchoolScience (image questions); see [Multimodal Evaluation](README-多模态评测.md)
-  - "Multimodal - High School Subjects" added 4 evaluation sets: HighSchoolBiology (image questions), HighSchoolChemistry (image questions), HighSchoolMathematics (image questions), HighSchoolPhysics (image questions); see [Multimodal Evaluation](README-多模态评测.md)
+  - "Multimodal - Primary School Subjects" added 3 evaluation sets: PrimarySchoolChinese (image questions), PrimarySchoolMathematics (image questions), PrimarySchoolScience (image questions); see [Multimodal Evaluation](README-多模态评测-EN.md)
+  - "Multimodal - High School Subjects" added 4 evaluation sets: HighSchoolBiology (image questions), HighSchoolChemistry (image questions), HighSchoolMathematics (image questions), HighSchoolPhysics (image questions); see [Multimodal Evaluation](README-多模态评测-EN.md)
   - "Multimodal - Middle School Subjects" added 8 evaluation sets: 'MiddleSchoolBiology (image questions)', 'MiddleSchoolChemistry (image questions)', 'MiddleSchoolChinese (image questions)', 'MiddleSchoolPolitics (image questions)',
-    'MiddleSchoolGeography (image questions)', 'MiddleSchoolHistory (image questions)', 'MiddleSchoolMathematics (image questions)', 'MiddleSchoolPhysics (image questions)'; see [Multimodal Evaluation](README-多模态评测.md)
+    'MiddleSchoolGeography (image questions)', 'MiddleSchoolHistory (image questions)', 'MiddleSchoolMathematics (image questions)', 'MiddleSchoolPhysics (image questions)'; see [Multimodal Evaluation](README-多模态评测-EN.md)
   - Removed outdated models: hunyuan-turbos-20250604, gpt-4o-mini
 - [2025/8/10] v4.10
-  - Multimodal added 4 evaluation sets: HighSchoolChinese (image questions), HighSchoolGeography (image questions), HighSchoolHistory (image questions), HighSchoolPolitics (image questions); see [Multimodal Evaluation](README-多模态评测.md)
-  - Added 4 models: Zhipu open-source multimodal GLM-4.5V (see [Multimodal Leaderboard](README-多模态评测.md)), Tencent closed-source hunyuan-turbos-20250716, Alibaba closed-source qwen-flash-2025-07-28, Alibaba closed-source qwen-flash-think-2025-07-28 (qwen-flash with thinking mode enabled)
+  - Multimodal added 4 evaluation sets: HighSchoolChinese (image questions), HighSchoolGeography (image questions), HighSchoolHistory (image questions), HighSchoolPolitics (image questions); see [Multimodal Evaluation](README-多模态评测-EN.md)
+  - Added 4 models: Zhipu open-source multimodal GLM-4.5V (see [Multimodal Leaderboard](README-多模态评测-EN.md)), Tencent closed-source hunyuan-turbos-20250716, Alibaba closed-source qwen-flash-2025-07-28, Alibaba closed-source qwen-flash-think-2025-07-28 (qwen-flash with thinking mode enabled)
 - [2025/8/7] v4.9
   - Added 5 models: OpenAI closed-source GPT5 series (gpt5/gpt5-mini/gpt5-nano), OpenAI open-source gpt-oss-120b, gpt-oss-20b
 - [2025/8/1] v4.8
@@ -138,7 +138,7 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Added 2 language models: the first trillion-parameter open-source model kimi-k2-0711-preview, Qwen3-235B-A22B-nothink (thinking disabled). See [full model info](https://nonelinear.com/static/models.html)
   - Removed outdated models: gemini-2.5-flash-preview-05-20, gemini-2.5-pro-preview-05-06
 - [2025/7/12] v4.2
-  - Multimodal evaluation added "2025 Gaokao (image questions)"; see [Multimodal Evaluation](README-多模态评测.md)<br>
+  - Multimodal evaluation added "2025 Gaokao (image questions)"; see [Multimodal Evaluation](README-多模态评测-EN.md)<br>
   - Added 2 language models: Elon Musk's xAI grok-4-0709 and grok-3-mini. See [full model info](https://nonelinear.com/static/models.html)
   - Removed outdated model: DeepSeek-R1 (0120)
 - [2025/7/9] v4.1
@@ -147,7 +147,7 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Added 3 language models: Gemini 2.5 series (gemini-2.5-pro stable, gemini-2.5-flash stable, gemini-2.5-flash-lite-preview-06-17). See [full model info](https://nonelinear.com/static/models.html)
   - Added 3 multimodal models: GLM-4.1V-Thinking-FlashX, GLM-4.1V-Thinking-Flash, GLM-4.1V-9B-Thinking. See [full model info](https://nonelinear.com/static/models.html)
 - [2025/7/2] v4.0
-  - Added multimodal evaluation for the first time: "Formula Recognition", covering common math, physics, and chemistry formulas; see [link](leaderboard/公式识别.md)
+  - Added multimodal evaluation for the first time: "Formula Recognition", covering common math, physics, and chemistry formulas; see [link](leaderboard/公式识别-EN.md)
   - Added 4 language models: Tencent's first hybrid reasoning model Hunyuan-A13B-Instruct, Baidu ERNIE4.5 series open-source models (ERNIE-4.5-0.3B, ERNIE-4.5-21B-A3B, ERNIE-4.5-300B-A47B). See [full model info](https://nonelinear.com/static/models.html)
   - Data update: added and updated some evaluation data across various dimensions; related model scores have been updated
   - Removed outdated models: hunyuan-turbos-20250313, hunyuan-t1-20250321, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Llama-8B, DeepSeek-R1-Distill-Llama-70B, qwen-turbo-2025-02-11, qwen-plus-2025-01-25
@@ -262,7 +262,7 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Removed outdated models: Doubao-lite-32k-240428, Doubao-pro-32k-240615, o1-preview, WizardLM-2-8x22B, gemini-2.0-flash-lite-preview-02-05
 - [2025/2/22] Released v2.19 leaderboard
   - Added 6 models: kimi-latest-8k, SenseChat-5-beta, chatgpt-4o-latest, Doubao-1.5-pro-32k-250115, Doubao-1.5-lite-32k-250115, 360zhinao2-o1. See [full model info](https://easyllm.site/static/models.html)
-  - Added a reasoning model leaderboard; see [link](leaderboard/reasonmodel.md)
+  - Added a reasoning model leaderboard; see [link](leaderboard/reasonmodel-EN.md)
 - [2025/2/18] Released v2.18 leaderboard
   - Added 2 models: qwen2.5-max, gemini-2.0-flash-thinking-exp-01-21. See [full model info](https://easyllm.site/static/models.html)
   - Added the Deductive Reasoning leaderboard and the C3 Chinese Reading Comprehension leaderboard, now counted in the total score
