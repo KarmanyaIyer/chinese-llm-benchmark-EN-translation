@@ -1,4 +1,4 @@
-##### (3)20B and AboveOpen-source Models Leaderboard
+##### (3) Open-source Models 20B and Above Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|qwen3.5-plus|Alibaba|¥4.8|        73.3%| |        60.9%|        84.8%|        83.4%|        83.0%|        80.4%|        65.5%|        73.7%|        65.5%|

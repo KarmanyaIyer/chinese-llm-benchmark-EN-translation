@@ -1,4 +1,4 @@
-##### (2)Output Price5 – ¥30Commercial Models Leaderboard
+##### (2) Commercial Models (Output Price ¥5 – ¥30) Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|kimi-k2.6(new)|Moonshot|¥27.0|        72.9%| |        62.4%|        89.3%|        86.4%|        80.3%|        82.5%|        71.6%|        63.2%|        62.6%|

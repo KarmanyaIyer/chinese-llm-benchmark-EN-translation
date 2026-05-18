@@ -1,4 +1,4 @@
-##### (2)5B – 20BOpen-source Models Leaderboard
+##### (2) Open-source Models 5B – 20B Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|Qwen3-14B|Alibaba|¥2.0|        51.8%| |        43.0%|        75.6%|        80.2%|        66.2%|        55.5%|        53.3%|        50.0%|        23.9%|

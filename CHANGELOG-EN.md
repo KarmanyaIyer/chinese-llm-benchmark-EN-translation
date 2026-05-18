@@ -15,7 +15,7 @@ mistral-medium-2508, Mistral-Small-3.2-24B-Instruct-2506, Baichuan4-Air, gemma-3
 gemma-3-4b-it, gemma-3-12b-it, Qwen3-1.7B, Qwen3-0.6B, Qwen3-0.6B-nothink, Qwen3-1.7B-nothink
 - [2026/4/15] v5.9
   - Added [terminal bench 2.0 leaderboard](#92-Terminal-Bench-20) to the coding leaderboards
-  - Launched the first [overall coding leaderboard](#9coding排行榜)
+  - Launched the first [overall coding leaderboard](README-EN.md#9-coding-leaderboard)
   - Removed outdated models: DeepSeek-V3.2-Exp, DeepSeek-V3.2-Exp-Think, xunfei-spark-x1-0725, doubao-seed-1-6-flash-250615,
 doubao-seed-1-6-flash-thinking-250615, doubao-seed-1-6-250615, grok-4-0709, GLM-4.5, GLM-4.5-nothink, GLM-4.6, MiniMax-M2,
 qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-preview
@@ -51,7 +51,7 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
 - [2025/12/24] v5.8.9
   - Added Model: qwen3-max-preview-think (qwen3-max-preview with thinking mode enabled)
 - [2025/12/23] v5.8.8
-  - Added a new coding leaderboard, not yet counted in the total score; see [Coding Leaderboard](#9coding排行榜)
+  - Added a new coding leaderboard, not yet counted in the total score; see [Coding Leaderboard](README-EN.md#9-coding-leaderboard)
   - Added Models: GLM-4.7, MiniMax-M2.1
 - [2025/12/18] v5.8.7
   - Added Models: gemini-3-flash-preview, doubao-seed-1-8-251215, MiMo-V2-Flash, MiMo-V2-Flash-think
@@ -73,7 +73,7 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
 - [2025/11/3] v5.8
   - Added Model: MiniMax-M2
   - Removed outdated models: Doubao-1.5-pro-32k-250115, ministral-3b, ministral-8b, hunyuan-turbos-20250716
-  - Integrated LMArena and Artificial Analysis (AA) leaderboard data; see [link](#9整合LMArena和AA分数)
+  - Integrated LMArena and Artificial Analysis (AA) leaderboard data; see [link](README-EN.md#10-combined-lmarena-and-aa-scores)
 - [2025/10/24] v5.7
   - Adjusted the weighting of "Professional capability" and "General capability" from 5:5 to 3:7 to better highlight general capability; model rankings have changed significantly.
   - Added Models: doubao-seed-1-6-251015, doubao-seed-1-6-lite-251015
@@ -86,7 +86,7 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
 - [2025/9/22] v5.4
   - Added BFCL-V3 leaderboard under "Agent and tool use"; see [link](#82-BFCL-V3)
 - [2025/9/14] v5.3
-  - Added a new "Agent and tool use" top-level leaderboard; see [link](#8agent与工具调用排行榜)
+  - Added a new "Agent and tool use" top-level leaderboard; see [link](README-EN.md#8-agent--tool-use-leaderboard)
   - Added Model: Alibaba open-source qwen3-next-80b-a3b-instruct. See [full model info](https://nonelinear.com/static/models.html)
 - [2025/9/10] v5.2
   - Added Model: Doubao open-source Seed-OSS-36B-Instruct. See [full model info](https://nonelinear.com/static/models.html)
@@ -96,7 +96,7 @@ qwen-plus-2025-07-28, qwen-plus-think-2025-07-28, grok-3-mini, gemini-3-pro-prev
   qwen-turbo-think-2025-07-15 (qwen-turbo with thinking mode). See [full model info](https://nonelinear.com/static/models.html)
 - [2025/9/1] v5.0
   - Improved how the "Overall capability" score is computed: "Overall capability" is now the average of "Professional capability" and "General capability", where "Professional capability" is the average across the 4 domains of "Education", "Medical and Mental Health", "Finance", and "Law and Civil Service", and "General capability" is the average across the two domains of "Reasoning and Math" and "Language and Instruction Following". Model rankings have changed.
-  - Added a "Table Summarization" evaluation set under the "Reasoning and Math" domain; see [Table Summarization Leaderboard](#66-表格总结)
+  - Added a "Table Summarization" evaluation set under the "Reasoning and Math" domain; see [Table Summarization Leaderboard](README-EN.md#66-table-summarization)
   - Added 3 models: mistral-medium-2508, Magistral-Small-2507, Mistral-Small-3.2-24B-Instruct-2506. See [full model info](https://nonelinear.com/static/models.html)
   - Removed outdated models: SenseChat-5-1202, qwq-32b, qwq-plus-2025-03-05, GLM-Z1-Flash, mistral-small2, mistral-large2.1, ERNIE-Tiny-8K, Mistral-Small-3.1-24B-Instruct-2503
 - [2025/8/26] v4.13
@@ -153,18 +153,18 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Removed outdated models: hunyuan-turbos-20250313, hunyuan-t1-20250321, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Llama-8B, DeepSeek-R1-Distill-Llama-70B, qwen-turbo-2025-02-11, qwen-plus-2025-01-25
 - [2025/6/23] v3.33
   - **Open Data**: We have open-sourced all collected **2025 Gaokao real exam data** (formulas have been converted to LaTeX); see [link](opendata/2025高考各省真题)
-  - "Gaokao" added real exam data for 6 subjects: biology, chemistry, geography, history, physics, and politics (from newly unlocked provincial exam papers); see [link](#35-高考)
+  - "Gaokao" added real exam data for 6 subjects: biology, chemistry, geography, history, physics, and politics (from newly unlocked provincial exam papers); see [link](README-EN.md#25-gaokao)
   - Added 5 models: MiniMax-M1, qwen-plus-2025-04-28, qwen-plus-think-2025-04-28 (qwen-plus with thinking mode enabled), qwen-turbo-2025-04-28, qwen-turbo-think-2025-04-28 (qwen-turbo with thinking mode enabled). See [full model info](https://nonelinear.com/static/models.html)
   - Updated Model: GLM-Z1-Air, related scores updated
   - Removed outdated models: gemini-2.5-pro-preview-03-25, gemini-2.5-flash-preview-04-17, Llama-3.1-8B-Instruct, Llama-3.2-1B-Instruct, Llama-3.2-3B-Instruct, Llama-3.3-70B-Instruct, Llama-3.3-70B-Instruct-fp8
 - [2025/6/18] v3.32
-  - "Gaokao" added 2025 real exam data for 5 subjects: biology, chemistry, geography, mathematics, and politics (from newly unlocked provincial exam papers). Most models' accuracy dropped significantly, and rankings have shifted; **hunyuan-t1-20250529 ranks first in mathematics with 93% accuracy; DeepSeek-R1-0528 didn't even make the top 5, with only 90% accuracy**. See [link](#35-高考)
+  - "Gaokao" added 2025 real exam data for 5 subjects: biology, chemistry, geography, mathematics, and politics (from newly unlocked provincial exam papers). Most models' accuracy dropped significantly, and rankings have shifted; **hunyuan-t1-20250529 ranks first in mathematics with 93% accuracy; DeepSeek-R1-0528 didn't even make the top 5, with only 90% accuracy**. See [link](README-EN.md#25-gaokao)
   - Added Models: Doubao seed1.6 series 4 models: doubao-seed-1-6-flash-250615, doubao-seed-1-6-flash-thinking-250615 (seed1.6 flash with thinking mode enabled), doubao-seed-1-6-250615, doubao-seed-1-6-thinking-250615. See [full model info](https://nonelinear.com/static/models.html)
   - **The new model doubao-seed-1-6-thinking-250615 surpasses Baidu Wenxin 4.5, dominating first place by a large margin**
   - Removed outdated models: Meta-Llama-3.1-405B-Instruct, Meta-Llama-3.1-8B-Instruct-fp8
 - [2025/6/16] v3.31
-  - "Gaokao" added 2025 real exam questions from all provinces and subjects (each province's papers are aggregated by subject). **Doubao-1.5-thinking-pro ranks first in mathematics with 92% accuracy; DeepSeek-R1-0528 didn't make the top 5, with only 87% accuracy**. See [link](#35-高考)
-  - Education "Middle School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](#32-初中学科)
+  - "Gaokao" added 2025 real exam questions from all provinces and subjects (each province's papers are aggregated by subject). **Doubao-1.5-thinking-pro ranks first in mathematics with 92% accuracy; DeepSeek-R1-0528 didn't make the top 5, with only 87% accuracy**. See [link](README-EN.md#25-gaokao)
+  - Education "Middle School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](README-EN.md#22-middle-school-subjects)
   - Updated Model: GLM-4-Plus, related scores updated
 - [2025/6/13] v3.30
   - "Language and Instruction Following" removed some ambiguous or low-quality samples; related scores have been updated
@@ -172,33 +172,33 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
   - Updated Models: GLM-Z1-FlashX, GLM-4-AirX, GLM-4-Air, GLM-4-Long, related scores updated
   - Removed outdated models: hunyuan-turbos-20250226, ERNIE-4.5-8K-Preview, Claude-3.5-Sonnet, ERNIE-Speed-Pro-128K, ERNIE-Lite-Pro-128K
 - [2025/6/9] v3.29
-  - Education "High School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](#34-高中学科)
+  - Education "High School Subjects": added easy and fill-in-the-blank questions to each subject; related scores have been updated. See [link](README-EN.md#24-high-school-subjects)
   - Added Models: claude-4-sonnet, claude-4-sonnet-thinking. See [full model info](https://nonelinear.com/static/models.html)
   - Updated Models: GLM-4-Plus, GLM-Z1-Air, GLM-Z1-AirX, related scores updated
   - Removed outdated models: DeepSeek-R1-Distill-Qwen-1.5B, gemini-2.0-flash-001, internlm2_5-20b-chat, ERNIE-4.0-Turbo-8K, ERNIE-X1-32K-Preview, glm-4-9b-chat, abab6.5s-chat, o3-mini
 - [2025/6/4] v3.28
-  - Education "Middle School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](#32-初中学科)
+  - Education "Middle School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](README-EN.md#22-middle-school-subjects)
   - Added Models: DeepSeek-R1-0528, DeepSeek-R1-0528-Qwen3-8B, ERNIE-4.5-Turbo-32K, ERNIE-X1-Turbo-32K, gemini-2.5-flash-preview-05-20, gemini-2.5-pro-preview-05-06
 - [2025/5/29] v3.27
-  - "Chinese Character Glyphs" (Language and Instruction Following) added new evaluation samples and now also tests Chinese character stroke order (e.g., the stroke order of "乃" is: ㇌丿); related scores have been updated. **DeepSeek-R1 ranks second, but still scores under 80**. See [link](#910-汉字字形)
+  - "Chinese Character Glyphs" (Language and Instruction Following) added new evaluation samples and now also tests Chinese character stroke order (e.g., the stroke order of "乃" is: ㇌丿); related scores have been updated. **DeepSeek-R1 ranks second, but still scores under 80**. See [link](README-EN.md#710-chinese-character-glyphs)
 - [2025/5/23] v3.26
   - Added Models: Doubao-1.5-thinking-pro, gpt-4.1, gpt-4.1-mini, o4-mini. See [full model info](https://nonelinear.com/static/models.html)
 - [2025/5/18] v3.25
-  - "High School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](#34-高中学科)
-  - "Medical" domain: removed some low-quality samples; related scores have been updated. See [link](#2医疗排行榜)
+  - "High School Subjects": added new evaluation samples and removed some easy, outdated samples for each subject; related scores have been updated. See [link](README-EN.md#24-high-school-subjects)
+  - "Medical" domain: removed some low-quality samples; related scores have been updated. See [link](README-EN.md#3-medical--mental-health-leaderboard)
 - [2025/5/15] v3.24
   - Added Model: xunfei-spark-x1 reasoning model. See [full model info](https://easyllm.site/static/models.html)
-  - "Sudoku": added new evaluation samples and removed some easy ones; related scores have been updated. See [link](#811-数独)
+  - "Sudoku": added new evaluation samples and removed some easy ones; related scores have been updated. See [link](README-EN.md#612-sudoku)
 - [2025/5/10] v3.23
-  - "Table QA": added new evaluation samples and removed some easy ones. See [link](#85-表格问答)
+  - "Table QA": added new evaluation samples and removed some easy ones. See [link](README-EN.md#65-table-qa)
 - [2025/5/5] v3.22
-  - Added the "Chinese Character Glyphs" (Language and Instruction Following) leaderboard, now counted in the total score. See [link](#910-汉字字形)
+  - Added the "Chinese Character Glyphs" (Language and Instruction Following) leaderboard, now counted in the total score. See [link](README-EN.md#710-chinese-character-glyphs)
   - Removed outdated models: gemini-1.5-flash, gemini-1.5-pro, gemini-1.5-flash-8b,
   Hermes-3-Llama-3.1-405B, step-1-8k, gemini-2.0-flash-thinking-exp-01-21,
   Mistral-Small-24B-Instruct-2501, gemma-3-1b-it,
   - "C3 Chinese Reading Comprehension" was merged into the "Reading Comprehension" evaluation set; "Deductive Reasoning" and "Common-sense Reasoning" had some overly easy samples removed
 - [2025/5/2] v3.21
-  - Added the "Sudoku" (Reasoning and Math) leaderboard, now counted in the total score. See [link](#811-数独)
+  - Added the "Sudoku" (Reasoning and Math) leaderboard, now counted in the total score. See [link](README-EN.md#612-sudoku)
 - [2025/4/30] v3.20
   - Added 8 qwen3 series models: Qwen3-235B-A22B, Qwen3-32B, Qwen3-30B-A3B, Qwen3-14B, Qwen3-8B, Qwen3-4B, Qwen3-1.7B, Qwen3-0.6B. See [full model info](https://easyllm.site/static/models.html)
 - [2025/4/28] v3.19
@@ -213,21 +213,21 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
 - [2025/4/9] v3.16
   - Added 3 models: Llama-4-Scout-17B-16E-Instruct, Llama-4-Maverick-17B-128E-Instruct-FP8, ERNIE-X1-32K-Preview. See [full model info](https://easyllm.site/static/models.html)
 - [2025/4/5] v3.15
-  - Added several evaluation dimensions in the Finance domain; see [link](#4金融排行榜)
+  - Added several evaluation dimensions in the Finance domain; see [link](README-EN.md#4-finance-leaderboard)
   - Removed outdated models: abab7-chat-preview, gemini-2.0-flash-exp, gemma-2-9b-it, gemma-2-27b-it, qwen2.5-math-72b-instruct, Mistral-Nemo-Instruct-2407, Llama-3.1-Nemotron-70B-Instruct-fp8
 - [2025/4/3] v3.14
   - Restructured the sub-dimensions for the Medical and Finance domains
   - Added 2 models: hunyuan-t1-20250321, deepseek-chat-v3-0324
 - [2025/3/31] v3.13
-  - Added the "Comprehensive Medical Exam" leaderboard, now counted in the total score. See [link](#214-医学综合考试)
+  - Added the "Comprehensive Medical Exam" leaderboard, now counted in the total score. See [link](README-EN.md#35-basic-medical-knowledge)
 - [2025/3/29] v3.12
-  - Added the "Finance" leaderboard, now counted in the total score. See [link](#4金融排行榜)
+  - Added the "Finance" leaderboard, now counted in the total score. See [link](README-EN.md#4-finance-leaderboard)
   - Removed outdated models: Yi-1.5-34B-Chat, Yi-1.5-9B-Chat
 - [2025/3/27] v3.11
-  - Added the "Medical Postgraduate Exam" leaderboard, now counted in the total score. See [link](#213-医学考研)
+  - Added the "Medical Postgraduate Exam" leaderboard, now counted in the total score. See [link](README-EN.md#36-medical-graduate-entrance-exam)
   - For all sub-tasks in the "Education" domain, removed overly easy test samples and recomputed scores; total scores have changed accordingly
 - [2025/3/25] v3.10
-  - Added the "High School Mathematical Olympiad" leaderboard, now counted in the total score. See [link](#77-高中奥林匹克数学竞赛)
+  - Added the "High School Mathematical Olympiad" leaderboard, now counted in the total score. See [link](README-EN.md#67-high-school-math-olympiad)
   - For "Reasoning and Math" and "Language and Instruction Following", removed overly easy test samples and recomputed scores; total scores have changed accordingly
 - [2025/3/23] v3.9
   - Added the "Professional Knowledge Exam / Traditional Chinese Medicine and Pharmacy" leaderboard, now counted in the total score
@@ -236,29 +236,29 @@ Qwen3-235B-A22B, Qwen3-235B-A22B-nothink, Qwen3-30B-A3B, Qwen3-30B-A3B-nothink, 
 - [2025/3/21] Released v3.8 leaderboard
   - Added "Professional Knowledge Exam / Preventive Medicine and Public Health" and "Mental Health" leaderboards, now counted in the total score
 - [2025/3/19] Released v3.7 leaderboard
-  - Added the "Professional Knowledge Exam / Clinical Medicine" leaderboard (covering 22 fields including medical imaging, radiology, etc.), now counted in the total score. See [link](#210-专业知识考试临床医学)
+  - Added the "Professional Knowledge Exam / Clinical Medicine" leaderboard (covering 22 fields including medical imaging, radiology, etc.), now counted in the total score. See [link](README-EN.md#35-basic-medical-knowledge)
   - The Gaokao leaderboard added the Politics subject and a large number of new questions; all related scores have been updated
 - [2025/3/17] Released v3.6 leaderboard
-  - Added the "Professional Knowledge Exam / Basic Medicine" leaderboard (covering 17 fields including pathophysiology, medical psychology, etc.), now counted in the total score. See [link](#29-专业知识考试基础医学)
+  - Added the "Professional Knowledge Exam / Basic Medicine" leaderboard (covering 17 fields including pathophysiology, medical psychology, etc.), now counted in the total score. See [link](README-EN.md#35-basic-medical-knowledge)
   - Added 2 models: Google gemma-3-27b-it, Mistral-Small-24B-Instruct-2501
 - [2025/3/15] Released v3.5 leaderboard
-  - Added the "Medical Technician Exam" leaderboard (covering 22 fields including Medical Technician - Rehabilitation Medicine, Senior Medical Technician - Oncology Technology, etc.), now counted in the total score. See [link](#28-医技考试)
+  - Added the "Medical Technician Exam" leaderboard (covering 22 fields including Medical Technician - Rehabilitation Medicine, Senior Medical Technician - Oncology Technology, etc.), now counted in the total score. See [link](README-EN.md#34-medical-technology)
 - [2025/3/13] Released v3.4 leaderboard
-  - Added the "Pharmacist Exam" leaderboard (covering 8 fields including Licensed Western Pharmacist, Licensed Traditional Chinese Pharmacist, etc.), now counted in the total score. See [link](#27-药师考试)
+  - Added the "Pharmacist Exam" leaderboard (covering 8 fields including Licensed Western Pharmacist, Licensed Traditional Chinese Pharmacist, etc.), now counted in the total score. See [link](README-EN.md#33-pharmacy)
 - [2025/3/11] Released v3.3 leaderboard
-  - Added the "Nursing Exam" leaderboard (covering 10 fields including Nurse Practice Qualification Exam, Senior Nurse Qualification Exam, etc.), now counted in the total score. See [link](#26-护理考试)
+  - Added the "Nursing Exam" leaderboard (covering 10 fields including Nurse Practice Qualification Exam, Senior Nurse Qualification Exam, etc.), now counted in the total score. See [link](README-EN.md#32-nursing)
   - Added 6 models: qwq-32b, qwq-plus-2025-03-05, step-2-mini, hunyuan-turbos-20250226, xunfei-spark-lite. See [full model info](https://easyllm.site/static/models.html)
 - [2025/3/10] Released v3.2 leaderboard
-  - Added the "Physician Exam / Senior Title" leaderboard (covering 8 fields including Senior Title in Gastroenterology, Senior Title in General Internal Medicine, etc.), now counted in the total score. See [link](#25-医师考试高级职称)
+  - Added the "Physician Exam / Senior Title" leaderboard (covering 8 fields including Senior Title in Gastroenterology, Senior Title in General Internal Medicine, etc.), now counted in the total score. See [link](README-EN.md#31-physicians)
 - [2025/3/7] Released v3.1 leaderboard
-  - Added the "Physician Exam / Mid-level Title" leaderboard (covering 43 fields including Attending Physician of Ultrasound Medicine, Attending Physician of Obstetrics and Gynecology, etc.), now counted in the total score. See [link](#24-医师考试中级职称)
+  - Added the "Physician Exam / Mid-level Title" leaderboard (covering 43 fields including Attending Physician of Ultrasound Medicine, Attending Physician of Obstetrics and Gynecology, etc.), now counted in the total score. See [link](README-EN.md#31-physicians)
 - [2025/3/4] Released v3.0 leaderboard
   - The Overall capability score is now computed as the average of scores across 6 domains: Medical, Education, Law, Civil Service, Reasoning and Math, and Language and Instruction Following.
 - [2025/3/3] Released v2.22 leaderboard
-  - Added the "CMB - Physician Exam - Assistant Practicing Physician" leaderboard (covering 5 fields including Clinical Assistant Practicing Physician, Dental Assistant Practicing Physician, etc.), now counted in the total score. See [link](#2医疗医师考试执业助理医师排行榜)
+  - Added the "CMB - Physician Exam - Assistant Practicing Physician" leaderboard (covering 5 fields including Clinical Assistant Practicing Physician, Dental Assistant Practicing Physician, etc.), now counted in the total score. See [link](README-EN.md#31-physicians)
   - Removed outdated models: SenseChat-Turbo, SenseChat-v4, SenseChat-5, Mixtral-8x7B-Instruct-v0.1
 - [2025/2/28] Released v2.21 leaderboard
-  - Added the "CMB - Physician Exam - Residency Completion" leaderboard (covering 18 fields including Surgery, Dermatology, etc.), now counted in the total score. See [link](#2医疗医师考试规培结业排行榜)
+  - Added the "CMB - Physician Exam - Residency Completion" leaderboard (covering 18 fields including Surgery, Dermatology, etc.), now counted in the total score. See [link](README-EN.md#31-physicians)
   - Removed outdated models: Doubao-lite-32k-240428, Doubao-pro-32k-240615, o1-preview, WizardLM-2-8x22B, gemini-2.0-flash-lite-preview-02-05
 - [2025/2/22] Released v2.19 leaderboard
   - Added 6 models: kimi-latest-8k, SenseChat-5-beta, chatgpt-4o-latest, Doubao-1.5-pro-32k-250115, Doubao-1.5-lite-32k-250115, 360zhinao2-o1. See [full model info](https://easyllm.site/static/models.html)

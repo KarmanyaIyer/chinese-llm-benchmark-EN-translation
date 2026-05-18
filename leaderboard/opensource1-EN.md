@@ -1,4 +1,4 @@
-##### (1)Under 5BOpen-source Models Leaderboard
+##### (1) Open-source Models Under 5B Leaderboard
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|Qwen3-4B|Alibaba|¥3.0|        45.9%| |        33.1%|        64.8%|        70.6%|        53.0%|        51.5%|        56.0%|        40.8%|        19.0%|

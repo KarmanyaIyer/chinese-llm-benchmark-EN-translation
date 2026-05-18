@@ -51,7 +51,7 @@
 
 ## Apr 13 ~ Apr 19
 ### Apr 17
-- [Open-source] Ant Lingbo open-sourced the streaming 3D reconstruction model LingBot-Map, which breakthrough-runs on just an ordinary RGB camera. The model uses pure autoregressive modeling with a Geometric Context Attention (GCA) mechanism to achieve "see-and-build" real-time camera pose estimation and 3D scene reconstruction at approximately 20 FPS inference speed. As a key piece of embodied intelligence, it supports long-sequence continuous reasoning without accuracy degradation, providing stable spatial perception for robot navigation, obstacle avoidance, and interaction. See
+- [Open-source] Ant Lingbo (灵波) open-sourced the streaming 3D reconstruction model Lingbo-Map, which uniquely runs on only an ordinary RGB camera. The model uses pure autoregressive modeling with a Geometric Context Attention (GCA) mechanism to achieve "see-and-build" real-time camera pose estimation and 3D scene reconstruction at approximately 20 FPS inference speed. As a key piece of embodied intelligence, it supports long-sequence continuous reasoning without accuracy degradation, providing stable spatial perception for robot navigation, obstacle avoidance, and interaction. See
 https://www.modelscope.cn/models/Robbyant/lingbot-map
 
 ### Apr 16
@@ -101,12 +101,12 @@ https://modelscope.cn/models/jd-opensource/JoyAI-Image-Edit
 - [Open-source] Google released the Gemma 4 series of open-source models (gemma-4-26b-a4b-it, gemma-4-31b-it), built on the same research and tech stack as Gemini 3, spanning the full hardware range from phones to workstations. They support 140+ languages, text/image/video multimodal input, and built-in toggleable thinking mode. The entire series uses the Apache 2.0 license. See
 https://ai.google.dev/gemma/docs/core?hl=zh-cn
 Try it in China: https://nonelinear.com/static/models.html
-- [Closed-source] Alibaba released Qwen3.6-Plus, the Qianwen 3.6-Plus model, with major upgrades to code development capabilities (Agentic Coding, frontend programming, etc.) and significantly improved Vibe Coding experience; further enhanced general scenario reasoning; substantially improved multimodal recognition, OCR, and object localization; and fixes for known issues from Qwen3.5-Plus. See
+- [Closed-source] Alibaba released Qwen3.6-Plus, the Tongyi Qianwen (Qwen) 3.6-Plus model, with major upgrades to code development capabilities (agentic coding, frontend programming, etc.) and significantly improved Vibe Coding experience; further enhanced general scenario reasoning; substantially improved multimodal recognition, OCR, and object localization; and fixes for known issues from Qwen3.5-Plus. See
 https://help.aliyun.com/zh/model-studio/text-generation
 Try it directly: https://nonelinear.com/static/models.html
 
 ### Apr 1
-- [Closed-source] Alibaba released the Wanxiang 2.7 image generation and editing models (wan2.7-image-pro, wan2.7-image), supporting text-to-image, text-to-group, image-to-group, image editing, multi-image reference generation, and interactive editing. They perform better in text rendering, subject consistency, and complex instruction following. The Pro series supports 4K output; the accelerated version balances quality and response speed. See
+- [Closed-source] Alibaba released the Wanxiang 2.7 image generation and editing models (wan2.7-image-pro, wan2.7-image), supporting text-to-image, text-to-image-group, image-to-image-group, image editing, multi-image reference generation, and interactive editing. They perform better in text rendering, subject consistency, and complex instruction following. The Pro series supports 4K output; the accelerated version balances quality and response speed. See
 https://help.aliyun.com/zh/model-studio/wan-image-generation-and-editing-api-reference
 Try it directly: https://nonelinear.com/static/models.html
 - [Open-source] Alibaba Tongyi Lab open-sourced the CoPaw-Flash series, lightweight models deeply optimized for CoPaw autonomous agent scenarios. Fine-tuned specifically for CoPaw tasks from the training stage, trained on high-quality agent trajectory data sampled from real CoPaw environments at scale, they exhibit stronger Agent performance in tool calling, command execution, memory management, and multi-step planning. Core features include active memory management, native file parsing, efficient information search, and intelligent guidance. See
@@ -131,7 +131,7 @@ https://huggingface.co/mistralai/Voxtral-4B-TTS-2603
 <br><br>
 ## Mar 16 ~ Mar 22
 ### Mar 18
-- [Closed-source] MiniMax released MiniMax M2.7, the first commercial Model to deeply participate in its own training iteration. Through building an Agent Harness, the model autonomously completes over 100 iteration loops (including failure analysis, code modification, and evaluation comparison), shouldering 30%-50% of the workload in some R&D scenarios, with internal evaluations improving by about 30%. It is globally Launched on MiniMax Agent and the open platform, with API pricing matching M2.5. See
+- [Closed-source] MiniMax released MiniMax M2.7, the first commercial model to deeply participate in its own training iteration. Through building an Agent Harness, the model autonomously completes over 100 iteration loops (including failure analysis, code modification, and evaluation comparison), shouldering 30%-50% of the workload in some R&D scenarios, with internal evaluations improving by about 30%. It is globally launched on MiniMax Agent and the open platform, with API pricing matching M2.5. See
 https://www.minimaxi.com/news/minimax-m27-zh
 Try it directly: https://nonelinear.com/static/models.html
 - [Closed-source] Xiaomi released Xiaomi MiMo-V2-Pro, a flagship base Model for the Agent era. Trillion-parameter scale with 1T total and 42B activated, using an innovative hybrid attention architecture (7:1 ratio) and supporting 1M ultra-long context. Previously tested anonymously under the codename "Hunter Alpha", its call volume surpassed 1T tokens and it topped OpenRouter's daily leaderboard for multiple days. See
@@ -140,7 +140,7 @@ Try it directly: https://nonelinear.com/static/models.html
 - [Closed-source] Xiaomi released Xiaomi MiMo-V2-Omni, an omni-modal base model for the Agent era. Natively omni-modal perception supports precise cross-modal understanding of images, video, audio, and text, with native Agent and Browser Use capabilities — a foundation toward embodied intelligence. Ranked #1 in Pinchbench average during the Healer Alpha testing period. See
 https://mimo.xiaomi.com/mimo-v2-omni
 Try it directly: https://nonelinear.com/static/models.html
-- [Closed-source] Xiaomi released Xiaomi MiMo-V2-TTS, a versatile Voice Agent base model that can speak and sing. End-to-end speech generation architecture built on a proprietary Audio Tokenizer and multi-codebook speech modeling, enabling more refined speech feature capture and reconstruction. Pre-trained at massive scale on hundreds of millions of hours of speech across diverse speaking styles and scenarios. Multi-dimensional reinforcement learning training delivers highly human-like, expressive speech generation, with unique abilities including singing and dialects (Sichuanese / Henanese / Cantonese / Taiwanese accent, etc.). See
+- [Closed-source] Xiaomi released Xiaomi MiMo-V2-TTS, a versatile voice agent base model that can speak and sing. End-to-end speech generation architecture built on a proprietary Audio Tokenizer and multi-codebook speech modeling, enabling more refined speech feature capture and reconstruction. Pre-trained at massive scale on hundreds of millions of hours of speech across diverse speaking styles and scenarios. Multi-dimensional reinforcement learning training delivers highly human-like, expressive speech generation, with unique abilities including singing and dialects (Sichuanese / Henanese / Cantonese / Taiwanese accent, etc.). See
 https://mimo.xiaomi.com/mimo-v2-tts
 Try it directly: https://nonelinear.com/static/models.html
 
@@ -150,10 +150,10 @@ https://openai.com/zh-Hans-CN/index/introducing-gpt-5-4-mini-and-nano/
 Try it in China: https://nonelinear.com/static/models.html
 
 ### Mar 16
-- [Closed-source] Zhipu GLM released GLM-5-Turbo, the world's first base model deeply optimized for OpenClaw lobster scenarios. Specialized optimization for core lobster task needs began at the training stage, enhancing tool calling, instruction following, scheduled and persistent tasks, long-chain execution, and supporting a 200K context window. See
+- [Closed-source] Zhipu GLM released GLM-5-Turbo, the world's first base model deeply optimized for OpenClaw Longxia (龙虾) scenarios. Specialized optimization for core Longxia (龙虾) task needs began at the training stage, enhancing tool calling, instruction following, scheduled and persistent tasks, long-chain execution, and supporting a 200K context window. See
 https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo
 Try it directly: https://nonelinear.com/static/models.html
-- [Open-source] Mistral released Mistral Small 4 (mistral-small-2603), the latest in the Mistral Small series, which for the first time unifies Mistral Small (instruction following), Magistral (Reasoning), Pixtral (Multimodal), and Devstral (coding Agent) into a single model. MoE architecture with 4 of 128 experts activated per token, 119B total parameters and only 6B activated, supporting a 256K context window. Supports configurable reasoning strength (reasoning_effort parameter), with end-to-end response time reduced 40% versus Small 3 and throughput improved 3x. Apache 2.0 open-source. See
+- [Open-source] Mistral released Mistral Small 4 (mistral-small-2603), the latest in the Mistral Small series, which for the first time unifies Mistral Small (instruction following), Magistral (reasoning), Pixtral (multimodal), and Devstral (coding agent) into a single model. MoE architecture with 4 of 128 experts activated per token, 119B total parameters and only 6B activated, supporting a 256K context window. Supports configurable reasoning strength (reasoning_effort parameter), with end-to-end response time reduced 40% versus Small 3 and throughput improved 3x. Apache 2.0 open-source. See
 https://mistral.ai/news/mistral-small-4
 - [Open-source] Mistral released Leanstral, the world's first open-source Lean 4 code Agent, designed for formal mathematical proof verification, with 6B core parameters. Apache 2.0 open-source, supports the MCP protocol, can be used zero-config in Mistral Vibe, and provides a free Labs API. See
 https://mistral.ai/news/leanstral
@@ -184,13 +184,13 @@ Try it in China: https://nonelinear.com/static/models.html
 - [Closed-source] Google released Gemini 3.1 Flash-Lite Preview, the first Flash-Lite model in the Gemini 3 series, designed for large-scale, high-frequency scenarios. Priced at just $0.25 per million input tokens + $1.50 per million output tokens — 1/8 the cost of Pro. Output speed is 45% faster than 2.5 Flash, with 2.5x faster time-to-first-token. Supports 1M-token context and multimodal input. See
 https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-lite-preview
 Try it in China: https://nonelinear.com/static/models.html
-- [Closed-source] Alibaba released the qwen-image-2.0 series (qwen-image-2.0-2026-03-03, qwen-image-2.0-pro, qwen-image-2.0-pro-2026-03-03), the Qianwen Image 2.0 series supporting both image generation and editing. The Pro series offers stronger text rendering, photorealism, and semantic adherence; the accelerated version balances quality and response speed. See
+- [Closed-source] Alibaba released the qwen-image-2.0 series (qwen-image-2.0-2026-03-03, qwen-image-2.0-pro, qwen-image-2.0-pro-2026-03-03), the Qwen Image 2.0 series supporting both image generation and editing. The Pro series offers stronger text rendering, photorealism, and semantic adherence; the accelerated version balances quality and response speed. See
 https://help.aliyun.com/zh/model-studio/qwen-image-api
 https://help.aliyun.com/zh/model-studio/qwen-image-edit-api
 Try it directly: https://nonelinear.com/static/models.html
 
 ### Mar 2
-- [Closed-source] Alibaba released CosyVoice 3.5 (cosyvoice-v3.5-plus, cosyvoice-v3.5-flash), the CosyVoice 3.5 speech synthesis model is now Launched, focused on voice cloning and design, supporting instruction-controlled speech synthesis. See
+- [Closed-source] Alibaba released CosyVoice 3.5 (cosyvoice-v3.5-plus, cosyvoice-v3.5-flash), the CosyVoice 3.5 speech synthesis model is now launched, focused on voice cloning and design, supporting instruction-controlled speech synthesis. See
 https://help.aliyun.com/zh/model-studio/text-to-speech
 
 <br><br>
@@ -221,13 +221,13 @@ Try it in China: https://nonelinear.com/static/models.html
 - [Open-source] Alibaba launched the latest model qwen3.5-plus, supporting text, image, and video multimodal input. The model performs excellently across tasks including language understanding, logical reasoning, code generation, agentic tasks, image understanding, video understanding, and graphical user interfaces (GUI), with built-in tool calling support. See
 https://help.aliyun.com/zh/model-studio/text-generation
 Try it directly: https://nonelinear.com/static/models.html
-- [Open-source] Ant Group's inclusionAI team released the new instant-model benchmark Ling-2.5-1T, the most powerful instant model in the Bailing (Ling) family to date. Striking the optimal balance between efficiency and quality, it approaches frontier thinking-model reasoning with about 1/4 the token consumption. Fully open-source (MIT license). See
+- [Open-source] Ant Group's inclusionAI team released the new instant-model benchmark Ling-2.5-1T, the most powerful non-thinking (instruction) model in the Bailing (Ling) family to date. Striking the optimal balance between efficiency and quality, it approaches frontier thinking-model reasoning with about 1/4 the token consumption. Fully open-source (MIT license). See
 https://modelscope.cn/models/inclusionAI/Ling-2.5-1T
 
 <br><br>
 ## Feb 9 ~ Feb 15
 ### Feb 14
-- [Closed-source] ByteDance released the Doubao Seed2.0 series, with three general Agent models (Pro, Lite, Mini) plus a dedicated Code model. The series focuses on improved visual and Multimodal understanding, with more accurate parsing of complex documents, tables, and video content, and substantially improved reliability for multi-constraint, long-chain complex instruction execution. See
+- [Closed-source] ByteDance released the Doubao Seed2.0 series, with three general Agent models (Pro, Lite, Mini) plus a dedicated Code model. The series focuses on improved visual and multimodal understanding, with more accurate parsing of complex documents, tables, and video content, and substantially improved reliability for multi-constraint, long-chain complex instruction execution. See
 https://seed.bytedance.com/zh/blog?order_desc=true&offset=12
 Try it directly: https://nonelinear.com/static/models.html
 
@@ -257,7 +257,7 @@ https://seed.bytedance.com/seedance2_0
 Try it directly: https://nonelinear.com/static/models.html
 
 ### Feb 11
-- [Open-source] inclusionAI (an Ant Group team) released Ring-2.5-1T, an upgrade to Ring-1T, with core highlights "fast, deep, long". Generation efficiency improved more than 3x, memory access overhead reduced 10x; with IMO gold-medal-level deep Thinking capability, and able to continuously work for 2 hours to write a mini operating system. Fully open-source (MIT license). See
+- [Open-source] inclusionAI (an Ant Group team) released Ring-2.5-1T, an upgrade to Ring-1T, with core highlights "fast, deep, long". Generation efficiency improved more than 3x, memory access overhead reduced 10x; with IMO gold-medal-level deep thinking capability, and able to continuously work for 2 hours to write a mini operating system. Fully open-source (MIT license). See
 https://modelscope.cn/models/inclusionAI/Ring-2.5-1T
 
 <br><br>
@@ -267,10 +267,10 @@ https://modelscope.cn/models/inclusionAI/Ring-2.5-1T
 https://platform.claude.com/docs/en/build-with-claude/fast-mode
 
 ### Feb 5
-- [Closed-source] Anthropic released Claude Opus 4.6, the most intelligent model, designed for complex agentic tasks and long-horizon work. Opus 4.6 recommends adaptive Thinking mode; manual Thinking mode (with budget_tokens) is deprecated, and prefilled assistant messages are not supported. See
+- [Closed-source] Anthropic released Claude Opus 4.6, the most intelligent model, designed for complex agentic tasks and long-horizon work. Opus 4.6 recommends adaptive thinking mode; manual thinking mode (with budget_tokens) is deprecated, and prefilled assistant messages are not supported. See
 https://www.anthropic.com/news/claude-opus-4-6
 
-- [Closed-source] OpenAI released GPT-5.3-Codex, the most powerful agentic coding model. It is the first to combine the Codex + GPT-5 training stack, fusing top-tier code generation, Reasoning, and general intelligence in one. About 25% faster, setting new highs on key benchmarks, marking the leap from code generation to actively steerable general-purpose coding agents. See
+- [Closed-source] OpenAI released GPT-5.3-Codex, the most powerful agentic coding model. It is the first to combine the Codex + GPT-5 training stack, fusing top-tier code generation, reasoning, and general intelligence in one. About 25% faster, setting new highs on key benchmarks, marking the leap from code generation to actively steerable general-purpose coding agents. See
 https://openai.com/zh-Hans-CN/index/introducing-gpt-5-3-codex/
 
 ### Feb 3
@@ -293,14 +293,14 @@ https://x.ai/news/grok-imagine-api
 - [Open-source] Alibaba Tongyi released Qwen3-Coder-Next, a programming agent model using an 80B-total-parameter MoE architecture (only 3B activated per inference). On SWE-Bench Verified, the problem-solving rate exceeds 70%, perfectly balancing high performance with low compute cost, demonstrating the "small activated parameters, strong engineering capability" advantage — well suited for compute-sensitive local development scenarios. See
 https://qwen.ai/blog?id=qwen3-coder-next
 ### Jan 29
-- [Closed-source] Alibaba Tongyi released the Xiaomi conversation analysis models, including tongyi-xiaomi-analysis-flash and tongyi-xiaomi-analysis-pro, focused on conversation information extraction, scenario classification, and satisfaction assessment. They excel at handling complex business-logic quality inspection rules, support custom analysis standards, and provide strong multi-turn dialogue understanding and semantic reasoning, delivering specialized solutions for enterprise customer service quality inspection and conversation analysis. See
+- [Closed-source] Alibaba Tongyi released XiaoMi (晓蜜) customer-service conversation analysis models, including tongyi-xiaomi-analysis-flash and tongyi-xiaomi-analysis-pro, focused on conversation information extraction, scenario classification, and satisfaction assessment. They excel at handling complex business-logic quality inspection rules, support custom analysis standards, and provide strong multi-turn dialogue understanding and semantic reasoning, delivering specialized solutions for enterprise customer service quality inspection and conversation analysis. See
 https://help.aliyun.com/zh/model-studio/dialogue-analysis
 
 ### Jan 28
 - [Open-source] Moonshot open-sourced Kimi K2.5, a native multimodal agent model, built on Kimi-K2-Base through continued pretraining on about 15 trillion mixed vision and text tokens. Officials say it is Kimi's most intelligent model to date, achieving open-source SOTA on Agent, code, image, video, and a series of general intelligence tasks; it is also Kimi's most versatile model to date. Key features include: native multimodality with excellent visual knowledge, cross-modal reasoning, and agentic tool use based on visual input; vision-driven coding that generates code based on visual specs and autonomously orchestrates tools to process visual data; agent swarms, evolving from single-agent to a self-directed, collaborative swarm execution architecture that decomposes complex tasks into multiple parallel subtasks executed cooperatively by dynamically instantiated domain-specific agents. See
 https://www.modelscope.cn/models/moonshotai/Kimi-K2.5
 
-- [Open-source] Following the open-source release of Qwen3-TTS, the Tongyi Qianwen Qwen team released the Qwen3-ASR series, including Qwen3-ASR-1.7B and Qwen3-ASR-0.6B, supporting language and speech recognition (ASR) for 52 languages and dialects. The Qwen3-ASR series supports streaming/offline inference in a single unified model and can handle long audio. The complete model architecture and weights are open-sourced, with a vLLM-based inference framework provided supporting batching, async serving, streaming inference, and timestamp prediction. See
+- [Open-source] Following the open-source release of Qwen3-TTS, the Qwen team released the Qwen3-ASR series, including Qwen3-ASR-1.7B and Qwen3-ASR-0.6B, supporting language and speech recognition (ASR) for 52 languages and dialects. The Qwen3-ASR series supports streaming/offline inference in a single unified model and can handle long audio. The complete model architecture and weights are open-sourced, with a vLLM-based inference framework provided supporting batching, async serving, streaming inference, and timestamp prediction. See
 https://www.modelscope.cn/models/Qwen/Qwen3-ASR-0.6B
 https://www.modelscope.cn/models/Qwen/Qwen3-ASR-1.7B
 
@@ -308,7 +308,7 @@ https://www.modelscope.cn/models/Qwen/Qwen3-ASR-1.7B
 https://help.aliyun.com/zh/model-studio/qwen-speech-recognition
 
 ### Jan 27
-- [Closed-source] Alibaba Tongyi released qwen3-max-2026-01-23. Compared to the September 23, 2025 version, it effectively integrates thinking mode and non-thinking mode, significantly improving overall performance. In thinking mode, the model integrates three tools — Web search, web information extraction, and code interpreter — providing higher accuracy on complex problems by introducing external tools during the thinking process, offering powerful support for scenarios requiring deep Reasoning and multi-tool coordination. See
+- [Closed-source] Alibaba Tongyi released qwen3-max-2026-01-23. Compared to the September 23, 2025 version, it effectively integrates thinking mode and non-thinking mode, significantly improving overall performance. In thinking mode, the model integrates three tools — Web search, web information extraction, and code interpreter — providing higher accuracy on complex problems by introducing external tools during the thinking process, offering powerful support for scenarios requiring deep reasoning and multi-tool coordination. See
 https://help.aliyun.com/zh/model-studio/compatibility-with-openai-responses-api
 
 - [Closed-source] Mistral released Mistral Vibe 2.0, a major upgrade to the terminal-native coding agent, powered by the most advanced Devstral 2 model family. Supports building custom subagents, pre-execution clarification confirmations, loading skills via slash commands, and configuring custom workflows to match working styles, empowering teams to build, maintain, and deliver code faster. See
@@ -317,14 +317,14 @@ https://mistral.ai/news/mistral-vibe-2-0
 <br><br>
 ## Jan 19 ~ Jan 25
 ### Jan 23
-- [Open-source] The Tongyi Qianwen Qwen team open-sourced the Qwen3-TTS series of high-performance multilingual text-to-speech models, supporting 10 languages (including Chinese, English, Japanese, Korean, etc.) and dialect voices, designed for global applications. Core features include: efficient speech representation based on the proprietary Qwen3-TTS-Tokenizer-12Hz that preserves paralinguistic information and achieves high-fidelity reconstruction; a discrete multi-codebook end-to-end architecture that removes the information bottleneck and cascade error of traditional LM+DiT setups; extremely low-latency streaming generation with end-to-end latency of just 97ms, meeting real-time interaction needs. See
+- [Open-source] The Qwen team open-sourced the Qwen3-TTS series of high-performance multilingual text-to-speech models, supporting 10 languages (including Chinese, English, Japanese, Korean, etc.) and dialect voices, designed for global applications. Core features include: efficient speech representation based on the proprietary Qwen3-TTS-Tokenizer-12Hz that preserves paralinguistic information and achieves high-fidelity reconstruction; a discrete multi-codebook end-to-end architecture that removes the information bottleneck and cascade error of traditional LM+DiT setups; extremely low-latency streaming generation with end-to-end latency of just 97ms, meeting real-time interaction needs. See
 https://modelscope.cn/collections/Qwen/Qwen3-TTS
 
 ### Jan 22
 - [Open-source] FlashLabs' Chroma-4B advanced multimodal model is officially released, aimed at understanding and generating content across multiple modalities including text and audio. As a virtual human model, Chroma can process auditory input and respond simultaneously in both text and synthetic speech, enabling natural voice interaction. See
 https://modelscope.cn/models/FlashLabs/Chroma-4B
 
-- [Closed-source] At the ERNIE Moment event, Baidu announced that the native omni-modal large model ERNIE 5.0 has officially Launched. With 2.4 trillion parameters, it uses native omni-modal unified modeling technology, supporting input and output across text, image, audio, and video. Individual users can experience it on the ERNIE app or wenxinyiyan.com; enterprises and developers can call it via the Baidu Qianfan platform. See
+- [Closed-source] At the ERNIE Moment event, Baidu announced that the native omni-modal large model ERNIE 5.0 has officially launched. With 2.4 trillion parameters, it uses native omni-modal unified modeling technology, supporting input and output across text, image, audio, and video. Individual users can experience it on the ERNIE app or wenxinyiyan.com; enterprises and developers can call it via the Baidu Qianfan platform. See
 https://ernie.baidu.com/blog/posts/ernie-5.0-0110-release-on-lmarena/
 
 ### Jan 20
@@ -340,7 +340,7 @@ https://www.modelscope.cn/models/lightonai/LightOnOCR-2-1B
 - [Closed-source] Alibaba Tongyi released the wan2.6-i2v-flash image-to-video model, supporting both audio and silent video generation, with independent billing rules for each type. It also features multi-shot storytelling and audio processing capabilities, offering richer expressive forms and more flexible creation tools for video creation. See
 https://help.aliyun.com/zh/model-studio/image-to-video-api-reference
 
-- [Closed-source] Alibaba Tongyi Qianwen released the image editing model Max series, including qwen-image-edit-max and qwen-image-edit-max-2026-01-16, with more stable and richer editing capabilities, enhanced industrial design and geometric reasoning, and improved character consistency and editing precision, providing stronger technical support for professional image editing. See
+- [Closed-source] Alibaba Qwen released the image editing model Max series, including qwen-image-edit-max and qwen-image-edit-max-2026-01-16, with more stable and richer editing capabilities, enhanced industrial design and geometric reasoning, and improved character consistency and editing precision, providing stronger technical support for professional image editing. See
 https://help.aliyun.com/zh/model-studio/qwen-image-edit-guide
 
 ### Jan 16
@@ -353,7 +353,7 @@ https://modelscope.cn/collections/black-forest-labs/FLUX-2-Klein
 - [Open-source] Meituan's LongCat team officially released and open-sourced LongCat-Flash-Thinking-2601, an upgrade to the previously released LongCat-Flash-Thinking. The 2601 version reaches open-source SOTA on core benchmarks including Agentic Search, Agentic Tool Use, and TIR (Tool-Integrated Reasoning). It is the first fully open-source model to support an online free "deep rethinking mode", simultaneously running 8 brains at full speed to ensure thorough thinking and reliable decision-making. See
 https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601
 
-- [Closed-source] Alibaba Tongyi Qianwen released qwen3-tts-vc-realtime-2026-01-15, the latest snapshot of the real-time speech synthesis model. Voice cloning has been further optimized, becoming more natural and closer to the original voice compared to qwen3-tts-vc-realtime-2025-11-27, providing higher-quality voice cloning for real-time speech synthesis applications. See
+- [Closed-source] Alibaba Qwen released qwen3-tts-vc-realtime-2026-01-15, the latest snapshot of the real-time speech synthesis model. Voice cloning has been further optimized, becoming more natural and closer to the original voice compared to qwen3-tts-vc-realtime-2025-11-27, providing higher-quality voice cloning for real-time speech synthesis applications. See
 https://help.aliyun.com/zh/model-studio/qwen-tts-voice-cloning
 
 ### Jan 14
@@ -368,7 +368,7 @@ https://modelscope.cn/models/ZhipuAI/GLM-Image
 https://modelscope.cn/models/OpenBMB/AgentCPM-Explore
 
 ### Jan 12
-- [Closed-source] Alibaba Tongyi Qianwen released qwen-image-plus-2026-01-09, a new snapshot of the image generation model. As a distilled accelerated version of qwen-image-max, it supports rapid generation of high-quality images, substantially improving inference speed while preserving generation quality, providing an efficient solution for high-frequency image generation scenarios. See
+- [Closed-source] Alibaba Qwen released qwen-image-plus-2026-01-09, a new snapshot of the image generation model. As a distilled accelerated version of qwen-image-max, it supports rapid generation of high-quality images, substantially improving inference speed while preserving generation quality, providing an efficient solution for high-frequency image generation scenarios. See
 https://help.aliyun.com/zh/model-studio/qwen-image-api
 
 <br><br>
@@ -383,7 +383,7 @@ https://modelscope.cn/collections/Qwen/Qwen3-VL-Embedding-and-Rerank
 https://modelscope.cn/models/Tencent-YouTu-Research/Youtu-LLM-2B
 
 ### Jan 6
-- [Closed-source] Alibaba Tongyi Qianwen released the speech recognition models qwen3-asr-flash and qwen3-asr-flash-2025-09-08, supporting OpenAI-compatible mode, providing developers with a standardized speech file recognition interface to simplify integration and accelerate development of speech-to-text applications. See
+- [Closed-source] Alibaba Qwen released the speech recognition models qwen3-asr-flash and qwen3-asr-flash-2025-09-08, supporting OpenAI-compatible mode, providing developers with a standardized speech file recognition interface to simplify integration and accelerate development of speech-to-text applications. See
 https://help.aliyun.com/zh/model-studio/qwen-speech-recognition
 
 ### Jan 5
@@ -394,7 +394,7 @@ https://help.aliyun.com/zh/model-studio/cosyvoice-voice-list
 
 ## Dec 29 ~ Jan 4
 ### Dec 31
-- [Closed-source] The Qwen team Launched qwen-image-max-2025-12-30, the Tongyi Qianwen image generation Max series, which compared to the Plus series enhances image realism and naturalness, effectively reducing AI-synthesized artifacts and standing out in human textures, fine details, and text rendering. See
+- [Closed-source] The Qwen team launched qwen-image-max-2025-12-30, the Qwen image generation Max series, which compared to the Plus series enhances image realism and naturalness, effectively reducing AI-synthesized artifacts and standing out in human textures, fine details, and text rendering. See
 https://help.aliyun.com/zh/model-studio/qwen-image-api
 
 ### Dec 30
@@ -412,10 +412,10 @@ https://modelscope.cn/models/Qwen/Qwen-Image-Edit-2511
 https://huggingface.co/stepfun-ai/NextStep-1.1
 
 ### Dec 23
-- [Closed-source] Tongyi Qianwen released qwen-image-edit-plus-2025-12-15, the latest snapshot of the image editing model. Compared to the previous version, it shows significant improvements in character consistency, industrial design capability, and geometric reasoning. Optimized alignment between edited image and original in spatial layout, texture, and style produces more precise and refined editing, providing more powerful tools for professional image processing. See
+- [Closed-source] Qwen released qwen-image-edit-plus-2025-12-15, the latest snapshot of the image editing model. Compared to the previous version, it shows significant improvements in character consistency, industrial design capability, and geometric reasoning. Optimized alignment between edited image and original in spatial layout, texture, and style produces more precise and refined editing, providing more powerful tools for professional image processing. See
 https://help.aliyun.com/zh/model-studio/qwen-image-edit-guide
 
-- [Open-source] MiniMax officially open-sourced the M2 upgrade MiniMax-M2.1, focused on improving real-world complex task utility, with key optimizations in multi-language programming and office scenarios. Core highlights include: outstanding multilingual programming; enhanced Web and native App development with improved Android/iOS development and design aesthetics; upgraded compound instruction understanding, the first open-source series to introduce Interleaved Thinking; a more concise and efficient interaction experience with more refined replies and chains of thought and lower token consumption; and powerful Agent and tool generalization. See
+- [Open-source] MiniMax officially open-sourced the M2 upgrade MiniMax-M2.1, focused on improving real-world complex task utility, with key optimizations in multi-language programming and office scenarios. Core highlights include: outstanding multilingual programming; enhanced Web and native App development with improved Android/iOS development and design aesthetics; upgraded compound instruction understanding, the first open-source series to introduce interleaved thinking; a more concise and efficient interaction experience with more refined replies and chains of thought and lower token consumption; and powerful Agent and tool generalization. See
 https://www.modelscope.cn/models/MiniMax/MiniMax-M2.1
 
 - [Open-source] Zhipu AI released and open-sourced GLM-4.7, focused on enhancing coding capabilities, long-horizon task planning, and tool coordination for coding scenarios, achieving leading open-source results on multiple mainstream public benchmarks. Breakthroughs in three dimensions of coding, reasoning, and agents: stronger coding capability with significant improvements in multi-language coding and terminal agent effectiveness, supporting the "think first, then act" mechanism for frameworks such as Claude Code, TRAE, Kilo Code, Cline, and Roo Code. See
@@ -441,16 +441,16 @@ https://platform.openai.com/docs/models/gpt-image-1.5
 - [Open-source] Xiaomi released MiMo-V2-Flash, a Mixture-of-Experts (MoE) language model with 309B total and 15B activated parameters. Designed for high-speed inference and agentic workflows, it adopts a novel hybrid attention architecture and multi-token prediction (MTP), achieving state-of-the-art performance while significantly reducing inference costs — an efficient solution for large-scale model deployment. See
 https://modelscope.cn/models/XiaomiMiMo/MiMo-V2-Flash
 
-- [Closed-source] Tencent Launched Tencent HY Vision 1.5 Instruct, an image-to-text fast-thinking model produced on the text TurboS base, with significant effectiveness improvements over the previous version across image basic recognition, image analysis, and reasoning. See
+- [Closed-source] Tencent launched Tencent HY Vision 1.5 Instruct, an image-to-text fast-thinking model produced on the text TurboS base, with significant effectiveness improvements over the previous version across image basic recognition, image analysis, and reasoning. See
 https://cloud.tencent.com/document/product/1729/104753
 ### Dec 16
 - [Open-source] Tongyi Lab launched Fun-ASR, an end-to-end speech recognition model trained on tens of millions of hours of real speech data, with strong context understanding and industry adaptability. Supports low-latency real-time transcription, covering 31 languages, and excels in vertical domains such as Education and Finance, accurately recognizing professional terminology and industry expressions, effectively addressing "hallucination" generation and language confusion. Also open-sourced is the lightweight Fun-ASR-Nano with total parameters compressed to 0.8B, significantly reducing inference costs. See
 https://modelscope.cn/models/FunAudioLLM/fun-asr-nano-2512
 
-- [Closed-source] Tongyi Qianwen released qwen3-tts-vd-realtime-2025-12-16, a real-time speech synthesis snapshot model that can use voices generated by voice design for low-latency, high-stability real-time synthesis, supporting multilingual output, automatically adjusting tone based on text, and optimized performance for complex text. See
+- [Closed-source] Qwen released qwen3-tts-vd-realtime-2025-12-16, a real-time speech synthesis snapshot model that can use voices generated by voice design for low-latency, high-stability real-time synthesis, supporting multilingual output, automatically adjusting tone based on text, and optimized performance for complex text. See
 https://help.aliyun.com/zh/model-studio/qwen-tts-realtime
 
-- [Closed-source] Tongyi Qianwen released qwen-voice-design, a voice design model that generates customized voices via text description. Combined with the qwen3-tts-vd-realtime-2025-12-16 model to generate speech, covering 10 languages, providing users with personalized speech synthesis solutions. See
+- [Closed-source] Qwen released qwen-voice-design, a voice design model that generates customized voices via text description. Combined with the qwen3-tts-vd-realtime-2025-12-16 model to generate speech, covering 10 languages, providing users with personalized speech synthesis solutions. See
 https://help.aliyun.com/zh/model-studio/qwen-tts-voice-design
 
 ### Dec 15
@@ -493,17 +493,17 @@ https://www.modelscope.cn/collections/GLM-46V-37fabc27818446
 <br><br>
 ## Dec 1 ~ Dec 7
 ### Dec 5
-- [Closed-source] Tencent Hunyuan released the latest language models Tencent HY 2.0 Think and Tencent HY 2.0 Instruct. HY 2.0 uses a Mixture-of-Experts (MoE) architecture with 406B total and 32B activated parameters, supports a 256K context window, with Reasoning capability and efficiency ranking among China's top tier, and standout performance in practical scenarios such as text creation and complex instruction following. See
+- [Closed-source] Tencent Hunyuan released the latest language models Tencent HY 2.0 Think and Tencent HY 2.0 Instruct. HY 2.0 uses a Mixture-of-Experts (MoE) architecture with 406B total and 32B activated parameters, supports a 256K context window, with reasoning capability and efficiency ranking among China's top tier, and standout performance in practical scenarios such as text creation and complex instruction following. See
 https://cloud.tencent.com/document/product/1729/104753
 
 ### Dec 4
-- [Closed-source] Alibaba released qwen3-omni-flash-2025-12-01 and qwen-plus-2025-12-01. The former is the latest Tongyi Qianwen Omni snapshot, supporting up to 49 voices, with substantially upgraded instruction-following and efficient understanding across text, image, audio, and video. The latter is the latest version of the Qwen3 Plus series. See
+- [Closed-source] Alibaba released qwen3-omni-flash-2025-12-01 and qwen-plus-2025-12-01. The former is the latest Qwen Omni snapshot, supporting up to 49 voices, with substantially upgraded instruction-following and efficient understanding across text, image, audio, and video. The latter is the latest version of the Qwen3 Plus series. See
 https://help.aliyun.com/zh/model-studio/qwen-omni
 
-- [Closed-source] Alibaba released qwen3-omni-flash-realtime-2025-12-01, the latest Tongyi Qianwen Omni real-time snapshot model, providing low-latency multimodal interaction with up to 49 voices and substantially upgraded instruction-following and interaction experience. See
+- [Closed-source] Alibaba released qwen3-omni-flash-realtime-2025-12-01, the latest Qwen Omni real-time snapshot model, providing low-latency multimodal interaction with up to 49 voices and substantially upgraded instruction-following and interaction experience. See
 https://help.aliyun.com/zh/model-studio/realtime
 
-- [Closed-source] Alibaba released qwen3-livetranslate-flash and qwen3-livetranslate-flash-2025-12-01. Tongyi Qianwen3-LiveTranslate-Flash is an audio-video translation model supporting mutual translation across 18 languages (including Chinese, English, Russian, French, etc.), combining visual context to improve translation accuracy, outputting both text and speech. See
+- [Closed-source] Alibaba released qwen3-livetranslate-flash and qwen3-livetranslate-flash-2025-12-01. Qwen3-LiveTranslate-Flash is an audio-video translation model supporting mutual translation across 18 languages (including Chinese, English, Russian, French, etc.), combining visual context to improve translation accuracy, outputting both text and speech. See
 https://help.aliyun.com/zh/model-studio/qwen3-livetranslate-flash
 
 ### Dec 2
@@ -559,7 +559,7 @@ https://ai.meta.com/sam3d/
 https://ai.google.dev/gemini-api/docs/gemini-3?hl=zh-cn
 
 ### Nov 17
-- [Closed-source | Speech Recognition] Alibaba released qwen3-asr-flash-filetrans and qwen3-asr-flash-filetrans-2025-11-17 (snapshot), Tongyi Qianwen's new recording file recognition model, designed for async transcription of audio files supporting up to 12-hour recordings. See
+- [Closed-source | Speech Recognition] Alibaba released qwen3-asr-flash-filetrans and qwen3-asr-flash-filetrans-2025-11-17 (snapshot), Qwen's new recording file recognition model, designed for async transcription of audio files supporting up to 12-hour recordings. See
 https://help.aliyun.com/zh/model-studio/qwen-speech-recognition
 <br><br>
 
@@ -651,7 +651,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 - [Closed-source] Google released the Gemini 2.5 Computer Use preview, supporting computer control via the API. See https://ai.google.dev/gemini-api/docs/computer-use
 
 ### Oct 6
-- [Closed-source] OpenAI officially Launched the GPT-5 pro model API. GPT-5 pro is available only via the Responses API, with a maximum output of 272,000 tokens and a 400,000-token context limit. Knowledge cutoff is September 30, 2024. See https://platform.openai.com/docs/models/gpt-5-pro
+- [Closed-source] OpenAI officially launched the GPT-5 pro model API. GPT-5 pro is available only via the Responses API, with a maximum output of 272,000 tokens and a 400,000-token context limit. Knowledge cutoff is September 30, 2024. See https://platform.openai.com/docs/models/gpt-5-pro
 <br><br>
 
 
@@ -709,7 +709,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 - [Closed-source] Baidu released ERNIE-4.5-21B-A3B-Thinking, a lightweight deep-thinking model focused on improving reasoning quality and depth, with significant performance gains on logical reasoning, math, science, coding, and text generation tasks. See https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flxu4ej5u
 
 ### Sep 17
-- [Open-source] The Tongyi Qianwen team fully open-sourced Tongyi-DeepResearch-30B-A3B, an agentic large language model specifically for long-horizon, deep information-seeking tasks, demonstrating advanced performance on agentic search benchmarks. See https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B
+- [Open-source] The Qwen team fully open-sourced Tongyi-DeepResearch-30B-A3B, an agentic large language model specifically for long-horizon, deep information-seeking tasks, demonstrating advanced performance on agentic search benchmarks. See https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B
 - [Open-source] Alibaba Tongyi Wanxiang released Wan2.2-Animate-14B, a digital human generation model supporting two modes — Animation (motion capture) and Replacement (character replacement) — enabling transformation from static images to animated characters. See https://modelscope.cn/models/Wan-AI/Wan2.2-Animate-14B
 
 ### Sep 15
@@ -719,7 +719,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 
 ## Sep 8 ~ Sep 14
 ### Sep 12
-- [Open-source] Tongyi Qianwen released Qwen3-Next, integrating hybrid attention, high-sparsity MoE, and multi-token prediction. Qwen3-Next-80B-A3B's performance in both "thinking mode" and "non-thinking mode" matches the larger Qwen3-235B-A22B-2507, while substantially improving inference speed, especially in long-context scenarios. See https://modelscope.cn/collections/Qwen3-Next-c314f23bd0264a
+- [Open-source] Qwen released Qwen3-Next, integrating hybrid attention, high-sparsity MoE, and multi-token prediction. Qwen3-Next-80B-A3B's performance in both "thinking mode" and "non-thinking mode" matches the larger Qwen3-235B-A22B-2507, while substantially improving inference speed, especially in long-context scenarios. See https://modelscope.cn/collections/Qwen3-Next-c314f23bd0264a
 
 ### Sep 11
 - [Closed-source] The reasoning model qwen-plus-2025-09-11 is part of the Qwen3 series. Compared to qwen-plus-2025-07-28, in thinking mode it improves instruction following and produces more concise summaries — see https://help.aliyun.com/zh/model-studio/deep-thinking. In non-thinking mode, Chinese understanding and logical reasoning are enhanced — see https://help.aliyun.com/zh/model-studio/text-generation.
@@ -767,8 +767,8 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 
 ## Aug 18 ~ Aug 24
 ### Aug 22
-- [Closed-source] Alibaba released qwen-mt-image, the Tongyi Qianwen image translation model, supporting translation of text on images in 11 languages into Chinese or English, accurately preserving original layout and content information, with features like terminology definition, sensitive word filtering, and image subject detection. See https://help.aliyun.com/zh/model-studio/qwen-mt-image-api
-- [Closed-source] Alibaba released qwen-deep-research, the Tongyi Qianwen deep research model that decomposes complex problems, performs reasoning and analysis combined with internet search, and generates research reports. See https://help.aliyun.com/zh/model-studio/qwen-deep-research
+- [Closed-source] Alibaba released qwen-mt-image, the Qwen image translation model, supporting translation of text on images in 11 languages into Chinese or English, accurately preserving original layout and content information, with features like terminology definition, sensitive word filtering, and image subject detection. See https://help.aliyun.com/zh/model-studio/qwen-mt-image-api
+- [Closed-source] Alibaba released qwen-deep-research, the Qwen deep research model that decomposes complex problems, performs reasoning and analysis combined with internet search, and generates research reports. See https://help.aliyun.com/zh/model-studio/qwen-deep-research
 - [Closed-source] Alibaba released the fun-asr speech recognition model (stable and snapshot versions). FunASR is an end-to-end speech recognition model from Tongyi Lab with excellent context awareness and high-accuracy transcription, supporting Chinese and English recording file recognition. See https://help.aliyun.com/zh/model-studio/recording-file-recognition
 
 ### Aug 21
@@ -783,7 +783,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 - [Open-source] DeepSeek released DeepSeek-V3.1-Base, a hybrid model supporting both thinking and non-thinking modes. See https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.1-Base
 
 ### Aug 19
-- [Open-source] Alibaba released Qwen-Image-Edit, a Tongyi Qianwen image editing model further trained from the 20B Qwen-Image model, supporting dual semantic/appearance editing and precise bilingual Chinese-English text editing, achieving SOTA on multiple public benchmarks. See https://www.modelscope.cn/models/Qwen/Qwen-Image-Edit
+- [Open-source] Alibaba released Qwen-Image-Edit, a Qwen image editing model further trained from the 20B Qwen-Image model, supporting dual semantic/appearance editing and precise bilingual Chinese-English text editing, achieving SOTA on multiple public benchmarks. See https://www.modelscope.cn/models/Qwen/Qwen-Image-Edit
 
 ### Aug 18
 - [Closed-source] Google officially released the URL context tool, which can provide URLs as additional context for prompts. Support for using URL context with gemini-2.0-flash will end in 1 month. See https://ai.google.dev/gemini-api/docs/url-context?hl=zh-cn
@@ -827,7 +827,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 - [Closed-source] Anthropic introduced Claude Opus 4.1, an incremental update to Claude Opus 4 with enhanced capabilities and performance improvements. See the models and pricing docs https://docs.anthropic.com/en/docs/about-claude/models.
 
 ### Aug 4
-- [Open-source | Image Generation] The Tongyi Qianwen team open-sourced its first image generation foundation model Qwen-Image, a 20B MMDiT model showing significant progress in complex text rendering and precise image editing. Key features include: outstanding text rendering — Qwen-Image excels at complex text rendering, supporting multi-line layout, paragraph-level text generation, and fine-grained detail, achieving high-fidelity output in both English and Chinese; consistent image editing (coming soon) — through enhanced multi-task training, Qwen-Image excellently maintains editing consistency during editing; strong cross-benchmark performance — evaluations on multiple public benchmarks show Qwen-Image achieves SOTA on various generation and editing tasks, making it a powerful image generation foundation model. The ModelScope community AIGC section now supports online inference and training for Qwen-Image. Model link: https://www.modelscope.cn/models/Qwen/Qwen-Image.
+- [Open-source | Image Generation] The Qwen team open-sourced its first image generation foundation model Qwen-Image, a 20B MMDiT model showing significant progress in complex text rendering and precise image editing. Key features include: outstanding text rendering — Qwen-Image excels at complex text rendering, supporting multi-line layout, paragraph-level text generation, and fine-grained detail, achieving high-fidelity output in both English and Chinese; consistent image editing (coming soon) — through enhanced multi-task training, Qwen-Image excellently maintains editing consistency during editing; strong cross-benchmark performance — evaluations on multiple public benchmarks show Qwen-Image achieves SOTA on various generation and editing tasks, making it a powerful image generation foundation model. The ModelScope community AIGC section now supports online inference and training for Qwen-Image. Model link: https://www.modelscope.cn/models/Qwen/Qwen-Image.
 <br><br>
 
 
@@ -860,7 +860,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 
 ### Jul 25
 - [Closed-source] iFlytek released the upgraded version of Spark X1, xunfei-spark-x1-0725, a deep reasoning large model trained on fully domestic compute, with significant improvements in mathematical operations, logical reasoning, and hallucination handling, supporting 130+ languages. See the official introduction https://xinghuo.xfyun.cn/sparkapi.
-- [Open-source] Alibaba released Qwen3-235B-A22B-Thinking-2507, a thinking-enhanced version of Qianwen 3-235B-A22B with significant improvements on reasoning tasks such as logic, math, science, and coding, supporting 256K long context understanding. For more, visit https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Thinking-2507/summary.
+- [Open-source] Alibaba released Qwen3-235B-A22B-Thinking-2507, a thinking-enhanced version of Qwen 3-235B-A22B with significant improvements on reasoning tasks such as logic, math, science, and coding, supporting 256K long context understanding. For more, visit https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Thinking-2507/summary.
 
 ### Jul 24
 - [Open-source] Infinigence AI released Megrez2-3x7B-A3B-Preview, an MoE-architecture large model designed specifically for terminal devices, trained on 5T tokens. For more, visit https://modelscope.cn/models/InfiniAI/Megrez2-3x7B-A3B-Preview/summary.
@@ -875,7 +875,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
 - [Closed-source] Google released gemini-2.5-flash-lite, the lightweight version of the Gemini 2.5 series, focused on the balance of speed, low cost, and high performance. For more on Gemini 2.5 Flash-Lite, visit the model page https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.5-flash-lite.
 
 ### Jul 21
-- [Open-source] Alibaba released Qwen3-235B-A22B-Instruct-2507, an updated non-thinking-mode version of Qianwen 3 with significant improvements in general capability, logical reasoning, and 256K long-text understanding, with substantially expanded multilingual knowledge coverage. For more, visit https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Instruct-2507/summary.
+- [Open-source] Alibaba released Qwen3-235B-A22B-Instruct-2507, an updated non-thinking-mode version of Qwen 3 with significant improvements in general capability, logical reasoning, and 256K long-text understanding, with substantially expanded multilingual knowledge coverage. For more, visit https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Instruct-2507/summary.
 <br><br>
 
 
@@ -898,7 +898,7 @@ https://modelscope.cn/models/iflytek/Spark-Scilit-X1-13B
   - Model links: [Voxtral-Small-24B-2507](https://modelscope.cn/models/mistralai/Voxtral-Small-24B-2507), [Voxtral-Mini-3B-2507](https://www.modelscope.cn/models/mistralai/Voxtral-Mini-3B-2507)
 
 ### Jul 15
-  - [Closed-source | Multimodal Generation] Zhipu CogVideoX-3 video generation model is Launched, a newly upgraded video generation large model supporting text-to-video and image-to-video, adding first/last frame generation, with significantly improved subjective clarity, natural and smooth large-motion subjects, and improved performance on HD realistic and 3D-style scenes. See [CogVideoX-3](https://bigmodel.cn/dev/howuse/video-generation-model/CogVideoX-3)
+  - [Closed-source | Multimodal Generation] Zhipu CogVideoX-3 video generation model is launched, a newly upgraded video generation large model supporting text-to-video and image-to-video, adding first/last frame generation, with significantly improved subjective clarity, natural and smooth large-motion subjects, and improved performance on HD realistic and 3D-style scenes. See [CogVideoX-3](https://bigmodel.cn/dev/howuse/video-generation-model/CogVideoX-3)
   - [Closed-source | Text] Doubao released doubao-seed-1-6-thinking-250715
   - [Closed-source | Text] Alibaba released qwen-turbo-2025-07-15
 
@@ -950,18 +950,18 @@ Model download: [SmolLM3-3B](https://modelscope.cn/models/HuggingFaceTB/SmolLM3-
 - [Open-source] Baidu released open-source models: ERNIE-4.5-0.3B, ERNIE-4.5-21B-A3B, multimodal ERNIE-4.5-VL-28B-A3B, ERNIE-4.5-300B-A47B, multimodal ERNIE-4.5-VL-424B-A47B. Model download [ERNIE-4.5](https://modelscope.cn/collections/ERNIE-45-56f40e2777e348).
 
 ### Jun 27
-- [Open-source] FLUX.1-Kontext-dev: FLUX.1 Kontext is a professional image generation and editing model open-sourced by Black Forest Labs, focused on precise image editing via context-aware technology. The model supports mixed text and image input, can intelligently understand image content and perform various editing tasks such as object modification, style transfer, and background replacement, while maintaining subject consistency well across multi-turn editing. Its core uses a flow matching architecture combined with a dual-stream and single-stream hybrid design, improving semantic association precision and generation speed. Flux.1 Kontext [dev] is now officially Launched in the ModelScope AIGC section, supporting free online image editing. It also supports online GUI-based model training, allowing LoRA model training based on the Flux.1 Kontext [dev] base. Model download: [FLUX.1-Kontext-dev](https://modelscope.cn/models/black-forest-labs/FLUX.1-Kontext-dev).
+- [Open-source] FLUX.1-Kontext-dev: FLUX.1 Kontext is a professional image generation and editing model open-sourced by Black Forest Labs, focused on precise image editing via context-aware technology. The model supports mixed text and image input, can intelligently understand image content and perform various editing tasks such as object modification, style transfer, and background replacement, while maintaining subject consistency well across multi-turn editing. Its core uses a flow matching architecture combined with a dual-stream and single-stream hybrid design, improving semantic association precision and generation speed. Flux.1 Kontext [dev] is now officially launched in the ModelScope AIGC section, supporting free online image editing. It also supports online GUI-based model training, allowing LoRA model training based on the Flux.1 Kontext [dev] base. Model download: [FLUX.1-Kontext-dev](https://modelscope.cn/models/black-forest-labs/FLUX.1-Kontext-dev).
 - [Open-source] Google officially open-sourced Gemma 3n, an on-device multimodal model that runs natively on phones, tablets, and laptops, handling audio, text, image, and video data. Compared to the previous preview, the latest Gemma 3n full version further improves performance, supports local running on hardware with 2GB memory, and focuses on enhancing coding and reasoning. This open-source release provides two versions: 5B-parameter (E2B) and 8B-parameter (E4B), with actual memory footprint equivalent to 2B and 4B models respectively. It uses a MatFormer hierarchical nested architecture (like Russian dolls), supporting dynamic compute resource adjustment, combined with Per Layer Embeddings (PLE) and the MobileNet-v5 vision encoder, significantly improving memory efficiency and visual processing. The model enhances multilingual support (140 text languages, 35 multimodal understanding), math operations, code generation, and complex reasoning, suitable for offline intelligent assistants, real-time multimodal interaction, localized content generation, etc., balancing high performance and low power consumption. Model download: [gemma-3n-E2B-it](https://modelscope.cn/models/google/gemma-3n-E2B-it).
 
 ### Jun 26
 - [Closed-source] Alibaba qwen-tts-2025-05-22, a May 22, 2025 snapshot of the qwen-tts model. Added three voices: Beijing dialect, Wu dialect, and Sichuan dialect.
 - [Closed-source] The preview models gemini-2.5-pro-preview-05-06 and gemini-2.5-pro-preview-03-25 will now redirect to the latest stable version gemini-2.5-pro. gemini-2.5-pro-exp-03-25 has been deprecated.
 - [Closed-source] OpenAI released two brand-new Deep Research APIs: o3-deep-research-2025-06-26 and o4-mini-deep-research-2025-06-26, designed for high-order analysis and deep information synthesis, enabling automated web search, data analysis, code execution, etc., supporting multi-step research and generating structured, cited reports.
-- [Closed-source] Alibaba Tongyi Qianwen launched Qwen VLo, a multimodal unified understanding and generation model, introducing a top-to-bottom, left-to-right progressively clarifying generation process, suitable for long-paragraph text generation tasks requiring fine-grained control. See [qwen-vlo](https://qwenlm.github.io/zh/blog/qwen-vlo). Not open-source, no API released. [Try it](https://chat.qwen.ai).
+- [Closed-source] Alibaba Qwen launched Qwen VLo, a multimodal unified understanding and generation model, introducing a top-to-bottom, left-to-right progressively clarifying generation process, suitable for long-paragraph text generation tasks requiring fine-grained control. See [qwen-vlo](https://qwenlm.github.io/zh/blog/qwen-vlo). Not open-source, no API released. [Try it](https://chat.qwen.ai).
 - [Open-source] Kuaishou open-sourced the new multimodal large model Keye-VL-8B-Preview, able to convert video content into solutions, with intelligent thinking-mode selection balancing efficiency and creativity. Model download [Keye-VL-8B-Preview](https://huggingface.co/Kwai-Keye/Keye-VL-8B-Preview).
 
 ### Jun 25
-- [Open-source] hunyuan-a13b is Launched. Use cases: most scenarios, balancing performance and inference performance. Capabilities and features: Hunyuan's first hybrid reasoning model, an upgrade of hunyuan-standard-256K, 80B total parameters with 13B activated. Default is slow-thinking mode, supporting switching between fast/slow thinking via parameters or instructions; slow/fast thinking switching by prepending /no_think to the query. Overall capability comprehensively improved over the previous generation, particularly significant improvements in math, science, long-text understanding, and Agent capabilities. Model architecture: Hunyuan MoE structure. Tencent Hunyuan announced the open-sourcing of its first hybrid reasoning MoE model Hunyuan-A13B, with 80B total parameters and only 13B activated, comparable to leading open-source models with the same architecture, with faster inference and better cost-performance. Model download [Hunyuan-A13B-Instruct](https://modelscope.cn/models/Tencent-Hunyuan/Hunyuan-A13B-Instruct).
+- [Open-source] hunyuan-a13b is launched. Use cases: most scenarios, balancing performance and inference performance. Capabilities and features: Hunyuan's first hybrid reasoning model, an upgrade of hunyuan-standard-256K, 80B total parameters with 13B activated. Default is slow-thinking mode, supporting switching between fast/slow thinking via parameters or instructions; slow/fast thinking switching by prepending /no_think to the query. Overall capability comprehensively improved over the previous generation, particularly significant improvements in math, science, long-text understanding, and Agent capabilities. Model architecture: Hunyuan MoE structure. Tencent Hunyuan announced the open-sourcing of its first hybrid reasoning MoE model Hunyuan-A13B, with 80B total parameters and only 13B activated, comparable to leading open-source models with the same architecture, with faster inference and better cost-performance. Model download [Hunyuan-A13B-Instruct](https://modelscope.cn/models/Tencent-Hunyuan/Hunyuan-A13B-Instruct).
 - [Closed-source] Baidu ERNIE-4.5-Turbo-128K-Preview comprehensively improves model capabilities, better serving multi-turn long-history dialogue handling and long-document understanding Q&A tasks. This version is the latest in this series.
 - [Open-source] Jina AI officially open-sourced jina-embeddings-v4, a brand-new multimodal embedding model with 3.8 billion parameters, achieving simultaneous text and image processing for the first time. To maximize performance across various retrieval tasks, the model has built-in task-specific LoRA adapters, specifically enhancing performance on query-document retrieval, semantic matching, and code search. On benchmarks such as MTEB, MMTEB, CoIR, LongEmbed, STS, Jina-VDR, and ViDoRe, jina-embeddings-v4 demonstrates top performance on multimodal and multilingual retrieval. It particularly excels at interpreting visually rich content — whether tables, charts, or complex diagrams — precisely capturing deep semantics. The model also supports both single-vector and multi-vector representations, flexibly meeting various scenario needs. Model download: [jina-embeddings-v4](https://modelscope.cn/models/jinaai/jina-embeddings-v4).
 
@@ -979,8 +979,8 @@ Model download: [SmolLM3-3B](https://modelscope.cn/models/HuggingFaceTB/SmolLM3-
 - [Closed-source] MiniMax music model music-1.5 released, a new-generation music generation model supporting music generation from musical inspiration and lyrics.
 
 ### Jun 19
-- [Closed-source] hunyuan-t1-vision-20250619 is Launched. Features: Hunyuan's latest t1-vision multimodal-understanding deep-thinking model, supporting multimodal native long chain-of-thought, comprehensively improved over the previous default version.
-- [Closed-source] hunyuan-turbos-vision-20250619 is Launched. Features: Hunyuan's latest turbos-vision vision-language flagship large model, comprehensively improved on image-text understanding tasks (including image-based entity recognition, knowledge Q&A, copywriting, photo problem-solving, etc.) over the previous default version.
+- [Closed-source] hunyuan-t1-vision-20250619 is launched. Features: Hunyuan's latest t1-vision multimodal-understanding deep-thinking model, supporting multimodal native long chain-of-thought, comprehensively improved over the previous default version.
+- [Closed-source] hunyuan-turbos-vision-20250619 is launched. Features: Hunyuan's latest turbos-vision vision-language flagship large model, comprehensively improved on image-text understanding tasks (including image-based entity recognition, knowledge Q&A, copywriting, photo problem-solving, etc.) over the previous default version.
 
 ### Jun 18
 - [Closed-source] Zhipu integrated two popular Vidu video generation models
@@ -1034,7 +1034,7 @@ Model download: [SmolLM3-3B](https://modelscope.cn/models/HuggingFaceTB/SmolLM3-
 - [Open-source] ModelBest unveiled MiniCPM 4.0 — an extremely efficient on-device large model. Through its proprietary CPM.cu inference framework, it achieves up to 220x speed improvement and 5x typical speedup. The open-source community release features two parameter scales — 8B and 0.5B — both achieving best-in-class performance among same-tier models. The MiniCPM4 series achieves extreme on-device inference efficiency through systematic technical innovation: it uses the trainable sparse attention architecture InfLLM v2, compressing token-association computation to under 5% on 128K long-text processing; combined with BitCPM ternary quantization for 90% bit-width compression, plus FP8 low-precision computation and multi-token prediction substantially reducing training costs; building a high-quality multidimensional training set via UltraClean data cleaning and UltraChat v2 synthesis; integrating the efficient CUDA framework CPM.cu on the inference side, fusing sparse attention, model quantization, and speculative decoding, and achieving flexible deployment via the cross-platform ArkInfer system. Model download: [MiniCPM4-0.5B](https://modelscope.cn/models/OpenBMB/MiniCPM4-0.5B).
 
 ### Jun 4
-- [Closed-source] Tencent Hunyuan hunyuan-turbos-20250604 is Launched. Capabilities and features: pretraining base upgrade, improved writing and reading comprehension, significantly improved code and STEM capabilities, continued improvement in complex instruction following, etc.
+- [Closed-source] Tencent Hunyuan hunyuan-turbos-20250604 is launched. Capabilities and features: pretraining base upgrade, improved writing and reading comprehension, significantly improved code and STEM capabilities, continued improvement in complex instruction following, etc.
 - [Closed-source] Alibaba released text-embedding-v4, an upgrade of text-embedding-v3, part of the Qwen3-Embedding series. Compared to the previous version, it covers more natural languages and multiple programming languages, and adds 2048 and 1536 vector dimension options.
 - [Open-source] Alibaba Tongyi Lab open-sourced the Qwen3-Embedding series, a new member of the Qwen family. The series is designed for text representation, retrieval, and ranking tasks, trained on the Qwen3 base model, fully inheriting Qwen3's strengths in multilingual text understanding. Built on the Qwen3 base, the Embedding model and Reranker model use dual-tower and single-tower architectures respectively. Via LoRA fine-tuning, they maximally preserve and inherit the text understanding capabilities of the base model. Model download: [Qwen3-Embedding-8B](https://modelscope.cn/models/Qwen/Qwen3-Embedding-8B).
 
