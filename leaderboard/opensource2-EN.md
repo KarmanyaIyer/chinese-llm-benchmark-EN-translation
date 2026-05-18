@@ -2,7 +2,7 @@
 |Rank|Model|Organization|Output Price|Total Score| |Education|Medical & Mental Health|Finance|Law & Public Administration|Reasoning & Math|Language & Instruction Following|Agent & Tool Use|coding|
 |---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
 |1|Qwen3-14B|Alibaba|¥2.0|        51.8%| |        43.0%|        75.6%|        80.2%|        66.2%|        55.5%|        53.3%|        50.0%|        23.9%|
-|2|gpt-oss-20b|openAI|¥0.994|        49.7%| |        34.1%|        53.1%|        60.8%|        59.7%|        66.0%|        59.3%|        40.0%|        29.6%|
+|2|gpt-oss-20b|OpenAI|¥0.994|        49.7%| |        34.1%|        53.1%|        60.8%|        59.7%|        66.0%|        59.3%|        40.0%|        29.6%|
 |3|Qwen3-8B|Alibaba|¥0.0|        47.7%| |        35.0%|        67.5%|        72.4%|        66.8%|        55.8%|        57.8%|        45.9%|        9.5%|
 |4|Qwen3-14B-nothink|Alibaba|¥2.0|        42.6%| |        26.9%|        67.7%|        68.2%|        63.0%|        42.7%|        54.6%|        35.5%|        14.2%|
 |5|Ministral-3-14B-Instruct-2512|Mistral|¥1.424|        39.4%| |        30.0%|        55.8%|        59.1%|        41.7%|        46.8%|        42.5%|        43.0%|        13.0%|

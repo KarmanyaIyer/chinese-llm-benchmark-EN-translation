@@ -1,16 +1,16 @@
 
-|Category|Organization|Model|[MiddleSchoolGeography(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[MiddleSchoolGeography(Image Questions)]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
-|Commercial|google|gemini-2.5-flash|76.7%|120s|1822|27.2|1|
-|Commercial|openAI|gpt-5-2025-08-07|76.7%|124s|1584|80.7|2|
-|Commercial|google|gemini-2.5-pro|73.3%|173s|1994|121.3|3|
+|Commercial|Google|gemini-2.5-flash|76.7%|120s|1822|27.2|1|
+|Commercial|OpenAI|gpt-5-2025-08-07|76.7%|124s|1584|80.7|2|
+|Commercial|Google|gemini-2.5-pro|73.3%|173s|1994|121.3|3|
 |Open-source|Alibaba|qwen2.5-vl-72b-instruct|70.0%|493s|717|3.0|4|
 |Open-source|StepFun|step-3|63.3%|452s|2077|7.6|5|
 |Commercial|Alibaba|qwen-vl-max-2025-08-13|60.0%|32s|1189|3.6|6|
 |Commercial|Alibaba|qwen-vl-max-2025-04-08|60.0%|634s|854|4.4|7|
 |Commercial|StepFun|step-r1-v-mini|60.0%|610s|2734|19.1|8|
 |Commercial|Tencent|hunyuan-t1-vision-20250619|60.0%|351s|1607|10.4|9|
-|Commercial|openAI|gpt-5-mini-2025-08-07|60.0%|136s|1243|12.5|10|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07|60.0%|136s|1243|12.5|10|
 |Open-source|Alibaba|qwen2.5-vl-32b-instruct|60.0%|589s|1076|2.0|11|
 |Commercial|Doubao|doubao-seed-1-6-250615|58.6%|/|718|1.5|12|
 |Commercial|Alibaba|qvq-plus-2025-05-15|56.7%|829s|1657|6.6|13|
@@ -20,14 +20,14 @@
 |Commercial|Alibaba|qvq-max-2025-05-15|53.3%|799s|1414|32.1|17|
 |Commercial|Moonshot|kimi-latest-8k|50.0%|464s|1231|13.8|18|
 |Open-source|Zhipu AI|GLM-4.6V-Flash|50.0%|15s|1861|0.0|19|
-|Commercial|openAI|gpt-4.1|50.0%|368s|689|17.3|20|
-|Commercial|openAI|gpt-4.1-mini|46.7%|672s|597|3.1|21|
+|Commercial|OpenAI|gpt-4.1|50.0%|368s|689|17.3|20|
+|Commercial|OpenAI|gpt-4.1-mini|46.7%|672s|597|3.1|21|
 |Open-source|Zhipu AI|GLM-4.1V-9B-Thinking|46.7%|449s|1800|1.3|22|
 |Commercial|Doubao|doubao-seed-1-6-flash-250615|44.8%|/|746|0.4|23|
-|Commercial|openAI|gpt-5-nano-2025-08-07|43.3%|163s|2137|5.1|24|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07|43.3%|163s|2137|5.1|24|
 |Commercial|Alibaba|qwen-vl-plus-2025-08-15|40.0%|7s|815|1.1|25|
 |Commercial|Zhipu AI|GLM-4V-Plus-0111|40.0%|137s|820|3.1|26|
-|Commercial|google|gemini-2.5-flash-lite|36.7%|123s|1430|3.4|27|
+|Commercial|Google|gemini-2.5-flash-lite|36.7%|123s|1430|3.4|27|
 |Open-source|Zhipu AI|GLM-4.6V|36.7%|21s|1406|3.1|28|
 |Open-source|Alibaba|qwen2.5-vl-3b-instruct|33.3%|588s|611|0.9|29|
 |Commercial|Alibaba|qwen-vl-plus-2025-01-25|33.3%|538s|647|1.3|30|

@@ -1,5 +1,5 @@
 
-|Category|Organization|Model|[Intermediate Economist]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Intermediate Economist]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-1.5-pro-32k-250115|91.0%|12s|438|0.8|1|
 |Commercial|Doubao|Doubao-1.5-lite-32k-250115|85.0%|8s|272|0.1|2|
@@ -7,7 +7,7 @@
 |Commercial|Moonshot|kimi-latest-8k|77.0%|19s|528|6.3|4|
 |Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-32B|75.0%|15s|683|0.9|5|
 |Commercial|Baichuan|Baichuan4-Turbo|73.0%|/|/|/|6|
-|Open-source|minimax|MiniMax-Text-01|72.5%|15s|914|7.3|7|
+|Open-source|MiniMax|MiniMax-Text-01|72.5%|15s|914|7.3|7|
 |Commercial|Qihoo 360360|360zhinao2-o1|69.0%|/|/|/|8|
 |Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-14B|66.0%|/|/|/|9|
 |Commercial|StepFun|step-2-mini|64.0%|12s|418|0.7|10|
@@ -33,25 +33,25 @@
 |Open-source|Alibaba|Qwen3-4B|nan%|23s|1191|3.3|30|
 |Open-source|Alibaba|Qwen3-1.7B|nan%|20s|2340|6.8|31|
 |Open-source|Alibaba|Qwen3-0.6B|nan%|9s|1245|3.5|32|
-|Commercial|openAI|o4-mini|nan%|36s|1237|37.3|33|
+|Commercial|OpenAI|o4-mini|nan%|36s|1237|37.3|33|
 |Open-source|DeepSeek|DeepSeek-R1-0528|nan%|242s|1844|28.6|34|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|nan%|22s|555|1.6|35|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|nan%|81s|1913|7.4|36|
 |Open-source|DeepSeek|DeepSeek-R1-0528-Qwen3-8B|nan%|213s|1690|0.0|37|
-|Commercial|anthropic|claude-4-sonnet|nan%|43s|615|55.2|38|
-|Commercial|anthropic|claude-4-sonnet-thinking|nan%|48s|1309|130.6|39|
+|Commercial|Anthropic|claude-4-sonnet|nan%|43s|615|55.2|38|
+|Commercial|Anthropic|claude-4-sonnet-thinking|nan%|48s|1309|130.6|39|
 |Commercial|Doubao|doubao-seed-1-6-flash-250615|nan%|5s|377|0.5|40|
 |Commercial|Doubao|doubao-seed-1-6-flash-thinking-250615|nan%|15s|736|0.9|41|
 |Commercial|Doubao|doubao-seed-1-6-250615|nan%|150s|371|2.2|42|
-|Open-source|minimax|MiniMax-M1|nan%|212s|3099|21.4|43|
+|Open-source|MiniMax|MiniMax-M1|nan%|212s|3099|21.4|43|
 |Open-source|Baidu|ERNIE-4.5-0.3B|nan%|3s|425|0.0|44|
 |Open-source|Baidu|ERNIE-4.5-21B-A3B|nan%|6s|541|0.0|45|
 |Open-source|Baidu|ERNIE-4.5-300B-A47B|nan%|7s|413|2.8|46|
 |Open-source|Tencent|Hunyuan-A13B-Instruct|nan%|71s|996|3.8|47|
-|Commercial|google|gemini-2.5-flash|nan%|11s|1611|27.9|48|
-|Commercial|XAI|grok-4-0709|nan%|559s|2213|233.4|49|
-|Commercial|XAI|grok-3-mini|nan%|288s|1047|3.7|50|
-|Commercial|google|gemini-2.5-pro|nan%|33s|2111|147.9|51|
+|Commercial|Google|gemini-2.5-flash|nan%|11s|1611|27.9|48|
+|Commercial|xAI|grok-4-0709|nan%|559s|2213|233.4|49|
+|Commercial|xAI|grok-3-mini|nan%|288s|1047|3.7|50|
+|Commercial|Google|gemini-2.5-pro|nan%|33s|2111|147.9|51|
 |Open-source|Moonshot|kimi-k2-0711-preview|nan%|15s|322|4.3|52|
 |Commercial|Tencent|hunyuan-t1-20250711|nan%|36s|2146|8.2|53|
 |Open-source|Huawei|pangu-pro-moe|nan%|127s|2415|9.4|54|
@@ -76,17 +76,17 @@
 |Open-source|Zhipu AI|GLM-4.5-nothink|nan%|27s|871|11.1|73|
 |Open-source|Zhipu AI|GLM-4.5-Air-nothink|nan%|17s|1192|6.7|74|
 |Commercial|Zhipu AI|GLM-4.5-Flash-nothink|nan%|16s|954|0.0|75|
-|Open-source|openAI|gpt-oss-120b(new)|nan%|5s|848|2.3|76|
-|Open-source|openAI|gpt-oss-20b(new)|nan%|7s|1510|1.6|77|
-|Commercial|openAI|gpt-5-2025-08-07(new)|nan%|31s|456|26.3|78|
-|Commercial|openAI|gpt-5-mini-2025-08-07(new)|nan%|26s|1361|18.3|79|
-|Commercial|openAI|gpt-5-nano-2025-08-07(new)|nan%|25s|2454|6.8|80|
+|Open-source|OpenAI|gpt-oss-120b(new)|nan%|5s|848|2.3|76|
+|Open-source|OpenAI|gpt-oss-20b(new)|nan%|7s|1510|1.6|77|
+|Commercial|OpenAI|gpt-5-2025-08-07(new)|nan%|31s|456|26.3|78|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07(new)|nan%|26s|1361|18.3|79|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07(new)|nan%|25s|2454|6.8|80|
 |Commercial|Tencent|hunyuan-turbos-20250716|nan%|13s|600|1.1|81|
 |Commercial|Alibaba|qwen-flash-2025-07-28|nan%|9s|555|0.7|82|
 |Commercial|Alibaba|qwen-flash-think-2025-07-28|nan%|36s|3869|5.7|83|
 |Open-source|DeepSeek|DeepSeek-V3.1(new)|nan%|22s|370|3.8|84|
 |Open-source|DeepSeek|DeepSeek-V3.1-Think(new)|nan%|60s|1186|13.6|85|
-|Commercial|google|gemini-2.5-flash-lite|nan%|102s|679|1.8|86|
+|Commercial|Google|gemini-2.5-flash-lite|nan%|102s|679|1.8|86|
 |Commercial|Mistral|mistral-medium-2508(new)|nan%|122s|412|4.4|87|
 |Open-source|Mistral|Magistral-Small-2507|nan%|101s|8769|94.4|88|
 |Open-source|Mistral|Mistral-Small-3.2-24B-Instruct-2506|nan%|25s|554|1.0|89|

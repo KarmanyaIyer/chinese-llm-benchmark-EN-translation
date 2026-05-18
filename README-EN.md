@@ -182,7 +182,7 @@ See [Multimodal Evaluation](README-多模态评测-EN.md) for details.<br>
 "Overall capability" scoring: "Overall capability" is the weighted sum of "Professional capability" and "General capability", with weights of 0.3 and 0.7 respectively. "Professional capability" is the average of 4 domains — Education, Medical & Mental Health, Finance, and Law & Public Administration — while "General capability" is the average of 4 domains — Reasoning & Math, Language & Instruction Following, Agent & Tool Use, and Coding.
 ![link](pic/总分.png)
 
-|Category|Organization|Model|[Total Score] Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (Accuracy)|
+|Category|Organization|Model|[Total Score] Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Alibaba|qwen3.6-max-preview(new)|75.4%|80s|2789|139.2|1|
 |Commercial|OpenAI|gpt-5.5(new)|75.3%|15s|955|158.5|2|
@@ -777,7 +777,7 @@ See [Table QA: badcase](https://nonelinear.com/static/badcase/badcase-of-benchma
 ### 6.6 Table Summarization
 Specifically evaluates LLMs' ability to analyze and summarize tables, commonly used in data analysis and article writing. There is no single fixed correct answer, but quality differences are still relatively easy to judge objectively.
 Example evaluation sample (some data omitted due to length):
-> |Category|Organization|Model|Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (Accuracy)|
+> |Category|Organization|Model|Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (Accuracy)|
 > |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 > |Commercial|Doubao|doubao-seed-1-6-thinking-250715|87.5|37s|1976|14.6|1|
 > |Commercial|Baidu|ERNIE-4.5-Turbo-32K|84.7|33s|676|1.8|2|

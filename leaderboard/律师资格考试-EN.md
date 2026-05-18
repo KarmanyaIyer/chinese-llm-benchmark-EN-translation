@@ -1,10 +1,10 @@
 
-|Category|Organization|Model|[Lawyer Qualification Exam]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Lawyer Qualification Exam]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Commercial|Doubao|Doubao-Seed-2.0-mini|89.3%|434s|3169|6.0|1|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|89.0%|22s|612|1.7|2|
 |Commercial|Doubao|doubao-seed-1-6-251015|87.3%|16s|903|6.2|3|
-|Commercial|openAI|gpt-5.5(new)|86.0%|23s|1405|269.7|4|
+|Commercial|OpenAI|gpt-5.5(new)|86.0%|23s|1405|269.7|4|
 |Commercial|Doubao|doubao-seed-1-6-lite-251015|81.3%|54s|1034|2.2|5|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|80.7%|99s|1878|5.5|6|
 |Commercial|Doubao|doubao-seed-1-8-251215|80.0%|25s|840|5.5|7|
@@ -16,8 +16,8 @@
 |Commercial|Baidu|ERNIE-5.0|79.3%|157s|2136|49.4|13|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|79.3%|270s|1285|4.1|14|
 |Commercial|Doubao|Doubao-Seed-2.0-pro|79.3%|272s|1233|17.6|15|
-|Commercial|anthropic|claude-opus-4.6|79.3%|21s|850|120.7|16|
-|Commercial|google|gemini-3-flash-preview|78.7%|72s|1937|38.9|17|
+|Commercial|Anthropic|claude-opus-4.6|79.3%|21s|850|120.7|16|
+|Commercial|Google|gemini-3-flash-preview|78.7%|72s|1937|38.9|17|
 |Commercial|Alibaba|qwen3.6-plus|78.7%|55s|2396|27.6|18|
 |Commercial|Tencent|hunyuan-turbos-20250926|78.7%|17s|736|1.3|19|
 |Commercial|Xiaomi|MiMo-V2-Omni|78.7%|12s|1843|21.7|20|
@@ -26,17 +26,17 @@
 |Open-source|Alibaba|qwen3-next-80b-a3b-instruct|77.3%|11s|806|2.9|23|
 |Open-source|DeepSeek|DeepSeek-V3.2|77.3%|107s|662|1.9|24|
 |Commercial|Tencent|hunyuan-2.0-instruct-20251111|77.3%|7s|468|0.8|25|
-|Commercial|google|gemini-3.1-pro-preview|77.3%|52s|2180|176.5|26|
+|Commercial|Google|gemini-3.1-pro-preview|77.3%|52s|2180|176.5|26|
 |Open-source|Meituan|LongCat-Flash-Thinking-2601|77.3%|177s|3773|0.0|27|
-|Commercial|anthropic|claude-opus-4.5|76.7%|19s|890|129.8|28|
+|Commercial|Anthropic|claude-opus-4.5|76.7%|19s|890|129.8|28|
 |Commercial|Zhipu AI|GLM-5-Turbo|76.7%|40s|1928|40.5|29|
 |Commercial|Tencent|hunyuan-2.0-thinking-20251109|76.7%|14s|1230|4.6|30|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|76.3%|337s|2508|9.7|31|
 |Open-source|Alibaba|qwen3.5-plus|76.0%|50s|4258|20.0|32|
-|Commercial|anthropic|claude-sonnet-4.5-thinking|76.0%|52s|3516|362.4|33|
+|Commercial|Anthropic|claude-sonnet-4.5-thinking|76.0%|52s|3516|362.4|33|
 |Open-source|Zhipu AI|GLM-5.1(new)|75.3%|135s|2082|48.0|34|
 |Commercial|Xiaomi|mimo-v2.5(new)|75.3%|22s|2058|24.8|35|
-|Commercial|openAI|gpt-5.4-high|75.1%|30s|1776|173.8|36|
+|Commercial|OpenAI|gpt-5.4-high|75.1%|30s|1776|173.8|36|
 |Commercial|Alibaba|qwen3-max-think-2026-01-23|74.7%|176s|4473|43.8|37|
 |Open-source|Alibaba|qwen3-235b-a22b-thinking-2507|74.7%|82s|3431|66.4|38|
 |Commercial|Baidu|ERNIE-5.0-Thinking-Preview|74.7%|287s|1985|45.8|39|
@@ -57,75 +57,75 @@
 |Open-source|Alibaba|qwen3-next-80b-a3b-thinking|70.7%|174s|3962|15.5|54|
 |Open-source|StepFun|step-3.5-flash|70.7%|29s|3564|7.3|55|
 |Commercial|Tencent|hunyuan-t1-20250711|70.7%|27s|1601|6.0|56|
-|Commercial|google|gemini-2.5-pro|69.7%|34s|2803|194.2|57|
+|Commercial|Google|gemini-2.5-pro|69.7%|34s|2803|194.2|57|
 |Open-source|DeepSeek|DeepSeek-V3.1|69.3%|20s|454|4.6|58|
 |Commercial|Xiaomi|MiMo-V2-Pro|69.3%|269s|1533|27.1|59|
 |Commercial|Alibaba|qwen-plus-think-2025-12-01|68.7%|79s|3429|26.6|60|
 |Commercial|Alibaba|qwen-plus-2025-12-01|68.7%|28s|1217|2.3|61|
 |Open-source|Meituan|LongCat-Flash-Lite|68.7%|312s|701|0.0|62|
 |Open-source|Moonshot|kimi-k2.6(new)|68.7%|135s|3016|77.2|63|
-|Commercial|anthropic|claude-sonnet-4.5|67.3%|11s|712|60.0|64|
+|Commercial|Anthropic|claude-sonnet-4.5|67.3%|11s|712|60.0|64|
 |Open-source|Alibaba|Qwen3-30B-A3B-Thinking-2507|65.3%|84s|3604|9.8|65|
 |Open-source|Xiaomi|MiMo-V2-Flash-think|65.3%|85s|2537|0.0|66|
-|Commercial|minimax|MiniMax-M2.1|64.7%|87s|3010|24.4|67|
+|Commercial|MiniMax|MiniMax-M2.1|64.7%|87s|3010|24.4|67|
 |Open-source|Alibaba|Qwen3-32B|64.7%|137s|3210|12.4|68|
 |Open-source|Mistral|mistral-large-2512|64.0%|15s|686|6.1|69|
 |Commercial|Alibaba|qwen3-max-preview-think|64.0%|172s|3098|72.1|70|
-|Commercial|minimax|MiniMax-M2.5|64.0%|47s|2451|19.7|71|
+|Commercial|MiniMax|MiniMax-M2.5|64.0%|47s|2451|19.7|71|
 |Commercial|Zhipu AI|GLM-4.5-Flash|63.3%|32s|1911|0.0|72|
 |Commercial|Alibaba|qwen-flash-think-2025-07-28|63.3%|34s|3450|5.0|73|
-|Commercial|openAI|gpt-5.1-high|62.0%|171s|3704|254.0|74|
-|Commercial|openAI|gpt-5.2-high|62.0%|38s|1260|112.7|75|
-|Commercial|openAI|gpt-5.3-chat|62.0%|25s|616|48.0|76|
-|Commercial|google|gemini-2.5-flash|62.0%|14s|2278|39.0|77|
-|Commercial|minimax|MiniMax-M2.7|61.3%|65s|2455|19.7|78|
-|Commercial|openAI|gpt-5-2025-08-07|61.3%|37s|528|29.5|79|
-|Commercial|openAI|gpt-5.4-mini-high|60.7%|71s|2927|88.4|80|
+|Commercial|OpenAI|gpt-5.1-high|62.0%|171s|3704|254.0|74|
+|Commercial|OpenAI|gpt-5.2-high|62.0%|38s|1260|112.7|75|
+|Commercial|OpenAI|gpt-5.3-chat|62.0%|25s|616|48.0|76|
+|Commercial|Google|gemini-2.5-flash|62.0%|14s|2278|39.0|77|
+|Commercial|MiniMax|MiniMax-M2.7|61.3%|65s|2455|19.7|78|
+|Commercial|OpenAI|gpt-5-2025-08-07|61.3%|37s|528|29.5|79|
+|Commercial|OpenAI|gpt-5.4-mini-high|60.7%|71s|2927|88.4|80|
 |Open-source|Alibaba|Qwen3-14B|60.3%|157s|5493|10.8|81|
-|Commercial|openAI|gpt-5.1-medium|58.7%|226s|1268|81.0|82|
+|Commercial|OpenAI|gpt-5.1-medium|58.7%|226s|1268|81.0|82|
 |Commercial|Alibaba|qwen-flash-2025-07-28|58.0%|10s|865|1.1|83|
-|Commercial|google|gemini-3.1-flash-lite-preview|57.3%|6s|540|4.5|84|
-|Commercial|openAI|gpt-5.4|57.3%|6s|427|32.2|85|
+|Commercial|Google|gemini-3.1-flash-lite-preview|57.3%|6s|540|4.5|84|
+|Commercial|OpenAI|gpt-5.4|57.3%|6s|427|32.2|85|
 |Commercial|Baichuan|Baichuan4-Turbo|57.0%|/|/|/|86|
 |Open-source|Moonshot|Kimi-K2-Thinking|56.7%|498s|8525|135.1|87|
-|Commercial|openAI|gpt-5.2|56.7%|7s|369|24.1|88|
-|Commercial|openAI|gpt-5.2-medium|56.0%|20s|835|70.5|89|
+|Commercial|OpenAI|gpt-5.2|56.7%|7s|369|24.1|88|
+|Commercial|OpenAI|gpt-5.2-medium|56.0%|20s|835|70.5|89|
 |Commercial|Alibaba|qwen-turbo-think-2025-07-15|56.0%|/|2635|7.6|90|
 |Open-source|Alibaba|Qwen3-14B-nothink|56.0%|14s|672|1.2|91|
 |Open-source|Zhipu AI|GLM-4.5-Air|55.3%|35s|1883|10.0|92|
 |Commercial|Alibaba|qwen-turbo-2025-07-15|54.7%|10s|545|0.3|93|
 |Open-source|Xiaomi|MiMo-V2-Flash|54.0%|15s|661|0.0|94|
 |Commercial|Xiaomi|MiMo-V2-Flash-0204|53.3%|222s|738|1.4|95|
-|Commercial|anthropic|claude-haiku-4.5-thinking|53.3%|55s|4859|169.0|96|
-|Commercial|openAI|gpt-5.4-nano-high|52.0%|83s|1514|12.2|97|
+|Commercial|Anthropic|claude-haiku-4.5-thinking|53.3%|55s|4859|169.0|96|
+|Commercial|OpenAI|gpt-5.4-nano-high|52.0%|83s|1514|12.2|97|
 |Open-source|Alibaba|Qwen3-8B|51.7%|681s|9679|0.0|98|
 |Open-source|Alibaba|Qwen3-32B-nothink|51.3%|41s|691|2.4|99|
-|Open-source|google|gemma-4-31b-it|51.3%|98s|644|1.5|100|
+|Open-source|Google|gemma-4-31b-it|51.3%|98s|644|1.5|100|
 |Open-source|Alibaba|Qwen3-30B-A3B-Instruct-2507|51.3%|8s|879|2.4|101|
 |Open-source|Zhipu AI|GLM-4-9B-0414|51.0%|15s|652|0.0|102|
-|Commercial|anthropic|claude-4-sonnet-thinking|50.0%|59s|701|58.8|103|
-|Commercial|anthropic|claude-4-sonnet|50.0%|41s|685|55.7|104|
-|Commercial|openAI|gpt-5.4-mini|48.7%|74s|393|8.6|105|
-|Commercial|openAI|gpt-5.1|48.0%|178s|481|25.2|106|
+|Commercial|Anthropic|claude-4-sonnet-thinking|50.0%|59s|701|58.8|103|
+|Commercial|Anthropic|claude-4-sonnet|50.0%|41s|685|55.7|104|
+|Commercial|OpenAI|gpt-5.4-mini|48.7%|74s|393|8.6|105|
+|Commercial|OpenAI|gpt-5.1|48.0%|178s|481|25.2|106|
 |Open-source|Zhipu AI|GLM-4.7-Flash|45.3%|1074s|5678|0.0|107|
-|Commercial|anthropic|claude-haiku-4.5|44.7%|14s|747|20.8|108|
-|Commercial|XAI|grok-4-1-fast-reasoning|44.7%|71s|1923|6.3|109|
+|Commercial|Anthropic|claude-haiku-4.5|44.7%|14s|747|20.8|108|
+|Commercial|xAI|grok-4-1-fast-reasoning|44.7%|71s|1923|6.3|109|
 |Open-source|Alibaba|Qwen3-4B|42.0%|87s|2371|6.8|110|
 |Commercial|Zhipu AI|GLM-4.5-Flash-nothink|41.3%|20s|1102|0.0|111|
-|Open-source|google|gemma-4-26b-a4b-it(new)|40.0%|56s|745|1.8|112|
-|Commercial|openAI|gpt-5.4-nano|39.3%|59s|400|2.4|113|
-|Commercial|XAI|grok-4-1-fast-non-reasoning|39.3%|32s|667|1.8|114|
+|Open-source|Google|gemma-4-26b-a4b-it(new)|40.0%|56s|745|1.8|112|
+|Commercial|OpenAI|gpt-5.4-nano|39.3%|59s|400|2.4|113|
+|Commercial|xAI|grok-4-1-fast-non-reasoning|39.3%|32s|667|1.8|114|
 |Open-source|Zhipu AI|GLM-4.5-Air-nothink|38.7%|15s|1072|5.3|115|
-|Commercial|google|gemini-2.5-flash-lite|37.3%|32s|7770|22.2|116|
-|Commercial|openAI|o4-mini|36.7%|38s|1967|59.1|117|
+|Commercial|Google|gemini-2.5-flash-lite|37.3%|32s|7770|22.2|116|
+|Commercial|OpenAI|o4-mini|36.7%|38s|1967|59.1|117|
 |Open-source|Alibaba|Qwen3-8B-nothink|35.3%|24s|621|0.0|118|
-|Open-source|openAI|gpt-oss-20b|33.3%|96s|1921|2.1|119|
-|Open-source|openAI|gpt-oss-120b|32.7%|14s|1005|2.8|120|
-|Commercial|openAI|gpt-5-mini-2025-08-07|32.0%|80s|1565|20.9|121|
+|Open-source|OpenAI|gpt-oss-20b|33.3%|96s|1921|2.1|119|
+|Open-source|OpenAI|gpt-oss-120b|32.7%|14s|1005|2.8|120|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07|32.0%|80s|1565|20.9|121|
 |Open-source|Mistral|Ministral-3-14B-Instruct-2512|31.3%|9s|706|1.0|122|
-|Commercial|openAI|gpt-5-nano-high|30.0%|96s|7988|22.8|123|
-|Commercial|openAI|gpt-5-nano-2025-08-07|28.7%|52s|3742|10.5|124|
-|Commercial|openAI|gpt-5-mini-high|27.3%|892s|4579|64.6|125|
+|Commercial|OpenAI|gpt-5-nano-high|30.0%|96s|7988|22.8|123|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07|28.7%|52s|3742|10.5|124|
+|Commercial|OpenAI|gpt-5-mini-high|27.3%|892s|4579|64.6|125|
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|26.7%|11s|693|1.3|126|
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|26.0%|5s|681|0.5|127|
 |Open-source|Alibaba|Qwen3-4B-nothink|24.0%|16s|574|1.4|128|

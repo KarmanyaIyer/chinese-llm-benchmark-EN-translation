@@ -1,8 +1,8 @@
 
-|Category|Organization|Model|[Microbiology Testing Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (CNY)|Rank (by Accuracy)|
+|Category|Organization|Model|[Microbiology Testing Lead Technician]Accuracy|Avg Time|Avg Tokens|Cost / 1k calls (¥)|Rank (by Accuracy)|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
 |Open-source|DeepSeek|DeepSeek-V3.2-Think|100.0%|19s|527|1.5|1|
-|Commercial|google|gemini-3-flash-preview|100.0%|88s|711|14.2|2|
+|Commercial|Google|gemini-3-flash-preview|100.0%|88s|711|14.2|2|
 |Open-source|StepFun|step-3.5-flash|100.0%|7s|721|1.4|3|
 |Open-source|Moonshot|Kimi-K2.5-Thinking|100.0%|219s|1078|21.8|4|
 |Commercial|Alibaba|qwen3-max-think-2026-01-23|100.0%|55s|1556|15.1|5|
@@ -14,7 +14,7 @@
 |Open-source|Zhipu AI|GLM-4.7|100.0%|31s|1177|15.9|11|
 |Open-source|Xiaomi|MiMo-V2-Flash-think|100.0%|133s|1209|0.0|12|
 |Commercial|Doubao|doubao-seed-1-8-251215|100.0%|14s|469|3.1|13|
-|Commercial|openAI|gpt-5.2-high|100.0%|5s|255|20.1|14|
+|Commercial|OpenAI|gpt-5.2-high|100.0%|5s|255|20.1|14|
 |Open-source|Zhipu AI|GLM-5|100.0%|32s|1069|18.5|15|
 |Commercial|Alibaba|qwen-plus-think-2025-12-01|100.0%|24s|1279|9.8|16|
 |Commercial|Alibaba|qwen-plus-2025-12-01|100.0%|16s|490|0.9|17|
@@ -23,14 +23,14 @@
 |Open-source|Alibaba|qwen3-next-80b-a3b-thinking|100.0%|136s|1625|6.3|20|
 |Open-source|Meta|Llama-4-Scout-17B-16E-Instruct|100.0%|6s|386|0.8|21|
 |Open-source|DeepSeek|DeepSeek-V3.2|100.0%|85s|230|0.6|22|
-|Commercial|openAI|gpt-5-nano-high|100.0%|948s|2488|7.1|23|
+|Commercial|OpenAI|gpt-5-nano-high|100.0%|948s|2488|7.1|23|
 |Commercial|Alibaba|qwen3-max-2025-09-23|100.0%|18s|331|6.9|24|
-|Commercial|anthropic|claude-opus-4.5|100.0%|9s|532|83.4|25|
+|Commercial|Anthropic|claude-opus-4.5|100.0%|9s|532|83.4|25|
 |Commercial|Baidu|ERNIE-5.0-Thinking-Preview|100.0%|119s|1062|24.7|26|
-|Commercial|anthropic|claude-opus-4.6|100.0%|10s|546|84.5|27|
-|Commercial|minimax|MiniMax-M2.5|100.0%|13s|553|4.1|28|
-|Commercial|anthropic|claude-sonnet-4.5-thinking|100.0%|17s|1118|112.2|29|
-|Commercial|openAI|gpt-5.4-mini|100.0%|8s|148|3.0|30|
+|Commercial|Anthropic|claude-opus-4.6|100.0%|10s|546|84.5|27|
+|Commercial|MiniMax|MiniMax-M2.5|100.0%|13s|553|4.1|28|
+|Commercial|Anthropic|claude-sonnet-4.5-thinking|100.0%|17s|1118|112.2|29|
+|Commercial|OpenAI|gpt-5.4-mini|100.0%|8s|148|3.0|30|
 |Open-source|DeepSeek|deepseek-v4-pro(new)|100.0%|30s|373|8.4|31|
 |Commercial|Xiaomi|mimo-v2.5-pro(new)|100.0%|22s|1124|19.4|32|
 |Commercial|Xiaomi|mimo-v2.5(new)|100.0%|13s|834|8.4|33|
@@ -38,26 +38,26 @@
 |Commercial|Alibaba|qwen3.6-max-preview(new)|100.0%|36s|1133|58.7|35|
 |Open-source|Alibaba|Qwen3.6-35B-A3B(new)|100.0%|105s|1084|11.2|36|
 |Open-source|Zhipu AI|GLM-5.1(new)|100.0%|113s|823|18.8|37|
-|Open-source|google|gemma-4-31b-it|100.0%|42s|354|0.9|38|
+|Open-source|Google|gemma-4-31b-it|100.0%|42s|354|0.9|38|
 |Commercial|Alibaba|qwen3.6-plus|100.0%|52s|1221|14.1|39|
 |Commercial|Xiaomi|MiMo-V2-Omni|100.0%|5s|870|8.8|40|
 |Commercial|Xiaomi|MiMo-V2-Pro|100.0%|478s|799|12.6|41|
 |Commercial|Zhipu AI|GLM-5-Turbo|100.0%|17s|940|19.8|42|
 |Commercial|Xiaomi|MiMo-V2-Flash-think-0204|100.0%|621s|932|1.9|43|
-|Commercial|openAI|gpt-5.4-high|100.0%|23s|445|41.3|44|
-|Commercial|openAI|gpt-5.4|100.0%|5s|200|15.7|45|
-|Commercial|google|gemini-3.1-flash-lite-preview|100.0%|3s|242|2.1|46|
+|Commercial|OpenAI|gpt-5.4-high|100.0%|23s|445|41.3|44|
+|Commercial|OpenAI|gpt-5.4|100.0%|5s|200|15.7|45|
+|Commercial|Google|gemini-3.1-flash-lite-preview|100.0%|3s|242|2.1|46|
 |Open-source|Alibaba|Qwen3.5-122B-A10B|100.0%|201s|1537|9.5|47|
 |Open-source|Alibaba|Qwen3.5-27B|100.0%|43s|1135|5.2|48|
 |Open-source|Alibaba|qwen3.5-flash|100.0%|245s|1606|3.1|49|
-|Commercial|google|gemini-3.1-pro-preview|100.0%|16s|940|76.5|50|
+|Commercial|Google|gemini-3.1-pro-preview|100.0%|16s|940|76.5|50|
 |Open-source|Alibaba|qwen3.5-plus|100.0%|18s|1319|6.1|51|
 |Commercial|Doubao|Doubao-Seed-2.0-mini|100.0%|178s|928|1.7|52|
 |Commercial|Doubao|Doubao-Seed-2.0-lite|100.0%|124s|675|2.1|53|
 |Commercial|Doubao|Doubao-Seed-2.0-pro|100.0%|215s|610|8.6|54|
 |Commercial|Baidu|ERNIE-X1.1-Preview|100.0%|93s|595|2.3|55|
-|Commercial|openAI|gpt-5.5(new)|100.0%|6s|253|42.5|56|
-|Commercial|anthropic|claude-sonnet-4.5|100.0%|11s|511|48.7|57|
+|Commercial|OpenAI|gpt-5.5(new)|100.0%|6s|253|42.5|56|
+|Commercial|Anthropic|claude-sonnet-4.5|100.0%|11s|511|48.7|57|
 |Open-source|Alibaba|qwen3-next-80b-a3b-instruct|100.0%|10s|398|1.4|58|
 |Commercial|Alibaba|qwen3-max-preview|100.0%|8s|375|8.0|59|
 |Commercial|Tencent|hunyuan-t1-20250711|100.0%|13s|698|2.5|60|
@@ -69,8 +69,8 @@
 |Commercial|Alibaba|qwen-flash-2025-07-28|100.0%|5s|335|0.4|66|
 |Open-source|Alibaba|qwen3-235b-a22b-instruct-2507|100.0%|9s|363|2.6|67|
 |Open-source|Alibaba|qwen3-235b-a22b-thinking-2507|100.0%|24s|1236|23.7|68|
-|Commercial|openAI|gpt-5-2025-08-07|100.0%|29s|174|9.1|69|
-|Open-source|openAI|gpt-oss-20b|100.0%|3s|584|0.6|70|
+|Commercial|OpenAI|gpt-5-2025-08-07|100.0%|29s|174|9.1|69|
+|Open-source|OpenAI|gpt-oss-20b|100.0%|3s|584|0.6|70|
 |Open-source|Alibaba|Qwen3-14B-nothink|100.0%|6s|388|0.7|71|
 |Open-source|Alibaba|Qwen3-32B-nothink|100.0%|15s|364|1.3|72|
 |Commercial|Zhipu AI|GLM-4.5-Flash|100.0%|16s|865|0.0|73|
@@ -79,57 +79,57 @@
 |Commercial|Tencent|hunyuan-turbos-20250926|100.0%|10s|427|0.7|76|
 |Open-source|Moonshot|Kimi-K2-Thinking|100.0%|66s|787|12.0|77|
 |Open-source|Moonshot|kimi-k2-0905|100.0%|102s|316|4.2|78|
-|Commercial|anthropic|claude-haiku-4.5-thinking|100.0%|14s|1749|59.8|79|
+|Commercial|Anthropic|claude-haiku-4.5-thinking|100.0%|14s|1749|59.8|79|
 |Open-source|Alibaba|Qwen3-30B-A3B-Instruct-2507|100.0%|4s|375|1.0|80|
 |Commercial|Doubao|doubao-seed-1-6-lite-251015|100.0%|24s|523|1.1|81|
 |Commercial|Doubao|doubao-seed-1-6-251015|100.0%|16s|504|3.5|82|
 |Commercial|Baidu|ERNIE-4.5-Turbo-32K|95.0%|22s|526|1.5|83|
-|Commercial|anthropic|claude-4-sonnet-thinking|90.0%|7s|500|47.6|84|
-|Commercial|anthropic|claude-4-sonnet|90.0%|42s|494|44.3|85|
+|Commercial|Anthropic|claude-4-sonnet-thinking|90.0%|7s|500|47.6|84|
+|Commercial|Anthropic|claude-4-sonnet|90.0%|42s|494|44.3|85|
 |Open-source|Alibaba|Qwen3-30B-A3B-Thinking-2507|90.0%|57s|2423|6.6|86|
 |Commercial|Baidu|ERNIE-X1-Turbo-32K|85.0%|128s|2083|8.2|87|
-|Commercial|google|gemini-2.5-flash|80.0%|8s|1437|24.9|88|
-|Open-source|google|gemma-4-26b-a4b-it(new)|80.0%|86s|555|1.4|89|
+|Commercial|Google|gemini-2.5-flash|80.0%|8s|1437|24.9|88|
+|Open-source|Google|gemma-4-26b-a4b-it(new)|80.0%|86s|555|1.4|89|
 |Open-source|DeepSeek|DeepSeek-R1-0528|80.0%|242s|2058|32.1|90|
-|Commercial|minimax|MiniMax-M2.7|80.0%|21s|824|6.4|91|
+|Commercial|MiniMax|MiniMax-M2.7|80.0%|21s|824|6.4|91|
 |Open-source|Alibaba|Qwen3-14B|80.0%|26s|886|1.7|92|
 |Open-source|Alibaba|Qwen3-4B-nothink|80.0%|22s|373|1.0|93|
 |Open-source|Alibaba|Qwen3-8B-nothink|80.0%|147s|329|0.0|94|
 |Open-source|Alibaba|Qwen3-32B|80.0%|40s|1721|6.7|95|
 |Open-source|DeepSeek|deepseek-v4-flash(new)|80.0%|37s|1726|3.4|96|
-|Commercial|openAI|gpt-5.3-chat|80.0%|6s|298|24.0|97|
-|Commercial|openAI|gpt-5.4-mini-high|80.0%|175s|413|11.4|98|
+|Commercial|OpenAI|gpt-5.3-chat|80.0%|6s|298|24.0|97|
+|Commercial|OpenAI|gpt-5.4-mini-high|80.0%|175s|413|11.4|98|
 |Commercial|Zhipu AI|GLM-4.5-Flash-nothink|80.0%|13s|706|0.0|99|
 |Commercial|Xiaomi|MiMo-V2-Flash-0204|80.0%|165s|313|0.6|100|
-|Commercial|openAI|gpt-5.2-medium|80.0%|8s|232|17.7|101|
-|Commercial|XAI|grok-4-1-fast-reasoning|80.0%|14s|1316|4.2|102|
-|Commercial|openAI|gpt-5-mini-high|80.0%|38s|960|13.1|103|
-|Commercial|openAI|gpt-5.1-medium|80.0%|170s|357|21.5|104|
-|Commercial|openAI|gpt-5.1|80.0%|106s|148|6.7|105|
+|Commercial|OpenAI|gpt-5.2-medium|80.0%|8s|232|17.7|101|
+|Commercial|xAI|grok-4-1-fast-reasoning|80.0%|14s|1316|4.2|102|
+|Commercial|OpenAI|gpt-5-mini-high|80.0%|38s|960|13.1|103|
+|Commercial|OpenAI|gpt-5.1-medium|80.0%|170s|357|21.5|104|
+|Commercial|OpenAI|gpt-5.1|80.0%|106s|148|6.7|105|
 |Open-source|Mistral|mistral-large-2512|80.0%|10s|367|3.4|106|
 |Open-source|Mistral|Ministral-3-14B-Instruct-2512|80.0%|11s|415|0.6|107|
 |Open-source|Mistral|Ministral-3-8B-Instruct-2512|80.0%|2s|391|0.4|108|
 |Open-source|Meituan|LongCat-Flash-Lite|80.0%|290s|374|0.0|109|
-|Commercial|openAI|gpt-5.2|80.0%|4s|155|10.1|110|
+|Commercial|OpenAI|gpt-5.2|80.0%|4s|155|10.1|110|
 |Open-source|Mistral|Ministral-3-3B-Instruct-2512|80.0%|4s|826|0.6|111|
 |Open-source|Zhipu AI|GLM-4.5-Air-nothink|80.0%|12s|776|4.4|112|
 |Open-source|Xiaomi|MiMo-V2-Flash|80.0%|7s|388|0.0|113|
-|Commercial|openAI|gpt-5.1-high|80.0%|11s|499|31.6|114|
-|Commercial|minimax|MiniMax-M2.1|80.0%|40s|791|6.1|115|
-|Commercial|openAI|gpt-5-nano-2025-08-07|80.0%|114s|941|2.6|116|
-|Commercial|openAI|gpt-5-mini-2025-08-07|80.0%|64s|486|6.3|117|
-|Open-source|openAI|gpt-oss-120b|80.0%|41s|394|1.0|118|
-|Commercial|google|gemini-2.5-pro|70.0%|34s|2146|151.2|119|
-|Commercial|openAI|o4-mini|70.0%|25s|652|18.9|120|
+|Commercial|OpenAI|gpt-5.1-high|80.0%|11s|499|31.6|114|
+|Commercial|MiniMax|MiniMax-M2.1|80.0%|40s|791|6.1|115|
+|Commercial|OpenAI|gpt-5-nano-2025-08-07|80.0%|114s|941|2.6|116|
+|Commercial|OpenAI|gpt-5-mini-2025-08-07|80.0%|64s|486|6.3|117|
+|Open-source|OpenAI|gpt-oss-120b|80.0%|41s|394|1.0|118|
+|Commercial|Google|gemini-2.5-pro|70.0%|34s|2146|151.2|119|
+|Commercial|OpenAI|o4-mini|70.0%|25s|652|18.9|120|
 |Open-source|Alibaba|Qwen3-8B|70.0%|600s|15122|0.0|121|
 |Commercial|Baichuan|Baichuan4-Turbo|70.0%|/|/|/|122|
 |Open-source|Alibaba|Qwen3-4B|60.0%|18s|1668|4.8|123|
-|Commercial|openAI|gpt-5.4-nano|60.0%|4s|197|1.3|124|
-|Commercial|google|gemini-2.5-flash-lite|60.0%|4s|382|1.0|125|
-|Commercial|openAI|gpt-5.4-nano-high|60.0%|8s|282|2.0|126|
-|Commercial|anthropic|claude-haiku-4.5|60.0%|9s|537|16.8|127|
+|Commercial|OpenAI|gpt-5.4-nano|60.0%|4s|197|1.3|124|
+|Commercial|Google|gemini-2.5-flash-lite|60.0%|4s|382|1.0|125|
+|Commercial|OpenAI|gpt-5.4-nano-high|60.0%|8s|282|2.0|126|
+|Commercial|Anthropic|claude-haiku-4.5|60.0%|9s|537|16.8|127|
 |Open-source|Zhipu AI|GLM-4-9B-0414|50.0%|12s|412|0|128|
-|Commercial|XAI|grok-4-1-fast-non-reasoning|40.0%|81s|574|1.6|129|
+|Commercial|xAI|grok-4-1-fast-non-reasoning|40.0%|81s|574|1.6|129|
 
 
 ![lin](../pic/微生物检验主管技师.png)

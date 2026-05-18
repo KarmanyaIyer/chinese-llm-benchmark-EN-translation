@@ -21,7 +21,7 @@
 |Open-source|DeepSeek|deepseek-chat-v3-0324|70.0%|18|
 |Commercial|StepFun|step-r1-v-mini|69.7%|19|
 |Commercial|iFlytek|xunfei-4.0Ultra|68.6%|20|
-|Open-source|minimax|MiniMax-M1(new)|68.0%|21|
+|Open-source|MiniMax|MiniMax-M1(new)|68.0%|21|
 |Commercial|Zhipu AI|GLM-4-Plus|67.7%|22|
 |Commercial|iFlytek|xunfei-spark-x1|67.7%|23|
 |Commercial|Zhipu AI|GLM-Z1-AirX|67.7%|24|
@@ -31,13 +31,13 @@
 |Open-source|Alibaba|qwq-32b|65.7%|28|
 |Open-source|Alibaba|Qwen3-32B|64.7%|29|
 |Commercial|Moonshot|kimi-latest-8k|64.1%|30|
-|Open-source|minimax|MiniMax-Text-01|63.3%|31|
+|Open-source|MiniMax|MiniMax-Text-01|63.3%|31|
 |Open-source|Zhipu AI|GLM-Z1-32B-0414|63.3%|32|
 |Commercial|Alibaba|qwen-plus-2025-04-28|62.7%|33|
 |Commercial|Zhipu AI|GLM-Z1-Air|62.3%|34|
 |Commercial|Baidu|ERNIE-3.5-8K|62.3%|35|
 |Commercial|Doubao|Doubao-1.5-lite-32k-250115|62.0%|36|
-|Commercial|google|gemini-2.5-flash-preview-05-20|61.3%|37|
+|Commercial|Google|gemini-2.5-flash-preview-05-20|61.3%|37|
 |Commercial|Alibaba|qwen-long-2025-01-25|60.7%|38|
 |Open-source|Tencent|Hunyuan-A13B-Instruct(new)|60.7%|39|
 |Open-source|Alibaba|Qwen3-14B|60.3%|40|
@@ -51,7 +51,7 @@
 |Open-source|DeepSeek|DeepSeek-R1-Distill-Qwen-32B|57.0%|48|
 |Open-source|Baidu|ERNIE-4.5-21B-A3B(new)|56.7%|49|
 |Commercial|Qihoo 360360|360gpt2-pro|56.7%|50|
-|Commercial|openAI|gpt-4.1|56.7%|51|
+|Commercial|OpenAI|gpt-4.1|56.7%|51|
 |Open-source|Alibaba|qwen2.5-14b-instruct|56.3%|52|
 |Open-source|Alibaba|Qwen3-30B-A3B|55.7%|53|
 |Open-source|Shanghai AI Lab|internlm2_5-7b-chat|55.3%|54|
@@ -59,22 +59,22 @@
 |Commercial|SenseTime|SenseChat-5-beta|54.3%|56|
 |Commercial|StepFun|step-2-mini|54.0%|57|
 |Commercial|Zhipu AI|GLM-4-Flash|54.0%|58|
-|Commercial|google|gemini-2.5-pro-preview-05-06|53.3%|59|
+|Commercial|Google|gemini-2.5-pro-preview-05-06|53.3%|59|
 |Commercial|01.AI|yi-lightning|53.0%|60|
 |Commercial|Zhipu AI|GLM-4-FlashX|52.7%|61|
 |Commercial|Qihoo 360360|360gpt2-o1|52.3%|62|
 |Open-source|Zhipu AI|GLM-4-9B-0414|51.0%|63|
 |Open-source|Alibaba|Qwen3-8B|50.0%|64|
-|Commercial|anthropic|claude-4-sonnet-thinking|50.0%|65|
+|Commercial|Anthropic|claude-4-sonnet-thinking|50.0%|65|
 |Commercial|Zhipu AI|GLM-Z1-Flash|50.0%|66|
-|Commercial|anthropic|claude-4-sonnet|50.0%|67|
+|Commercial|Anthropic|claude-4-sonnet|50.0%|67|
 |Commercial|Zhipu AI|GLM-4-Long|49.5%|68|
 |Commercial|Baidu|ERNIE-Speed-8K|48.7%|69|
 |Commercial|Qihoo 360360|360gpt-turbo|48.3%|70|
 |Commercial|Qihoo 360360|360zhinao2-o1|47.7%|71|
 |Open-source|DeepSeek|DeepSeek-R1-0528-Qwen3-8B|47.0%|72|
 |Commercial|Alibaba|qwen-turbo-2025-04-28|46.7%|73|
-|Commercial|openAI|chatgpt-4o-latest|46.3%|74|
+|Commercial|OpenAI|chatgpt-4o-latest|46.3%|74|
 |Commercial|Zhipu AI|GLM-4-Air|46.1%|75|
 |Open-source|Alibaba|qwen2.5-7b-instruct|46.0%|76|
 |Commercial|Zhipu AI|GLM-4-AirX|43.3%|77|
@@ -91,10 +91,10 @@
 |Open-source|Zhipu AI|GLM-Z1-Rumination-32B-0414|37.8%|88|
 |Commercial|Baichuan|Baichuan4-Air|36.7%|89|
 |Commercial|SenseTime|SenseChat-Turbo-1202|36.7%|90|
-|Commercial|openAI|o4-mini|36.7%|91|
+|Commercial|OpenAI|o4-mini|36.7%|91|
 |Open-source|Zhipu AI|GLM-Z1-9B-0414|35.0%|92|
 |Open-source|Microsoft|phi-4|34.0%|93|
-|Commercial|openAI|gpt-4.1-mini|33.3%|94|
+|Commercial|OpenAI|gpt-4.1-mini|33.3%|94|
 |Commercial|Mistral|mistral-small|33.0%|95|
 |Open-source|Google|gemma-3-12b-it|33.0%|96|
 |Open-source|Alibaba|Qwen3-1.7B|32.0%|97|
