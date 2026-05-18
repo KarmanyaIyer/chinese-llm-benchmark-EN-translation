@@ -1,0 +1,19 @@
+| Rank | Model | Vendor | Accuracy |
+|------|------|------|--------|
+| 1 | qwen3.5-plus | Alibaba | 66% |
+| 2 | gpt-5.4 | OpenAI | 63% |
+| 3 | gemini-3.1-pro-preview | Google | 63% |
+| 4 | claude-opus-4.6 | Anthropic | 61% |
+| 5 | Doubao-Seed-2.0-mini | ByteDance | 61% |
+| 6 | gpt-5.4-high | OpenAI | 61% |
+| 7 | Kimi-K2.5-Thinking | Moonshot | 60% |
+| 8 | Doubao-Seed-2.0-pro | ByteDance | 60% |
+| 9 | Qwen3.5-122B-A10B | Alibaba | 58% |
+| 10 | Doubao-Seed-2.0-lite | ByteDance | 58% |
+| 11 | gpt-5.3-chat | OpenAI | 56% |
+| 12 | ERNIE-5.0 | Baidu | 56% |
+| 13 | Qwen3.5-27B | Alibaba | 56% |
+| 14 | qwen3.5-flash | Alibaba | 56% |
+| 15 | gemini-3-flash-preview | Google | 53% |
+| 16 | gemini-3.1-flash-lite-preview | Google | 53% |
+| 17 | GLM-4.6V | Zhipu | 50% |
